@@ -8,8 +8,10 @@
 			"github": "LajnaLegenden/Stardew_Valley_Mods",
 
 			"brokeIn": "SMAPI 3.0",
-			"unofficialVersion": "1.0.1-unofficial.1-pathoschild",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-76#post-3342641"
+			"unofficialUpdate": {
+				"version": "1.0.1-unofficial.1-pathoschild",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-76#post-3342641"
+			}
 		},
 		{
 			"name": "24-Hour Clock Patcher, 24-Hour Clock Harmony",
@@ -223,8 +225,10 @@
 			"github": "pomepome/AdjustableStaminaHealing",
 
 			"brokeIn": "SMAPI 3.0",
-			"unofficialVersion": "1.0.5-unofficial.1-pathoschild",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-77#post-3343697"
+			"unofficialUpdate": {
+				"version": "1.0.5-unofficial.1-pathoschild",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-77#post-3343697"
+			}
 		},
 		{
 			"name": "Adjust Artisan Prices",
@@ -236,8 +240,10 @@
 
 			"brokeIn": "Stardew Valley 1.1",
 			/*
-			"unofficialVersion": "0.0.2-unofficial.3-pathoschild",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-61#post-3329038",
+			"unofficialUpdate": {
+				"version": "0.0.2-unofficial.3-pathoschild",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-61#post-3329038"
+			},
 			*/
 
 			"overrideModData": [
@@ -265,8 +271,10 @@
 
 			"brokeIn": "Stardew Valley 1.3"
 			/*
-			"unofficialVersion": "1.1.1-unofficial.1-ddgroves",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-70#post-3335226",
+			"unofficialUpdate": {
+				"version": "1.1.1-unofficial.1-ddgroves",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-70#post-3335226"
+			},
 			*/
 		},
 		{
@@ -295,8 +303,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.1.5-unofficial.2-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#AdvancedCooking"
+			"unofficialUpdate": {
+				"version": "0.1.5-unofficial.2-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#AdvancedCooking"
+			}
 		},
 		{
 			"name": "Advanced Fishing Treasure",
@@ -313,8 +323,10 @@
 			"nexus": 10934,
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.2.1-unofficial.3-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#AdvancedFluteBlocks"
+			"unofficialUpdate": {
+				"version": "0.2.1-unofficial.3-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#AdvancedFluteBlocks"
+			}
 		},
 		{
 			"name": "Advanced Key Bindings",
@@ -346,8 +358,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6", // @retest-linked
-			"unofficialVersion": "0.4.2-unofficial.1-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#AdvancedLootFramework"
+			"unofficialUpdate": {
+				"version": "0.4.2-unofficial.1-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#AdvancedLootFramework"
+			}
 		},
 		{
 			"name": "Advanced Machines, AdvMachines",
@@ -540,8 +554,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.3.2-unofficial.3-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#AllChestsMenu"
+			"unofficialUpdate": {
+				"version": "0.3.2-unofficial.3-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#AllChestsMenu"
+			}
 		},
 		{
 			"name": "All Crops All Seasons",
@@ -597,8 +613,10 @@
 			"status": "workaround",
 			"summary": "Consider using [[#Multitool|Multitool]] or [[#Auto Tool|Auto Tool]] instead.",
 			/*
-			"unofficialVersion": "1.2.2-unofficial.3.mizzion",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-18#post-3291454",
+			"unofficialUpdate": {
+				"version": "1.2.2-unofficial.3.mizzion",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-18#post-3291454"
+			},
 			*/
 
 			"overrideModData": [
@@ -654,8 +672,10 @@
 			"github": "funny-snek/Always-On-Server-for-Multiplayer",
 
 			"brokeIn": "Stardew Valley 1.4",
-			"unofficialVersion": "1.20.3-unofficial.3-mikko_perkele",
-			"unofficialUrl": "https://github.com/perkmi/Always-On-Server-for-Multiplayer"
+			"unofficialUpdate": {
+				"version": "1.20.3-unofficial.3-mikko_perkele",
+				"url": "https://github.com/perkmi/Always-On-Server-for-Multiplayer"
+			}
 		},
 		{
 			"name": "Always Organize Chests",
@@ -751,8 +771,10 @@
 
 			"brokeIn": "Stardew Valley 1.5"
 			/*
-			"unofficialVersion": "1.2.1-unofficial.1-Mizzion",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-78699",
+			"unofficialUpdate": {
+				"version": "1.2.1-unofficial.1-Mizzion",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-78699"
+			},
 			*/
 		},
 		{
@@ -894,8 +916,10 @@
 
 			"brokeIn": "Stardew Valley 1.3.11"
 			/*
-			"unofficialVersion": "1.1.1-unofficial.6-strobe",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-42227",
+			"unofficialUpdate": {
+				"version": "1.1.1-unofficial.6-strobe",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-42227"
+			},
 			*/
 		},
 		{
@@ -939,8 +963,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.1.1-unofficial.2-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#AnimatedParrotAndPerch"
+			"unofficialUpdate": {
+				"version": "0.1.1-unofficial.2-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#AnimatedParrotAndPerch"
+			}
 		},
 		{
 			"name": "Animated Portrait Framework",
@@ -996,8 +1022,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.7.2-unofficial.2-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#YetAnotherJumpMod"
+			"unofficialUpdate": {
+				"version": "0.7.2-unofficial.2-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#YetAnotherJumpMod"
+			}
 		},
 		{
 			"name": "Anti-Cheat Server",
@@ -1060,8 +1088,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-123821",
-			"unofficialVersion": "0.1.7-unofficial.1-FlyingTNT"
+			"unofficialUpdate": {
+				"version": "0.1.7-unofficial.1-FlyingTNT",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-123821"
+			}
 		},
 		{
 			"name": "A Quality Mod",
@@ -1272,8 +1302,10 @@
 
 			"brokeIn": "Stardew Valley 1.4"
 			/*
-			"unofficialVersion": "1.1.3-unofficial.1-mizzion",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-4.156000/page-37#post-3355322",
+			"unofficialUpdate": {
+				"version": "1.1.3-unofficial.1-mizzion",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-4.156000/page-37#post-3355322"
+			},
 			*/
 		},
 		{
@@ -1444,8 +1476,10 @@
 			"status": "workaround",
 			"summary": "use [[#Daily Screenshot|Daily Screenshot]] instead."
 			/*
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-23793",
-			"unofficialVersion": "1.0.1-unofficial.1-AevumDecessus",
+			"unofficialUpdate": {
+				"version": "1.0.1-unofficial.1-AevumDecessus",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-23793"
+			},
 			*/
 		},
 		{
@@ -1585,8 +1619,10 @@
 			"github": "azah/AutomatedDoors",
 
 			"brokeIn": "Stardew Valley 1.3",
-			"unofficialVersion": "1.4.3-unofficial.4-pickle",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-29685"
+			"unofficialUpdate": {
+				"version": "1.4.3-unofficial.4-pickle",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-29685"
+			}
 		},
 		{
 			"name": "Automate Tool Swap",
@@ -1812,8 +1848,10 @@
 			"github": "jacksonkimball/AVerySpecialBlueChicken",
 
 			"brokeIn": "Stardew Valley 1.5",
-			"unofficialVersion": "2.0.1-unofficial.1-strobe",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-44643"
+			"unofficialUpdate": {
+				"version": "2.0.1-unofficial.1-strobe",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-44643"
+			}
 		},
 		{
 			"name": "Avoid Losing Scepter",
@@ -1957,8 +1995,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.3.4-unofficial.4-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#BatForm"
+			"unofficialUpdate": {
+				"version": "0.3.4-unofficial.4-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#BatForm"
+			}
 		},
 		{
 			"name": "Battery Warning Mod",
@@ -2030,8 +2070,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-121068",
-			"unofficialVersion": "0.3.1-unofficial.2-FlyingTNT"
+			"unofficialUpdate": {
+				"version": "0.3.1-unofficial.2-FlyingTNT",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-121068"
+			}
 		},
 		{
 			"name": "Bee House Flower Range Fix",
@@ -2053,8 +2095,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.2.1-unofficial.3-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#BeePaths"
+			"unofficialUpdate": {
+				"version": "0.2.1-unofficial.3-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#BeePaths"
+			}
 		},
 		{
 			"name": "Befriend Marlon and Gunther",
@@ -2237,8 +2281,10 @@
 
 			"brokeIn": "Stardew Valley 1.4"
 			/*
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-41713",
-			"unofficialVersion": "1.0.3-unofficial.1-strobe",
+			"unofficialUpdate": {
+				"version": "1.0.3-unofficial.1-strobe",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-41713"
+			},
 			*/
 		},
 		{
@@ -2314,8 +2360,10 @@
 
 			"brokeIn": "Stardew Valley 1.4"
 			/*
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-41713",
-			"unofficialVersion": "2.6.1-unofficial.4-strobe",
+			"unofficialUpdate": {
+				"version": "2.6.1-unofficial.4-strobe",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-41713"
+			},
 			*/
 		},
 		{
@@ -2339,8 +2387,10 @@
 			"status": "workaround",
 			"summary": "use [[#Garden Pot Options|Garden Pot Options]] instead."
 			/*
-			"unofficialVersion": "1.6.1-unofficial.1-benjiismydog",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-79934",
+			"unofficialUpdate": {
+				"version": "1.6.1-unofficial.1-benjiismydog",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-79934"
+			},
 			*/
 		},
 		{
@@ -2361,8 +2411,10 @@
 			"github": "Kodfod/BetterHitboxStardew",
 
 			"brokeIn": "Stardew Valley 1.5",
-			"unofficialVersion": "1.1.1-unofficial.1-FloppyDingo",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-29692"
+			"unofficialUpdate": {
+				"version": "1.1.1-unofficial.1-FloppyDingo",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-29692"
+			}
 		},
 		{
 			"name": "Better Honey Mead",
@@ -2704,8 +2756,10 @@
 			"github": "AairTheGreat/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "1.0.8-unofficial.1-Sandman53",
-			"unofficialUrl": "https://github.com/Sandman534/StardewValleyMods/releases/tag/release"
+			"unofficialUpdate": {
+				"version": "1.0.8-unofficial.1-Sandman53",
+				"url": "https://github.com/Sandman534/StardewValleyMods/releases/tag/release"
+			}
 		},
 		{
 			"name": "Better Transmutation",
@@ -2895,8 +2949,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.1.1-unofficial.1-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#BirthdayBuff"
+			"unofficialUpdate": {
+				"version": "0.1.1-unofficial.1-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#BirthdayBuff"
+			}
 		},
 		{
 			"name": "Birthday Friendship, Birthday Knowledge Friendship",
@@ -2906,8 +2962,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.1.1-unofficial.1-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#BirthdayKnowledgeFriendship"
+			"unofficialUpdate": {
+				"version": "0.1.1-unofficial.1-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#BirthdayKnowledgeFriendship"
+			}
 		},
 		{
 			"name": "Birthday Mail",
@@ -3024,8 +3082,10 @@
 
 			"brokeIn": "Stardew Valley 1.5"
 			/*
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-74821",
-			"unofficialVersion": "1.4.3-unofficial.1-Vivan",
+			"unofficialUpdate": {
+				"version": "1.4.3-unofficial.1-Vivan",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-74821"
+			},
 			*/
 		},
 		{
@@ -3161,8 +3221,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "1.5.1-unofficial.1-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#BossCreatures"
+			"unofficialUpdate": {
+				"version": "1.5.1-unofficial.1-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#BossCreatures"
+			}
 		},
 		{
 			"name": "Bow",
@@ -3253,8 +3315,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.6.1-unofficial.7-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#BuffFramework"
+			"unofficialUpdate": {
+				"version": "0.6.1-unofficial.7-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#BuffFramework"
+			}
 		},
 		{
 			"name": "Buffs Last",
@@ -3319,8 +3383,10 @@
 			"github": "Smoked-Fish/AnythingAnywhere",
 
 			"brokeIn": "Stardew Valley 1.6.9",
-			"unofficialVersion": "1.8.2-unofficial.2-Sparky56p",
-			"unofficialUrl": "https://github.com/Sparky56p/AnythingAnywhere/releases"
+			"unofficialUpdate": {
+				"version": "1.8.2-unofficial.2-Sparky56p",
+				"url": "https://github.com/Sparky56p/AnythingAnywhere/releases"
+			}
 		},
 		{
 			"name": "Build Endurance",
@@ -3380,8 +3446,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.2.2-unofficial.2-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#BulkAnimalPurchase"
+			"unofficialUpdate": {
+				"version": "0.2.2-unofficial.2-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#BulkAnimalPurchase"
+			}
 		},
 		{
 			"name": "Bulk Buy",
@@ -3429,8 +3497,10 @@
 			"github": "hootless/StardewMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialUrl": "https://github.com/Xytronix/BusLocations/releases",
-			"unofficialVersion": "1.2.2-unofficial.1-Xytronix"
+			"unofficialUpdate": {
+				"version": "1.2.2-unofficial.1-Xytronix",
+				"url": "https://github.com/Xytronix/BusLocations/releases"
+			}
 		},
 		{
 			"name": "Bus Ticket Price",
@@ -3488,8 +3558,10 @@
 			"github": "Denifia/StardewMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialUrl": "[Buy cooking recipes](https://www.nexusmods.com/stardewvalley/mods/21137)",
-			"unofficialVersion": "2.1.1-unofficial.3"
+			"unofficialUpdate": {
+				"version": "2.1.1-unofficial.3",
+				"url": "[Buy cooking recipes](https://www.nexusmods.com/stardewvalley/mods/21137)"
+			}
 		},
 		{
 			"name": "Bwdyworks",
@@ -3746,8 +3818,10 @@
 			"status": "workaround",
 			"summary": "use [[#Better Chests|Better Chests]] or [[#Convenient Chests|Convenient Chests]] instead."
 			/*
-			"unofficialVersion": "1.4.3-unofficial.3.mizzion",
-			"unofficialUrl": "https://community.playstarbound.com/attachments/categorizechests-1-4-3-unofficial-3-mizzion-zip.204116/",
+			"unofficialUpdate": {
+				"version": "1.4.3-unofficial.3.mizzion",
+				"url": "https://community.playstarbound.com/attachments/categorizechests-1-4-3-unofficial-3-mizzion-zip.204116/"
+			},
 			*/
 		},
 		{
@@ -4036,8 +4110,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.1.1-unofficial.1-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#ChessBoards"
+			"unofficialUpdate": {
+				"version": "0.1.1-unofficial.1-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#ChessBoards"
+			}
 		},
 		{
 			"name": "Chest Displays",
@@ -4183,8 +4259,10 @@
 
 			"brokeIn": "Stardew Valley 1.5"
 			/*
-			"unofficialVersion": "1.2.1-unofficial.8-candidus42",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-68501",
+			"unofficialUpdate": {
+				"version": "1.2.1-unofficial.8-candidus42",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-68501"
+			},
 			*/
 		},
 		{
@@ -4380,8 +4458,10 @@
 			"github": "AbbyNode/StardewValley-CoalRegen",
 
 			"brokeIn": "Stardew Valley 1.3",
-			"unofficialVersion": "1.1.1-unofficial.2-Mizzion",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-65#post-3331467"
+			"unofficialUpdate": {
+				"version": "1.1.1-unofficial.2-Mizzion",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-65#post-3331467"
+			}
 		},
 		{
 			"name": "Cobalt",
@@ -4766,8 +4846,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.1.1-unofficial.1-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#ConnectedGardenPots"
+			"unofficialUpdate": {
+				"version": "0.1.1-unofficial.1-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#ConnectedGardenPots"
+			}
 		},
 		{
 			"name": "Consistent Tree Growth Speed",
@@ -5014,8 +5096,10 @@
 			"status": "workaround",
 			"summary": "use [[#Crab Net Redux|Crab Net Redux]] instead."
 			/*
-			"unofficialVersion": "1.1.1-unofficial.6-strobe",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-42227",
+			"unofficialUpdate": {
+				"version": "1.1.1-unofficial.6-strobe",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-42227"
+			},
 			*/
 		},
 		{
@@ -5048,8 +5132,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.1.1-unofficial.1-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#CraftableButterflyHutches"
+			"unofficialUpdate": {
+				"version": "0.1.1-unofficial.1-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#CraftableButterflyHutches"
+			}
 		},
 		{
 			"name": "Craftable Legendary Fish Mounts",
@@ -5069,8 +5155,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.1.3-unofficial.2-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#CraftableTerrarium"
+			"unofficialUpdate": {
+				"version": "0.1.3-unofficial.2-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#CraftableTerrarium"
+			}
 		},
 		{
 			"name": "Craft and Build from Containers, Craft From Containers",
@@ -5081,8 +5169,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.3.2-unofficial.1-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#CraftAndBuildFromContainers"
+			"unofficialUpdate": {
+				"version": "0.3.2-unofficial.1-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#CraftAndBuildFromContainers"
+			}
 		},
 		{
 			"name": "Craft Anything",
@@ -5270,8 +5360,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.1.1-unofficial.1-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#CropGrowthInfo"
+			"unofficialUpdate": {
+				"version": "0.1.1-unofficial.1-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#CropGrowthInfo"
+			}
 		},
 		{
 			"name": "Crop Harvest Bubbles",
@@ -5281,8 +5373,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-119392",
-			"unofficialVersion": "0.3.1-unofficial.1-logophile"
+			"unofficialUpdate": {
+				"version": "0.3.1-unofficial.1-logophile",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-119392"
+			}
 		},
 		{
 			"name": "Crop Hat",
@@ -5293,8 +5387,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.1.4-unofficial.1-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#CropHat"
+			"unofficialUpdate": {
+				"version": "0.1.4-unofficial.1-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#CropHat"
+			}
 		},
 		{
 			"name": "Crop Markers",
@@ -5304,8 +5400,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.2.1-unofficial.2-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#CropMarkers"
+			"unofficialUpdate": {
+				"version": "0.2.1-unofficial.2-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#CropMarkers"
+			}
 		},
 		{
 			"name": "Crop Safety",
@@ -5335,8 +5433,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.1.3-unofficial.3-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#CropsSurviveSeasonChange"
+			"unofficialUpdate": {
+				"version": "0.1.3-unofficial.3-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#CropsSurviveSeasonChange"
+			}
 		},
 		{
 			"name": "Crops Watered Indicator",
@@ -5373,8 +5473,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.2.6-unofficial.1-Logophile",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-117759"
+			"unofficialUpdate": {
+				"version": "0.2.6-unofficial.1-Logophile",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-117759"
+			}
 		},
 		{
 			"name": "Crop Walker",
@@ -5495,8 +5597,10 @@
 
 			"brokeIn": "Stardew Valley 1.5"
 			/*
-			"unofficialUrl": "https://github.com/lshtech/StardewMod-CustomSlayerChallenges/releases",
-			"unofficialVersion": "2.0.1-unofficial.1-eble",
+			"unofficialUpdate": {
+				"version": "2.0.1-unofficial.1-eble",
+				"url": "https://github.com/lshtech/StardewMod-CustomSlayerChallenges/releases"
+			},
 			*/
 		},
 		{
@@ -5741,8 +5845,10 @@
 			"summary": "remove this mod (no longer maintained; use [[#Producer Framework Mod|Producer Framework Mod]] instead.",
 			"brokeIn": "Stardew Valley 1.4.4" // @retest-linked
 			/*
-			"unofficialVersion": "2.12.10-unofficial.1-minervamaga",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-4.156000/page-26#post-3354284",
+			"unofficialUpdate": {
+				"version": "2.12.10-unofficial.1-minervamaga",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-4.156000/page-26#post-3354284"
+			},
 			*/
 		},
 		{
@@ -5756,8 +5862,10 @@
 			"status": "abandoned",
 			"summary": "remove this mod (no longer maintained; use [[#Producer Framework Mod → PFMAutomate|Producer Framework Mod → PFMAutomate]] instead."
 			/*
-			"unofficialVersion": "2.12.10-unofficial.1-minervamaga",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-4.156000/page-26#post-3354284",
+			"unofficialUpdate": {
+				"version": "2.12.10-unofficial.1-minervamaga",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-4.156000/page-26#post-3354284"
+			},
 			*/
 		},
 		{
@@ -5881,8 +5989,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.1.1-unofficial.1-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#CustomHay"
+			"unofficialUpdate": {
+				"version": "0.1.1-unofficial.1-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#CustomHay"
+			}
 		},
 		{
 			"name": "Custom Home Music, Zelink's ZeldaHome",
@@ -6314,8 +6424,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-121068",
-			"unofficialVersion": "0.3.6-unofficial.1-FlyingTNT"
+			"unofficialUpdate": {
+				"version": "0.3.6-unofficial.1-FlyingTNT",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-121068"
+			}
 		},
 		{
 			"name": "Custom Spouse Patio Wizard",
@@ -6338,8 +6450,10 @@
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
 			"summary": "use [[#Custom Spouse Rooms - Continued|Custom Spouse Rooms - Continued]] or [unofficial update](https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-123184) instead.",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-123184",
-			"unofficialVersion": "0.8.3-unofficial.1-FlyingTNT"
+			"unofficialUpdate": {
+				"version": "0.8.3-unofficial.1-FlyingTNT",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-123184"
+			}
 		},
 		{
 			"name": "Custom Spouse Rooms - Continued",
@@ -6358,8 +6472,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.1.1-unofficial.1-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#CustomStarterFurniture"
+			"unofficialUpdate": {
+				"version": "0.1.1-unofficial.1-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#CustomStarterFurniture"
+			}
 		},
 		{
 			"name": "Custom Starter Package",
@@ -6370,8 +6486,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.2.1-unofficial.2-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#CustomStarterPackage"
+			"unofficialUpdate": {
+				"version": "0.2.1-unofficial.2-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#CustomStarterPackage"
+			}
 		},
 		{
 			"name": "Custom Tapper Framework",
@@ -6396,8 +6514,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.1.2-unofficial.1-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#CustomToolbar"
+			"unofficialUpdate": {
+				"version": "0.1.2-unofficial.1-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#CustomToolbar"
+			}
 		},
 		{
 			"name": "Custom Tool Effect",
@@ -6608,8 +6728,10 @@
 			"status": "abandoned",
 			"summary": "remove this mod (no longer maintained; use [[#Stardew Notifications|Stardew Notifications]] instead)."
 			/*
-			"unofficialUrl": "https://community.playstarbound.com/attachments/eventnotifications-1-2-1-unofficial-3-f4ith-zip.201340",
-			"unofficialVersion": "1.2.1-unofficial.3-f4ith",
+			"unofficialUpdate": {
+				"version": "1.2.1-unofficial.3-f4ith",
+				"url": "https://community.playstarbound.com/attachments/eventnotifications-1-2-1-unofficial-3-f4ith-zip.201340"
+			},
 			*/
 		},
 		{
@@ -6673,8 +6795,10 @@
 
 			"brokeIn": "Stardew Valley 1.4"
 			/*
-			"unofficialVersion": "1.4.2-unofficial.8-prism99",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-56142",
+			"unofficialUpdate": {
+				"version": "1.4.2-unofficial.8-prism99",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-56142"
+			},
 			*/
 		},
 		{
@@ -6861,8 +6985,10 @@
 			"github": "AxesOfEvil/SV_DeliveryService",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.10.3-unofficial.1-curtiola",
-			"unofficialUrl": "https://github.com/Curtiola/SV_DeliveryService/releases"
+			"unofficialUpdate": {
+				"version": "0.10.3-unofficial.1-curtiola",
+				"url": "https://github.com/Curtiola/SV_DeliveryService/releases"
+			}
 		},
 		{
 			"name": "Delivery Upgrade Tool",
@@ -7336,8 +7462,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.1.1-unofficial.1-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#Dreamscape"
+			"unofficialUpdate": {
+				"version": "0.1.1-unofficial.1-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#Dreamscape"
+			}
 		},
 		{
 			"name": "Dresser Sorter",
@@ -7463,8 +7591,10 @@
 			"status": "workaround",
 			"summary": "use [[#Daily Tasks Report|Daily Tasks Report]] instead."
 			/*
-			"unofficialVersion": "1.0.2-unofficial.1-Mizzion",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-61#post-3329010",
+			"unofficialUpdate": {
+				"version": "1.0.2-unofficial.1-Mizzion",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-61#post-3329010"
+			},
 			*/
 		},
 		{
@@ -7949,8 +8079,10 @@
 
 			"brokeIn": "Stardew Valley 1.5"
 			/*
-			"unofficialVersion": "1.2.0-unofficial.kokirichild",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-77618",
+			"unofficialUpdate": {
+				"version": "1.2.0-unofficial.kokirichild",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-77618"
+			},
 			*/
 		},
 		{
@@ -8081,8 +8213,10 @@
 			"source": "https://gitlab.com/speeder1/SMAPIHealthbarMod",
 
 			"brokeIn": "Stardew Valley 1.5",
-			"unofficialVersion": "1.9.2-unofficial.3-JoXW",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-123209",
+			"unofficialUpdate": {
+				"version": "1.9.2-unofficial.3-JoXW",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-123209"
+			},
 
 			"overrideModData": [
 				{
@@ -8128,8 +8262,10 @@
 			"source": "https://gitlab.com/nikperic/energytime",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "1.4.2-unofficial.2-huancz",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-138720"
+			"unofficialUpdate": {
+				"version": "1.4.2-unofficial.2-huancz",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-138720"
+			}
 		},
 		{
 			"name": "Enhanced Loot Magnet, Magnet Mod",
@@ -8140,8 +8276,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "1.2.1-unofficial.1-hirayuki",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-129627"
+			"unofficialUpdate": {
+				"version": "1.2.1-unofficial.1-hirayuki",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-129627"
+			}
 		},
 		{
 			"name": "Enhanced Relationships",
@@ -8436,8 +8574,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "SMAPI 4.0.8",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-134928",
-			"unofficialVersion": "0.3.2-unofficial.1-greg6"
+			"unofficialUpdate": {
+				"version": "0.3.2-unofficial.1-greg6",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-134928"
+			}
 		},
 		{
 			"name": "Extended Bus System",
@@ -8460,8 +8600,10 @@
 			"status": "workaround",
 			"summary": "use [[#Remote Fridge Storage|Remote Fridge Storage]] instead."
 			/*
-			"unofficialVersion": "1.1.1-unofficial.4.mizzion",
-			"unofficialUrl": "https://community.playstarbound.com/attachments/extendedfridge-1-1-1-unofficial-4-mizzion-zip.202825/",
+			"unofficialUpdate": {
+				"version": "1.1.1-unofficial.4.mizzion",
+				"url": "https://community.playstarbound.com/attachments/extendedfridge-1-1-1-unofficial-4-mizzion-zip.202825/"
+			},
 			*/
 		},
 		{
@@ -8486,8 +8628,10 @@
 			"github": "spacechase0/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "1.2.5-unofficial.1-p1xel8ted",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-123560"
+			"unofficialUpdate": {
+				"version": "1.2.5-unofficial.1-p1xel8ted",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-123560"
+			}
 		},
 		{
 			"name": "Extra Animal Configs",
@@ -8631,8 +8775,10 @@
 
 			"brokeIn": "Stardew Valley 1.6"
 			/*
-			"unofficialVersion": "1.3.3-unofficial.1-pathoschild",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-13203",
+			"unofficialUpdate": {
+				"version": "1.3.3-unofficial.1-pathoschild",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-13203"
+			},
 			*/
 		},
 		{
@@ -9244,8 +9390,10 @@
 			"github": "KirbyLink/FestivalEndTimeTweak",
 
 			"brokeIn": "SMAPI 3.0",
-			"unofficialVersion": "1.2.1-unofficial.2-speshkitty",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-133711"
+			"unofficialUpdate": {
+				"version": "1.2.1-unofficial.2-speshkitty",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-133711"
+			}
 		},
 		{
 			"name": "Festival of the Mundane",
@@ -9256,8 +9404,10 @@
 
 			"brokeIn": "Stardew Valley 1.6.9"
 			/*
-			"unofficialVersion": "1.1.3-unofficial.1-LikeFrogs",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-123587",
+			"unofficialUpdate": {
+				"version": "1.1.3-unofficial.1-LikeFrogs",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-123587"
+			},
 			*/
 		},
 		{
@@ -9269,7 +9419,10 @@
 
 			"brokeIn": "Stardew Valley 1.4"
 			/*
-			"unofficialVersion": "1.0.1-unofficial.2-digus",
+			"unofficialUpdate": {
+				"version": "1.0.1-unofficial.2-digus",
+				"url": ""
+			}
 			*/
 		},
 		{
@@ -9354,8 +9507,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.1.1-unofficial.2-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#FireBreath"
+			"unofficialUpdate": {
+				"version": "0.1.1-unofficial.2-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#FireBreath"
+			}
 		},
 		{
 			"name": "Fire Crackers, Firecracker Mod",
@@ -9459,8 +9614,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6", // @retest-after Advanced Loot Framework
-			"unofficialVersion": "0.4.3-unofficial.3-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#FishingChestsExpanded"
+			"unofficialUpdate": {
+				"version": "0.4.3-unofficial.3-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#FishingChestsExpanded"
+			}
 		},
 		{
 			"name": "Fishing Don't Stop Time",
@@ -9653,8 +9810,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialUrl": "https://github.com/Rogue-Toast/Aedenthorn-StardewValleyMods/releases",
-			"unofficialVersion": "0.1.2-unofficial.1-logophile"
+			"unofficialUpdate": {
+				"version": "0.1.2-unofficial.1-logophile",
+				"url": "https://github.com/Rogue-Toast/Aedenthorn-StardewValleyMods/releases"
+			}
 		},
 		{
 			"name": "Fish Tank Bubble Toggle, Star Amy's Bubble Toggle",
@@ -9806,8 +9965,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.1.1-unofficial.1-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#FloatingGardenPots"
+			"unofficialUpdate": {
+				"version": "0.1.1-unofficial.1-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#FloatingGardenPots"
+			}
 		},
 		{
 			"name": "FLO - New Custom NPC, FlorenceMod",
@@ -9995,8 +10156,10 @@
 			"status": "workaround",
 			"summary": "use [[#Farm Type Manager|Farm Type Manager]] instead."
 			/*
-			"unofficialVersion": "1.9.1-unofficial.1-Olivki",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-39#post-3317761",
+			"unofficialUpdate": {
+				"version": "1.9.1-unofficial.1-Olivki",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-39#post-3317761"
+			},
 			*/
 		},
 		{
@@ -10100,8 +10263,10 @@
 
 			"brokeIn": "Stardew Valley 1.4"
 			/*
-			"unofficialVersion": "1.0.7.unofficial-2.strobe",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-42360",
+			"unofficialUpdate": {
+				"version": "1.0.7.unofficial-2.strobe",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-42360"
+			},
 			*/
 		},
 		{
@@ -10123,8 +10288,10 @@
 			"status": "workaround",
 			"summary": "Use [[#Polyamory Sweet → Polyamory Kiss|Polyamory Sweet → Polyamory Kiss]] instead."
 			/*
-			"unofficialVersion": "1.2.10-unofficial.2-LKbosss",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-123155",
+			"unofficialUpdate": {
+				"version": "1.2.10-unofficial.2-LKbosss",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-123155"
+			},
 			"summary": "Use [unofficial update](https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-123155) or [[#Polyamory Sweet → Polyamory Kiss|Polyamory Sweet → Polyamory Kiss]] instead.",
 			*/
 		},
@@ -10439,8 +10606,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.1.1-unofficial.1-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#GalaxyWeaponChoice"
+			"unofficialUpdate": {
+				"version": "0.1.1-unofficial.1-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#GalaxyWeaponChoice"
+			}
 		},
 		{
 			"name": "Gameboy Arcade",
@@ -10610,8 +10779,10 @@
 
 			"brokeIn": "Stardew Valley 1.4"
 			/*
-			"unofficialVersion": "0.1.5-unofficial.1-mouseypounds",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-4.156000/page-41#post-3355598",
+			"unofficialUpdate": {
+				"version": "0.1.5-unofficial.1-mouseypounds",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-4.156000/page-41#post-3355598"
+			},
 			*/
 		},
 		{
@@ -10655,8 +10826,10 @@
 
 			"brokeIn": "Stardew Valley 1.5"
 			/*
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-41713",
-			"unofficialVersion": "1.5.3-unofficial.1-strobe",
+			"unofficialUpdate": {
+				"version": "1.5.3-unofficial.1-strobe",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-41713"
+			},
 			*/
 		},
 		{
@@ -10765,8 +10938,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialUrl": "https://github.com/Rogue-Toast/Aedenthorn-StardewValleyMods/releases",
-			"unofficialVersion": "0.1.1-unofficial.1-logophile"
+			"unofficialUpdate": {
+				"version": "0.1.1-unofficial.1-logophile",
+				"url": "https://github.com/Rogue-Toast/Aedenthorn-StardewValleyMods/releases"
+			}
 		},
 		{
 			"name": "Gift Taste Helper",
@@ -11033,8 +11208,10 @@
 			"github": null,
 
 			"brokeIn": "SMAPI 3.0",
-			"unofficialVersion": "1.0.1-unofficial.1-art17",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-4.156000/page-32#post-3354836"
+			"unofficialUpdate": {
+				"version": "1.0.1-unofficial.1-art17",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-4.156000/page-32#post-3354836"
+			}
 		},
 		{
 			"name": "Greenhouse Construction",
@@ -11664,8 +11841,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.4.1-unofficial.1-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#HereFishy"
+			"unofficialUpdate": {
+				"version": "0.4.1-unofficial.1-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#HereFishy"
+			}
 		},
 		{
 			"name": "Hibernation",
@@ -12055,8 +12234,10 @@
 			"github": "veleek/IdlePause",
 
 			"brokeIn": "Stardew Valley 1.4",
-			"unofficialVersion": "1.2.2-unofficial.1-pathoschild",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-4.156000/#post-3345058"
+			"unofficialUpdate": {
+				"version": "1.2.2-unofficial.1-pathoschild",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-4.156000/#post-3345058"
+			}
 		},
 		{
 			"name": "Idle Timer",
@@ -12335,8 +12516,10 @@
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
 			"summary": "use [unofficial update](https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-123243) or [Informant - The Tooltip Labels](https://www.nexusmods.com/stardewvalley/mods/21286) instead.",
-			"unofficialVersion": "1.4.1-unofficial.1-dropkicker",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-123243"
+			"unofficialUpdate": {
+				"version": "1.4.1-unofficial.1-dropkicker",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-123243"
+			}
 		},
 		{
 			"name": "In-Game SMAPI Log Uploader, Log Uploader",
@@ -12416,8 +12599,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.2.1-unofficial.1-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#InstantBuildingConstructionAndUpgrade"
+			"unofficialUpdate": {
+				"version": "0.2.1-unofficial.1-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#InstantBuildingConstructionAndUpgrade"
+			}
 		},
 		{
 			"name": "Instant Buildings From Farm",
@@ -12551,8 +12736,10 @@
 
 			"brokeIn": "SMAPI 2.0"
 			/*
-			"unofficialVersion": "1.0.4-unofficial.2-pathoschild",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-77#post-3343190",
+			"unofficialUpdate": {
+				"version": "1.0.4-unofficial.2-pathoschild",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-77#post-3343190"
+			},
 			*/
 		},
 		{
@@ -12998,8 +13185,10 @@
 			"status": "workaround",
 			"summary": "use [[#Glory Of Efficiency|Glory Of Efficiency]] instead."
 			/*
-			"unofficialVersion": "1.5.0-unofficial.7-Hackswell",
-			"unofficialUrl": "https://github.com/Hackswell/GloryOfEfficiency/releases",
+			"unofficialUpdate": {
+				"version": "1.5.0-unofficial.7-Hackswell",
+				"url": "https://github.com/Hackswell/GloryOfEfficiency/releases"
+			},
 			*/
 		},
 		{
@@ -13570,8 +13759,10 @@
 			"github": "jahangmar/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-129830",
-			"unofficialVersion": "1.1.1-unofficial.4"
+			"unofficialUpdate": {
+				"version": "1.1.1-unofficial.4",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-129830"
+			}
 		},
 		{
 			"name": "Level Up Notifications",
@@ -13733,8 +13924,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.2.2-unofficial.1-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#LivestockChoices"
+			"unofficialUpdate": {
+				"version": "0.2.2-unofficial.1-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#LivestockChoices"
+			}
 		},
 		{
 			"name": "Loan Mod",
@@ -13975,8 +14168,10 @@
 
 			"brokeIn": "Stardew Valley 1.3.29"
 			/*
-			"unofficialVersion": "2.2.2-unofficial.4-Strobe",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-22548",
+			"unofficialUpdate": {
+				"version": "2.2.2-unofficial.4-Strobe",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-22548"
+			},
 			*/
 		},
 		{
@@ -14206,8 +14401,10 @@
 
 			"brokeIn": "Stardew Valley 1.3.29"
 			/*
-			"unofficialVersion": "1.1.1-unofficial.6-strobe",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-44728",
+			"unofficialUpdate": {
+				"version": "1.1.1-unofficial.6-strobe",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-44728"
+			},
 			*/
 		},
 		{
@@ -14449,8 +14646,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.1.1-unofficial.1-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#MayoMart"
+			"unofficialUpdate": {
+				"version": "0.1.1-unofficial.1-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#MayoMart"
+			}
 		},
 		{
 			"name": "Mayonnaise++, Mayonnaise Plus Plus",
@@ -14647,8 +14846,10 @@
 			"status": "workaround",
 			"summary": "use [[#Farm Type Manager|Farm Type Manager]] instead."
 			/*
-			"unofficialVersion": "1.9.1-unofficial.1.1-Olivki",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-36#post-3317429",
+			"unofficialUpdate": {
+				"version": "1.9.1-unofficial.1.1-Olivki",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-36#post-3317429"
+			},
 			*/
 		},
 		{
@@ -14875,8 +15076,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.9.1-unofficial.1-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#ModifyThis"
+			"unofficialUpdate": {
+				"version": "0.9.1-unofficial.1-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#ModifyThis"
+			}
 		},
 		{
 			"name": "Mod List Command",
@@ -14931,8 +15134,10 @@
 			"github": "danvolchek/StardewMods",
 
 			"brokeIn": "Stardew Valley 1.5",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-148313",
-			"unofficialVersion": "1.6.1-unofficial-2.dphill"
+			"unofficialUpdate": {
+				"version": "1.6.1-unofficial-2.dphill",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-148313"
+			}
 		},
 		{
 			"name": "Mod Updater",
@@ -15140,8 +15345,10 @@
 			"status": "workaround",
 			"summary": "use [[#Increased Artifact Spots|Increased Artifact Spots]] instead."
 			/*
-			"unofficialVersion": "2.0.1-unofficial.1-IQ",
-			"unofficialUrl": "https://community.playstarbound.com/attachments/moreartifactspot-2-0-1-unofficial-1-iq-zip.201158",
+			"unofficialUpdate": {
+				"version": "2.0.1-unofficial.1-IQ",
+				"url": "https://community.playstarbound.com/attachments/moreartifactspot-2-0-1-unofficial-1-iq-zip.201158"
+			},
 			*/
 		},
 		{
@@ -15483,8 +15690,10 @@
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "abandoned",
 			"summary": "remove this mod (no longer maintained; use [unofficial update](https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-130131) instead).",
-			"unofficialVersion": "1.1.0-unofficial.3-CyanFire",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-130131"
+			"unofficialUpdate": {
+				"version": "1.1.0-unofficial.3-CyanFire",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-130131"
+			}
 		},
 		{
 			"name": "mouahrara's Module Collection",
@@ -15526,8 +15735,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.2.1-unofficial.2-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#MoveableMailbox"
+			"unofficialUpdate": {
+				"version": "0.2.1-unofficial.2-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#MoveableMailbox"
+			}
 		},
 		{
 			"name": "Moveable Pet Bowl",
@@ -15805,8 +16016,10 @@
 			"devNote": "source in separate Git branch; GitHub repo outdated (see issue #11)",
 
 			"brokeIn": "Stardew Valley 1.4",
-			"unofficialVersion": "1.0.3-unofficial.1-SorryLate",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-4.156000/page-52#post-3357251"
+			"unofficialUpdate": {
+				"version": "1.0.3-unofficial.1-SorryLate",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-4.156000/page-52#post-3357251"
+			}
 		},
 		{
 			"name": "Multiplayer Time",
@@ -15850,8 +16063,10 @@
 
 			"brokeIn": "SMAPI 3.0"
 			/*
-			"unofficialVersion": "1.0.1-unofficial.1-pathoschild",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-79#post-3345219",
+			"unofficialUpdate": {
+				"version": "1.0.1-unofficial.1-pathoschild",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-79#post-3345219"
+			},
 			*/
 		},
 		{
@@ -15877,8 +16092,10 @@
 			"github": "ceruleandeep/CeruleanStardewMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "1.2.5-unofficial.1-AnotherPillow",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/page-237#post-138263"
+			"unofficialUpdate": {
+				"version": "1.2.5-unofficial.1-AnotherPillow",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/page-237#post-138263"
+			}
 		},
 		{
 			"name": "Multiple Spouses",
@@ -15927,8 +16144,10 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"summary": "use [unofficial update](https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-123241) or [[#Multi Save - Continued|Multi Save - Continued]] instead.",
-			"unofficialVersion": "0.1.9-unofficial.1-GrimatGaming",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-123241"
+			"unofficialUpdate": {
+				"version": "0.1.9-unofficial.1-GrimatGaming",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-123241"
+			}
 		},
 		{
 			"name": "Multi Save - Continued",
@@ -15990,8 +16209,10 @@
 			"brokeIn": "Stardew Valley 1.5",
 			"status": "workaround",
 			"summary": "use [[#Personal Combat Drone Redux|Personal Combat Drone Redux]] or [unofficial update](https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-104637) instead.",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-104637",
-			"unofficialVersion": "0.0.7-unofficial.5-prism99"
+			"unofficialUpdate": {
+				"version": "0.0.7-unofficial.5-prism99",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-104637"
+			}
 		},
 		{
 			"name": "Murder Mod",
@@ -16155,8 +16376,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.1.4-unofficial.1-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#NapalmMummies"
+			"unofficialUpdate": {
+				"version": "0.1.4-unofficial.1-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#NapalmMummies"
+			}
 		},
 		{
 			"name": "Nature Strikes Back",
@@ -16276,8 +16499,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.1.1-unofficial.1-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#NightEventChanceTweak"
+			"unofficialUpdate": {
+				"version": "0.1.1-unofficial.1-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#NightEventChanceTweak"
+			}
 		},
 		{
 			"name": "Night Light",
@@ -16442,8 +16667,10 @@
 			"status": "workaround",
 			"summary": "use [[#CJB Cheats Menu|CJB Cheats Menu]] or [[#No Friendship Decay - Reborn|No Friendship Decay - Reborn]] instead."
 			/*
-			"unofficialVersion": "1.1.2-unofficial.1-f4ith",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-3#post-3273371",
+			"unofficialUpdate": {
+				"version": "1.1.2-unofficial.1-f4ith",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-3#post-3273371"
+			},
 			*/
 		},
 		{
@@ -16934,8 +17161,10 @@
 			"github": "lambui/StardewValleyMod_OmniFarm",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "2.0.5-unofficial.2-glimmerDev",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-121265"
+			"unofficialUpdate": {
+				"version": "2.0.5-unofficial.2-glimmerDev",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-121265"
+			}
 		},
 		{
 			"name": "Omni Swing",
@@ -16953,8 +17182,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-123180",
-			"unofficialVersion": "0.8.3-unofficial.3-aschismatism"
+			"unofficialUpdate": {
+				"version": "0.8.3-unofficial.3-aschismatism",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-123180"
+			}
 		},
 		{
 			"name": "One Click Shed Reloader",
@@ -17148,8 +17379,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6", // @retest-after Advanced Loot Framework
-			"unofficialVersion": "0.5.4-unofficial.2-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#OverworldChests"
+			"unofficialUpdate": {
+				"version": "0.5.4-unofficial.2-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#OverworldChests"
+			}
 		},
 		{
 			"name": "OwO Stawdew Vawwey",
@@ -17248,8 +17481,10 @@
 
 			"brokeIn": "Stardew Valley 1.4" // @retest-linked
 			/*
-			"unofficialVersion": "3.2.4-unofficial.kelvinrosa-mouseypounds-elbe",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-47274",
+			"unofficialUpdate": {
+				"version": "3.2.4-unofficial.kelvinrosa-mouseypounds-elbe",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-47274"
+			},
 			*/
 		},
 		{
@@ -17261,8 +17496,10 @@
 
 			"brokeIn": "Stardew Valley 1.4"
 			/*
-			"unofficialVersion": "1.1.2-unofficial.2-Strobe",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-29316",
+			"unofficialUpdate": {
+				"version": "1.1.2-unofficial.2-Strobe",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-29316"
+			},
 			*/
 		},
 		{
@@ -17290,8 +17527,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.2.2-unofficial.1-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#PartialHearts"
+			"unofficialUpdate": {
+				"version": "0.2.2-unofficial.1-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#PartialHearts"
+			}
 		},
 		{
 			"name": "Particle Effects",
@@ -17339,8 +17578,10 @@
 			"github": "joelra/SDV-PassableLadders",
 
 			"brokeIn": "Stardew Valley 1.4",
-			"unofficialVersion": "1.1.1-unofficial.1-Drake1427",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-4.156000/page-5#post-3352839"
+			"unofficialUpdate": {
+				"version": "1.1.1-unofficial.1-Drake1427",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-4.156000/page-5#post-3352839"
+			}
 		},
 		{
 			"name": "Passable Objects",
@@ -17417,8 +17658,10 @@
 
 			"brokeIn": "Stardew Valley 1.3.11"
 			/*
-			"unofficialVersion": "3.1.1-unofficial.11-strobe",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-45215",
+			"unofficialUpdate": {
+				"version": "3.1.1-unofficial.11-strobe",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-45215"
+			},
 			*/
 		},
 		{
@@ -17430,8 +17673,10 @@
 
 			"brokeIn": "Stardew Valley 1.4"
 			/*
-			"unofficialVersion": "1.0.7-unofficial.1-Strobe",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-4.156000/page-54#post-3357484",
+			"unofficialUpdate": {
+				"version": "1.0.7-unofficial.1-Strobe",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-4.156000/page-54#post-3357484"
+			},
 			*/
 		},
 		{
@@ -17665,8 +17910,10 @@
 
 			"brokeIn": "Stardew Valley 1.4"
 			/*
-			"unofficialVersion": "1.1.1.unofficial-3.strobe",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-42356",
+			"unofficialUpdate": {
+				"version": "1.1.1.unofficial-3.strobe",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-42356"
+			},
 			*/
 		},
 		{
@@ -17681,8 +17928,10 @@
 			"status": "workaround",
 			"summary": "use [[#Pet Interaction|Pet Interaction]] instead."
 			/*
-			"unofficialVersion": "0.0.2-unofficial.2-pathoschild",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-63#post-3330575",
+			"unofficialUpdate": {
+				"version": "0.0.2-unofficial.2-pathoschild",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-63#post-3330575"
+			},
 			*/
 		},
 		{
@@ -18068,8 +18317,10 @@
 			"status": "workaround",
 			"summary": "Use [[#Smart Building|Smart Building]] instead."
 			/*
-			"unofficialVersion": "1.1.1-unofficial.5-strobe",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-42227",
+			"unofficialUpdate": {
+				"version": "1.1.1-unofficial.5-strobe",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-42227"
+			},
 			*/
 		},
 		{
@@ -18329,8 +18580,10 @@
 			"github": "mucchan/sv-mod-prairie-king",
 
 			"brokeIn": "Stardew Valley 1.2",
-			"unofficialVersion": "1.0.1-unofficial.2-pathoschild",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-55#post-3324503"
+			"unofficialUpdate": {
+				"version": "1.0.1-unofficial.2-pathoschild",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-55#post-3324503"
+			}
 		},
 		{
 			"name": "Prairie King Prizes (Lootboxes)",
@@ -18546,8 +18799,10 @@
 
 			"brokeIn": "Stardew Valley 1.4"
 			/*
-			"unofficialVersion": "1.0.8-unofficial.1-ResidentDonna",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-4.156000/page-18#post-3353768",
+			"unofficialUpdate": {
+				"version": "1.0.8-unofficial.1-ResidentDonna",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-4.156000/page-18#post-3353768"
+			},
 			*/
 		},
 		{
@@ -18662,8 +18917,10 @@
 			"summary": "use [[#Pristmatic Tools Continued|Pristmatic Tools Continued]] instead."
 			/*
 			"status": "workaround",
-			"unofficialVersion": "1.7.1-unofficial.12-pathoschild",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-73767",
+			"unofficialUpdate": {
+				"version": "1.7.1-unofficial.12-pathoschild",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-73767"
+			},
 			*/
 		},
 		{
@@ -18854,8 +19111,10 @@
 			"status": "workaround",
 			"summary": "use [[#Buy Cooking Recipes|Buy Cooking Recipes]] or [[#TV Recipes|TV Recipes]] instead."
 			/*
-			"unofficialVersion": "1.0.1-unofficial.3.mizzion",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-17#post-3289499",
+			"unofficialUpdate": {
+				"version": "1.0.1-unofficial.3.mizzion",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-17#post-3289499"
+			},
 			*/
 		},
 		{
@@ -19256,8 +19515,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.1.2-unofficial.1-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#RainbowTrail"
+			"unofficialUpdate": {
+				"version": "0.1.2-unofficial.1-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#RainbowTrail"
+			}
 		},
 		{
 			"name": "Raincoat When Raining",
@@ -19381,8 +19642,10 @@
 
 			"brokeIn": "SMAPI 3.0"
 			/*
-			"unofficialVersion": "1.0.1-unofficial.1-pathoschild",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-79#post-3345023",
+			"unofficialUpdate": {
+				"version": "1.0.1-unofficial.1-pathoschild",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-79#post-3345023"
+			},
 			*/
 		},
 		{
@@ -19456,8 +19719,10 @@
 
 			"brokeIn": "Stardew Valley 1.3.29"
 			/*
-			"unofficialVersion": "1.2.3-unofficial.3-Mizzion",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-70#post-3334907",
+			"unofficialUpdate": {
+				"version": "1.2.3-unofficial.3-Mizzion",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-70#post-3334907"
+			},
 			*/
 		},
 		{
@@ -19706,8 +19971,10 @@
 
 			"brokeIn": "SMAPI 3.0"
 			/*
-			"unofficialVersion": "1.1-beta.2-unofficial.1-pathoschild",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-79#post-3345224",
+			"unofficialUpdate": {
+				"version": "1.1-beta.2-unofficial.1-pathoschild",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-79#post-3345224"
+			},
 			*/
 		},
 		{
@@ -19849,8 +20116,10 @@
 			"github": "Jarvie8176/StardewMods",
 
 			"brokeIn": "Stardew Valley 1.4",
-			"unofficialVersion": "1.2.2-unofficial.1-pathoschild",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-4.156000/#post-3346341"
+			"unofficialUpdate": {
+				"version": "1.2.2-unofficial.1-pathoschild",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-4.156000/#post-3346341"
+			}
 		},
 		{
 			"name": "Rented Tools Improved",
@@ -19882,8 +20151,10 @@
 
 			"brokeIn": "Stardew Valley 1.3.29"
 			/*
-			"unofficialVersion": "1.1.1-unofficial.5-strobe",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-42227",
+			"unofficialUpdate": {
+				"version": "1.1.1-unofficial.5-strobe",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-42227"
+			},
 			*/
 		},
 		{
@@ -19922,8 +20193,10 @@
 			"github": null,
 
 			"brokeIn": "Stardew Valley 1.5",
-			"unofficialVersion": "1.0.3-unofficial.3-Lake1059",
-			"unofficialUrl": "https://github.com/Lake1059/ResetTerrainFeatures_NET6/releases"
+			"unofficialUpdate": {
+				"version": "1.0.3-unofficial.3-Lake1059",
+				"url": "https://github.com/Lake1059/ResetTerrainFeatures_NET6/releases"
+			}
 		},
 		{
 			"name": "Re-Skin Any to Any Weapon Type",
@@ -20090,8 +20363,10 @@
 			"status": "workaround",
 			"summary": "Use [[#Just Sleep In|Just Sleep In]] instead."
 			/*
-			"unofficialVersion": "1.1.1-whisk-update",
-			"unofficialUrl": "https://community.playstarbound.com/threads/how-to-update-mods-for-smapi-2-0.135000/page-5#post-3237772",
+			"unofficialUpdate": {
+				"version": "1.1.1-whisk-update",
+				"url": "https://community.playstarbound.com/threads/how-to-update-mods-for-smapi-2-0.135000/page-5#post-3237772"
+			},
 			*/
 		},
 		{
@@ -20150,8 +20425,10 @@
 			"github": "StephenKairos/Teban100-StardewMods",
 
 			"brokeIn": "SMAPI 2.6",
-			"unofficialVersion": "1.0.1-unofficial.5-pathoschild",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-117099"
+			"unofficialUpdate": {
+				"version": "1.0.1-unofficial.5-pathoschild",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-117099"
+			}
 		},
 		{
 			"name": "Rotate Toolbar",
@@ -20226,8 +20503,10 @@
 			"github": "Dawilly/SAAT",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "1.1.3-unofficial.1-p1xel8ted",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-121255"
+			"unofficialUpdate": {
+				"version": "1.1.3-unofficial.1-p1xel8ted",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-121255"
+			}
 		},
 		{
 			"name": "SAAT.Mod, SAAT - Audio API and Toolkit",
@@ -20237,8 +20516,10 @@
 			"github": "Dawilly/SAAT",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "1.1.3-unofficial.1-p1xel8ted",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-121255"
+			"unofficialUpdate": {
+				"version": "1.1.3-unofficial.1-p1xel8ted",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-121255"
+			}
 		},
 		{
 			"name": "Sable's Labels",
@@ -20259,8 +20540,10 @@
 			"status": "workaround",
 			"summary": "use [[#Safe Lightning Updated|Safe Lightning Updated]] instead."
 			/*
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-41713",
-			"unofficialVersion": "2.1.1-unofficial.1-strobe",
+			"unofficialUpdate": {
+				"version": "2.1.1-unofficial.1-strobe",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-41713"
+			},
 			*/
 		},
 		{
@@ -20343,8 +20626,10 @@
 
 			"brokeIn": "Stardew Valley 1.3.29"
 			/*
-			"unofficialVersion": "1.9.1-unofficial.5-BigBhole69",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-4.156000/page-21#post-3353940",
+			"unofficialUpdate": {
+				"version": "1.9.1-unofficial.5-BigBhole69",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-4.156000/page-21#post-3353940"
+			},
 			*/
 		},
 		{
@@ -20823,8 +21108,10 @@
 
 			"brokeIn": "Stardew Valley 1.4"
 			/*
-			"unofficialVersion": "0.3.4-unofficial.1-pathoschild",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-4.156000/#post-3346341",
+			"unofficialUpdate": {
+				"version": "0.3.4-unofficial.1-pathoschild",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-4.156000/#post-3346341"
+			},
 			*/
 		},
 		{
@@ -20910,8 +21197,10 @@
 
 			"brokeIn": "Stardew Valley 1.5"
 			/*
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-4.156000/page-69#post-3362360",
-			"unofficialVersion": "1.0.5-unofficial.2-jenrikku",
+			"unofficialUpdate": {
+				"version": "1.0.5-unofficial.2-jenrikku",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-4.156000/page-69#post-3362360"
+			},
 			*/
 		},
 		{
@@ -21098,8 +21387,10 @@
 			"github": "futroo/Stardew-Valley-Mods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-132991",
-			"unofficialVersion": "1.1.0-unofficial"
+			"unofficialUpdate": {
+				"version": "1.1.0-unofficial",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-132991"
+			}
 		},
 		{
 			"name": "Shipping Collection Sorted By Mods, Sort Shipping Collection",
@@ -21201,8 +21492,10 @@
 			"github": "Traktori7/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "1.3.1-unofficial.2-asuleath",
-			"unofficialUrl": "https://github.com/NovitoFR/Traktori7-StardewValleyMods/releases"
+			"unofficialUpdate": {
+				"version": "1.3.1-unofficial.2-asuleath",
+				"url": "https://github.com/NovitoFR/Traktori7-StardewValleyMods/releases"
+			}
 		},
 		{
 			"name": "Showcase",
@@ -21254,8 +21547,10 @@
 			"github": "Jonqora/StardewMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-126054",
-			"unofficialVersion": "1.1.3-unofficial.1-bungus"
+			"unofficialUpdate": {
+				"version": "1.1.3-unofficial.1-bungus",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-126054"
+			}
 		},
 		{
 			"name": "Show NPC Names",
@@ -21879,8 +22174,10 @@
 			"github": "andraemon/SlimeProduce",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-122362",
-			"unofficialVersion": "1.3.4-unofficial.1-LikeFrogs"
+			"unofficialUpdate": {
+				"version": "1.3.4-unofficial.1-LikeFrogs",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-122362"
+			}
 		},
 		{
 			"name": "Slime Spawner",
@@ -22012,8 +22309,10 @@
 			"github": "stokastic/SmartCursor",
 
 			"brokeIn": "SMAPI 3.0",
-			"unofficialVersion": "1.1.1-unofficial.1-pathoschild",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-55#post-3324498"
+			"unofficialUpdate": {
+				"version": "1.1.1-unofficial.1-pathoschild",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-55#post-3324498"
+			}
 		},
 		{
 			"name": "Smart Cursor",
@@ -22713,8 +23012,10 @@
 			"status": "workaround",
 			"summary": "use [[#Stack Everything Redux|Stack Everything Redux]] instead."
 			/*
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-41713",
-			"unofficialVersion": "3.0.3-unofficial.1-strobe",
+			"unofficialUpdate": {
+				"version": "3.0.3-unofficial.1-strobe",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-41713"
+			},
 			*/
 		},
 		{
@@ -23422,8 +23723,10 @@
 
 			"brokeIn": "SMAPI 3.0"
 			/*
-			"unofficialVersion": "1.0.4-unofficial.2-tks4fish",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-47583",
+			"unofficialUpdate": {
+				"version": "1.0.4-unofficial.2-tks4fish",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-47583"
+			},
 			*/
 		},
 		{
@@ -23486,8 +23789,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.2.2-unofficial.1-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#SubmergedCrabPots"
+			"unofficialUpdate": {
+				"version": "0.2.2-unofficial.1-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#SubmergedCrabPots"
+			}
 		},
 		{
 			"name": "Subterranian Overhaul, Dwarvish",
@@ -23560,8 +23865,10 @@
 			"github": "Ophaneom/Survivalistic",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "1.0.5-unofficial.2-Locked15",
-			"unofficialUrl": "https://github.com/Locked15/SDV_Survivalistic-Rebooted/releases"
+			"unofficialUpdate": {
+				"version": "1.0.5-unofficial.2-Locked15",
+				"url": "https://github.com/Locked15/SDV_Survivalistic-Rebooted/releases"
+			}
 		},
 		{
 			"name": "SV Fishing Mod",
@@ -23683,8 +23990,10 @@
 
 			"brokeIn": "Stardew Valley 1.3"
 			/*
-			"unofficialVersion": "1.1.1-unofficial.2-pathoschild",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-79#post-3344736",
+			"unofficialUpdate": {
+				"version": "1.1.1-unofficial.2-pathoschild",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-79#post-3344736"
+			},
 			*/
 		},
 		{
@@ -24040,8 +24349,10 @@
 
 			"brokeIn": "Stardew Valley 1.4"
 			/*@retest-after Custom Farming Redux
-			"unofficialVersion": "1.1.1-unofficial.1-minervamaga",
-			"unofficialUrl": "https://www.nexusmods.com/stardewvalley/mods/4109",
+			"unofficialUpdate": {
+				"version": "1.1.1-unofficial.1-minervamaga",
+				"url": "https://www.nexusmods.com/stardewvalley/mods/4109"
+			},
 			*/
 		},
 		{
@@ -24145,8 +24456,10 @@
 			"github": "spacechase0/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-121338",
-			"unofficialVersion": "1.1.2-unofficial.2-FlyingTNT"
+			"unofficialUpdate": {
+				"version": "1.1.2-unofficial.2-FlyingTNT",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-121338"
+			}
 		},
 		{
 			"name": "Throwable Axe",
@@ -24264,8 +24577,10 @@
 			"source": "https://gitlab.com/enom/time-before-harvest-enhanced",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-133343",
-			"unofficialVersion": "1.1.0-unofficial"
+			"unofficialUpdate": {
+				"version": "1.1.0-unofficial",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-133343"
+			}
 		},
 		{
 			"name": "Time Freeze",
@@ -24290,8 +24605,10 @@
 			"source": "https://www.nexusmods.com/stardewvalley/mods/16192?tab=files",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialUrl": "https://github.com/pipedream420/TimeMaster/releases",
-			"unofficialVersion": "1.2.2-unofficial.1-pipedream420"
+			"unofficialUpdate": {
+				"version": "1.2.2-unofficial.1-pipedream420",
+				"url": "https://github.com/pipedream420/TimeMaster/releases"
+			}
 		},
 		{
 			"name": "Time Multiplier",
@@ -24396,8 +24713,10 @@
 			"status": "workaround",
 			"summary": "use [[#To-Dew|To-Dew]] instead."
 			/*
-			"unofficialVersion": "1.1.3-unofficial.2-pathoschild",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-61#post-3329144",
+			"unofficialUpdate": {
+				"version": "1.1.3-unofficial.2-pathoschild",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-61#post-3329144"
+			},
 			*/
 		},
 		{
@@ -24456,8 +24775,10 @@
 			"source": "https://gitlab.com/yuri0r/toolbelt",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "2.0.4-unofficial.1-Strobe",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-134017"
+			"unofficialUpdate": {
+				"version": "2.0.4-unofficial.1-Strobe",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-134017"
+			}
 		},
 		{
 			"name": "Tool Charging",
@@ -24468,8 +24789,10 @@
 			"github": "mralbobo/stardew-tool-charging",
 
 			"brokeIn": "SMAPI 3.0",
-			"unofficialVersion": "1.2.2-unofficial.1-pathoschild",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-78#post-3344731"
+			"unofficialUpdate": {
+				"version": "1.2.2-unofficial.1-pathoschild",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-78#post-3344731"
+			}
 		},
 		{
 			"name": "Tool Geodes",
@@ -24554,7 +24877,10 @@
 			"status": "workaround",
 			"summary": "use [[#Mail Services Mod|Mail Services Mod]] or [[#Tool Upgrade Delivery|Tool Upgrade Delivery]] instead."
 			/*
-			"unofficialVersion": "1.4.1-unofficial.1-pathoschild",
+			"unofficialUpdate": {
+				"version": "1.4.1-unofficial.1-pathoschild",
+				"url": ""
+			}
 			*/
 		},
 		{
@@ -24681,8 +25007,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.1.2-unofficial.1-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#Trampoline"
+			"unofficialUpdate": {
+				"version": "0.1.2-unofficial.1-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#Trampoline"
+			}
 		},
 		{
 			"name": "Translation Replacer",
@@ -24749,8 +25077,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.1.2-unofficial.1-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#TrashCansOnHorse"
+			"unofficialUpdate": {
+				"version": "0.1.2-unofficial.1-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#TrashCansOnHorse"
+			}
 		},
 		{
 			"name": "Trash Does Not Consume Bait",
@@ -24817,8 +25147,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6", // @retest-after Advanced Loot Framework
-			"unofficialVersion": "0.3.1-unofficial.1-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#TreasureChestsExpanded"
+			"unofficialUpdate": {
+				"version": "0.3.1-unofficial.1-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#TreasureChestsExpanded"
+			}
 		},
 		{
 			"name": "Treasury Farm",
@@ -24853,8 +25185,10 @@
 			"github": "TyoAtrosa/TreeShaker",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "1.0.2-unofficial.2-huancz",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-134929"
+			"unofficialUpdate": {
+				"version": "1.0.2-unofficial.2-huancz",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-134929"
+			}
 		},
 		{
 			"name": "Tree Size Framework",
@@ -25138,8 +25472,10 @@
 
 			"brokeIn": "SMAPI 3.0"
 			/*
-			"unofficialVersion": "1.1.1-unofficial.2-minervamaga",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-4.156000/page-9#post-3353113",
+			"unofficialUpdate": {
+				"version": "1.1.1-unofficial.2-minervamaga",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-4.156000/page-9#post-3353113"
+			},
 			*/
 		},
 		{
@@ -25369,8 +25705,10 @@
 			"status": "workaround",
 			"summary": "Use [[#BetterBombs|BetterBombs]] instead."
 			/*
-			"unofficialVersion": "1.0.5-unofficial.1-Mizzion",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-62#post-3329576",
+			"unofficialUpdate": {
+				"version": "1.0.5-unofficial.1-Mizzion",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-62#post-3329576"
+			},
 			*/
 		},
 		{
@@ -25431,8 +25769,10 @@
 			"github": "dantheman999301/StardewMods",
 
 			"brokeIn": "SMAPI 2.0",
-			"unofficialVersion": "1.3.1-unofficial.3-pathoschild",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-77#post-3343789"
+			"unofficialUpdate": {
+				"version": "1.3.1-unofficial.3-pathoschild",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-77#post-3343789"
+			}
 		},
 		{
 			"name": "Variable Seasons, Stardew Variable Seasons",
@@ -25537,8 +25877,10 @@
 
 			"brokeIn": "Stardew Valley 1.3.36"
 			/*
-			"unofficialVersion": "1.3.2-unofficial.1-pathoschild",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-62#post-3329160",
+			"unofficialUpdate": {
+				"version": "1.3.2-unofficial.1-pathoschild",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-62#post-3329160"
+			},
 			*/
 		},
 		{
@@ -25641,8 +25983,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.1.2-unofficial.1-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#WallPlanters"
+			"unofficialUpdate": {
+				"version": "0.1.2-unofficial.1-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#WallPlanters"
+			}
 		},
 		{
 			"name": "Wall Televisions",
@@ -25739,8 +26083,10 @@
 			"status": "workaround",
 			"summary": "use [[#Warp Multiplayer|Warp Multiplayer]] instead.",
 			"brokeIn": "Stardew Valley 1.4",
-			"unofficialVersion": "1.2.1-unofficial.1-SorryLate",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-4.156000/page-52#post-3357251"
+			"unofficialUpdate": {
+				"version": "1.2.1-unofficial.1-SorryLate",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-4.156000/page-52#post-3357251"
+			}
 		},
 		{
 			"name": "Warp to Player",
@@ -25822,8 +26168,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.3.2-unofficial.1-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#WateringCanTweaks"
+			"unofficialUpdate": {
+				"version": "0.3.2-unofficial.1-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#WateringCanTweaks"
+			}
 		},
 		{
 			"name": "Watering Can Upgrade",
@@ -25951,8 +26299,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.1.1-unofficial.1-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#WeatherTotem"
+			"unofficialUpdate": {
+				"version": "0.1.1-unofficial.1-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#WeatherTotem"
+			}
 		},
 		{
 			"name": "Weather Totems Expanded",
@@ -26183,8 +26533,10 @@
 			"github": "danvolchek/StardewMods",
 
 			"brokeIn": "Stardew Valley 1.5",
-			"unofficialVersion": "1.0.3-unofficial.5-brimbane",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-119900"
+			"unofficialUpdate": {
+				"version": "1.0.3-unofficial.5-brimbane",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-119900"
+			}
 		},
 		{
 			"name": "Window Resize",
@@ -26239,8 +26591,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.2.4-unofficial.1-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#WitcherMod"
+			"unofficialUpdate": {
+				"version": "0.2.4-unofficial.1-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#WitcherMod"
+			}
 		},
 		{
 			"name": "Witchy Jester",
@@ -26275,8 +26629,10 @@
 
 			"brokeIn": "Stardew Valley 1.1 or 1.11"
 			/*
-			"unofficialVersion": "1.0.1-unofficial.3-pathoschild",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-79#post-3344736",
+			"unofficialUpdate": {
+				"version": "1.0.1-unofficial.3-pathoschild",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-79#post-3344736"
+			},
 			*/
 		},
 		{
@@ -26484,8 +26840,10 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "0.2.4-unofficial.1-mouahrara",
-			"unofficialUrl": "https://github.com/mouahrara/aedenthorn#ZombieOutbreak"
+			"unofficialUpdate": {
+				"version": "0.2.4-unofficial.1-mouahrara",
+				"url": "https://github.com/mouahrara/aedenthorn#ZombieOutbreak"
+			}
 		},
 		{
 			"name": "Zoom Level",
@@ -26517,8 +26875,10 @@
 			"status": "workaround",
 			"summary": "use [[#Zoom Level|Zoom Level]] instead."
 			/*
-			"unofficialVersion": "1.2.2-unofficial.1-Mizzion",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-62#post-3329576",
+			"unofficialUpdate": {
+				"version": "1.2.2-unofficial.1-Mizzion",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-62#post-3329576"
+			},
 			*/
 		},
 		{
@@ -26549,8 +26909,10 @@
 			"contentPackFor": "Content Patcher",
 
 			"brokeIn": "Stardew Valley 1.3.36",
-			"unofficialVersion": "2.0.1-unofficial.1-opalie",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-64#post-3331098"
+			"unofficialUpdate": {
+				"version": "2.0.1-unofficial.1-opalie",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-64#post-3331098"
+			}
 		},
 		{
 			"name": "Adventurer's Guild Expanded",
@@ -26562,8 +26924,10 @@
 			"contentPackFor": "Content Patcher",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialVersion": "1.1.0-unofficial.2-femtohound",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/page-200#post-126783",
+			"unofficialUpdate": {
+				"version": "1.1.0-unofficial.2-femtohound",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/page-200#post-126783"
+			},
 			"summary": "use [unofficial update](https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/page-199#post-126783) or [Adventurer's Guild Expanded - Unofficial Update for 1.6](https://www.nexusmods.com/stardewvalley/mods/22591)."
 		},
 		{
@@ -26575,8 +26939,10 @@
 			"contentPackFor": "Content Patcher",
 
 			"brokeIn": "Stardew Valley 1.4",
-			"unofficialVersion": "4.0.1-unofficial.2-minervamaga",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-4.156000/page-25#post-3354247"
+			"unofficialUpdate": {
+				"version": "4.0.1-unofficial.2-minervamaga",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-4.156000/page-25#post-3354247"
+			}
 		},
 		{
 			"name": "Boogies Tidy Crafting, Tidy Crafting Menu", // manifest, Nexus
@@ -26622,8 +26988,10 @@
 			"contentPackFor": "Content Patcher",
 
 			"brokeIn": "Stardew Valley 1.3.36",
-			"unofficialVersion": "1.2.1-unofficial.1-pathoschild",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-63#post-3330827"
+			"unofficialUpdate": {
+				"version": "1.2.1-unofficial.1-pathoschild",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-63#post-3330827"
+			}
 		},
 		{
 			"name": "Immersive Farm 2",
@@ -26698,8 +27066,10 @@
 			"contentPackFor": "Content Patcher",
 
 			"brokeIn": "Stardew Valley 1.5",
-			"unofficialVersion": "OvergrownFairyBuildings.1.5.unofficialUpdate2",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-26846"
+			"unofficialUpdate": {
+				"version": "OvergrownFairyBuildings.1.5.unofficialUpdate2",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-26846"
+			}
 		},
 		{
 			"name": "Quality Artisan Products",
@@ -26721,8 +27091,10 @@
 			"contentPackFor": "Content Patcher",
 
 			"brokeIn": "Stardew Valley 1.2",
-			"unofficialVersion": "1.1.1-unofficial.1-minervamaga",
-			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-4.156000/page-14#post-3353498"
+			"unofficialUpdate": {
+				"version": "1.1.1-unofficial.1-minervamaga",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-4.156000/page-14#post-3353498"
+			}
 		},
 		{
 			"name": "Spacious Greenhouse",
@@ -26734,8 +27106,10 @@
 			"contentPackFor": "Content Patcher",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-124427",
-			"unofficialVersion": "1.2.1-unofficial"
+			"unofficialUpdate": {
+				"version": "1.2.1-unofficial",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-124427"
+			}
 		}
 	]
 }
