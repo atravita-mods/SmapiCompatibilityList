@@ -234,11 +234,20 @@
 			"chucklefish": 3532,
 			"github": "ThatNorthernMonkey/AdjustArtisanPrices",
 
-			"brokeIn": "Stardew Valley 1.1"
+			"brokeIn": "Stardew Valley 1.1",
 			/*
 			"unofficialVersion": "0.0.2-unofficial.3-pathoschild",
 			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-61#post-3329038",
 			*/
+
+			"overrideModData": [
+				{
+					"type": "remoteVersion",
+					"from": "0.01",
+					"to": "0.0.1",
+					"reason": "[mod page](https://community.playstarbound.com/resources/smapi-adjust-artisan-prices.3532/history) has wrong version format"
+				}
+			]
 		},
 		{
 			"name": "Adjust Baby Chance",
@@ -586,11 +595,20 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "workaround",
-			"summary": "Consider using [[#Multitool|Multitool]] or [[#Auto Tool|Auto Tool]] instead."
+			"summary": "Consider using [[#Multitool|Multitool]] or [[#Auto Tool|Auto Tool]] instead.",
 			/*
 			"unofficialVersion": "1.2.2-unofficial.3.mizzion",
 			"unofficialUrl": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-18#post-3291454",
 			*/
+
+			"overrideModData": [
+				{
+					"type": "remoteVersion",
+					"from": "1.21",
+					"to": "1.2.1",
+					"reason": "[mod page](https://www.nexusmods.com/stardewvalley/mods/439) has wrong version format"
+				}
+			]
 		},
 		{
 			"name": "Alternative Textures",
@@ -1742,7 +1760,16 @@
 			"author": "Pickle, ddgroves",
 			"id": "pickle.autowater",
 			"nexus": 1666,
-			"github": null
+			"github": null,
+
+			"overrideModData": [
+				{
+					"type": "updateKey",
+					"from": "Nexus:5463",
+					"to": "Nexus:1666",
+					"reason": "manifest has wrong update key" // last checked: 1.2.1
+				}
+			]
 		},
 		{
 			"name": "Auto Water",
@@ -2537,7 +2564,16 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "workaround",
-			"summary": "Use [[#Better Shipping Bin|Better Shipping Bin]] instead."
+			"summary": "Use [[#Better Shipping Bin|Better Shipping Bin]] instead.",
+
+			"overrideModData": [
+				{
+					"type": "localVersion",
+					"from": "1.0.1",
+					"to": "1.0.2",
+					"reason": "manifest outdated" // last checked: 1.0.2
+				}
+			]
 		},
 		{
 			"name": "Better Shop Menu",
@@ -2811,7 +2847,16 @@
 
 			"brokeIn": "SMAPI 3.12.0",
 			"status": "workaround",
-			"summary": "use [[#Silo Size|Silo Size]] instead."
+			"summary": "use [[#Silo Size|Silo Size]] instead.",
+
+			"overrideModData": [
+				{
+					"type": "localVersion",
+					"from": "0.0.2",
+					"to": "0.0.3",
+					"reason": "manifest outdated" // last checked: 0.0.3
+				}
+			]
 		},
 		{
 			"name": "Billboard Anywhere",
@@ -3951,7 +3996,16 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "workaround",
-			"summary": "use [[#Remote Fridge Storage|Remote Fridge Storage]] instead."
+			"summary": "use [[#Remote Fridge Storage|Remote Fridge Storage]] instead.",
+
+			"overrideModData": [
+				{
+					"type": "localVersion",
+					"from": "1.3-1",
+					"to": "1.3.0",
+					"reason": "manifest has wrong version" // last checked: 1.3.0
+				}
+			]
 		},
 		{
 			"name": "Cherryrar",
@@ -4612,7 +4666,16 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "workaround",
-			"summary": "use [[#Configure Machine Outputs|Configure Machine Outputs]] instead."
+			"summary": "use [[#Configure Machine Outputs|Configure Machine Outputs]] instead.",
+
+			"overrideModData": [
+				{
+					"type": "localVersion",
+					"from": "1.2-beta",
+					"to": "1.2.0",
+					"reason": "manifest has wrong version" // last checked: 1.2.0
+				}
+			]
 		},
 		{
 			"name": "Configurable Mastery Points",
@@ -5944,7 +6007,16 @@
 
 			"brokeIn": "SMAPI 3.0",
 			"status": "workaround",
-			"summary": "use [Custom Linens for Content Patcher](https://www.nexusmods.com/stardewvalley/mods/2184) instead."
+			"summary": "use [Custom Linens for Content Patcher](https://www.nexusmods.com/stardewvalley/mods/2184) instead.",
+
+			"overrideModData": [
+				{
+					"type": "localVersion",
+					"from": "1.0",
+					"to": "1.1.0",
+					"reason": "manifest outdated" // last checked: 1.1.0
+				}
+			]
 		},
 		{
 			"name": "Custom Localization",
@@ -6732,7 +6804,16 @@
 			"nexus": 5016,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after Deep Woods
+			"brokeIn": "Stardew Valley 1.6", // @retest-after Deep Woods
+
+			"overrideModData": [
+				{
+					"type": "remoteVersion",
+					"from": "2.11.0",
+					"to": "2.1.0",
+					"reason": "[mod page](https://www.nexusmods.com/stardewvalley/mods/5016) has wrong version format"
+				}
+			]
 		},
 		{
 			"name": "Deep Woods Warp Network Integration",
@@ -7478,7 +7559,16 @@
 
 			"brokeIn": "SMAPI 2.0",
 			"status": "workaround",
-			"summary": "use [[#Configure Machine Outputs|Configure Machine Outputs]] instead."
+			"summary": "use [[#Configure Machine Outputs|Configure Machine Outputs]] instead.",
+
+			"overrideModData": [
+				{
+					"type": "localVersion",
+					"from": "1.1",
+					"to": "1.1.1",
+					"reason": "manifest outdated" // last checked: 1.1.1
+				}
+			]
 		},
 		{
 			"name": "Dynamic Map Tiles",
@@ -7992,7 +8082,22 @@
 
 			"brokeIn": "Stardew Valley 1.5",
 			"unofficialVersion": "1.9.2-unofficial.3-JoXW",
-			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-123209"
+			"unofficialUrl": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-123209",
+
+			"overrideModData": [
+				{
+					"type": "updateKey",
+					"from": "Nexus:541",
+					"to": "Nexus:193",
+					"reason": "manifest has wrong update key"
+				},
+				{
+					"type": "updateKey",
+					"from": "Chuckklefish:3529",
+					"to": "Chucklefish:3529",
+					"reason": "manifest has wrong update key"
+				}
+			]
 		},
 		{
 			"name": "Energy Count",
@@ -11620,7 +11725,16 @@
 			"nexus": 9343,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.6"
+			"brokeIn": "Stardew Valley 1.6",
+
+			"overrideModData": [
+			{
+				"type": "remoteVersion",
+				"from": "1.12.0",
+				"to": "1.1.2",
+				"reason": "[mod page](https://www.nexusmods.com/stardewvalley/mods/9343) has wrong version format"
+			}
+		]
 		},
 		{
 			"name": "Hoe and Water Direction",
@@ -12563,7 +12677,16 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Farming Tools Patch|Farming Tools Patch]] instead."
+			"summary": "use [[#Farming Tools Patch|Farming Tools Patch]] instead.",
+
+			"overrideModData": [
+				{
+					"type": "localVersion",
+					"from": "1.0.0",
+					"to": "1.0.1",
+					"reason": "manifest outdated" // last checked: 1.0.1
+				}
+			]
 		},
 		{
 			"name": "Is Gus Visiting Ginger Island Today, Is Gus Visiting Island",
@@ -13458,7 +13581,22 @@
 			"curse": 300715,
 			"github": null,
 
-			"brokeIn": "SMAPI 3.0"
+			"brokeIn": "SMAPI 3.0",
+
+			"overrideModData": [
+				{
+					"type": "remoteVersion",
+					"from": "1.0.0-1.3patch",
+					"to": "0.0.2-unofficial.1-pathoschild",
+					"reason": "[mod page](https://www.curseforge.com/stardewvalley/mods/level-up-notifications/files) has wrong version"
+				},
+				{
+					"type": "remoteVersion",
+					"from": "1.3patch-1.0.0",
+					"to": "0.0.2-unofficial.1-pathoschild",
+					"reason": "[mod page](https://www.nexusmods.com/stardewvalley/mods/855) has wrong version"
+				}
+			]
 		},
 		{
 			"name": "Level Up Stars",
@@ -13882,7 +14020,22 @@
 
 			"brokeIn": "Stardew Valley 1.6.9", // @retest-linked
 			"status": "workaround",
-			"summary": "use [[#Spacecore Luck Skill|Spacecore Luck Skill]] instead."
+			"summary": "use [[#Spacecore Luck Skill|Spacecore Luck Skill]] instead.",
+
+			"overrideModData": [
+				{
+					"type": "updateKey",
+					"from": "GitHub:Nykal145/LuckSkill1.6",
+					"to": "Nexus:521",
+					"reason": "changed from unofficial to official maintainer" // last checked: 1.0.0
+				},
+				{
+					"type": "remoteVersion",
+					"from": "1.4.0-unofficial.5-Nykal145",
+					"to": "1.2.6",
+					"reason": "changed from unofficial to official maintainer" // last checked: 1.0.0
+				}
+			]
 		},
 		{
 			"name": "Lucky Block, Random Block",
@@ -15747,7 +15900,22 @@
 
 			"status": "workaround",
 			"summary": "Use [[#Content Patcher|Content Patcher]] instead.",
-			"brokeIn": "SMAPI 2.0"
+			"brokeIn": "SMAPI 2.0",
+
+			"overrideModData": [
+				{
+					"type": "localVersion",
+					"from": "1.1",
+					"to": "1.1.2",
+					"reason": "manifest has wrong version"
+				},
+				{
+					"type": "remoteVersion",
+					"from": "1.12",
+					"to": "1.1.2",
+					"reason": "[mod page](https://www.nexusmods.com/stardewvalley/mods/1094) has wrong version format" // last checked: 1.1.2
+				}
+			]
 		},
 		{
 			"name": "Multi Save",
@@ -16349,7 +16517,16 @@
 			"id": "minervamaga.NoMineFlyersRedux",
 			"nexus": null,
 			"moddrop": 631110,
-			"github": "minervamaga/NoMineFlyersRedux"
+			"github": "minervamaga/NoMineFlyersRedux",
+
+			"overrideModData": [
+				{
+					"type": "updateKey",
+					"from": "Nexus:4498",
+					"to": "ModDrop:631110",
+					"reason": "mod page moved" // last checked: 1.0.0
+				}
+			]
 		},
 		{
 			"name": "No More Accidental Exhaustion, Exhaustion Protection",
@@ -17911,7 +18088,16 @@
 			"nexus": 12065,
 			"github": null,
 
-			"status": "abandoned"
+			"status": "abandoned",
+
+			"overrideModData": [
+				{
+					"type": "localVersion",
+					"from": "4.0",
+					"to": "4.0.3",
+					"reason": "manifest outdated" // last checked: 4.0.3
+				}
+			]
 		},
 		{
 			"name": "Pollen Sprites",
@@ -19490,7 +19676,16 @@
 			"nexus": 751,
 			"github": null,
 
-			"brokeIn": "SMAPI 2.0"
+			"brokeIn": "SMAPI 2.0",
+
+			"overrideModData": [
+				{
+					"type": "localVersion",
+					"from": "1.0.4",
+					"to": "1.0.5",
+					"reason": "manifest outdated" // last checked: 1.0.5
+				}
+			]
 		},
 		{
 			"name": "Relationship Tooltips",
@@ -21017,7 +21212,16 @@
 			"chucklefish": 4487,
 			"github": "Igorious/Stardew_Valley_Showcase_Mod",
 
-			"brokeIn": "SMAPI 2.0"
+			"brokeIn": "SMAPI 2.0",
+
+			"overrideModData": [
+				{
+					"type": "localVersion",
+					"from": "0.9-500",
+					"to": "0.9.0",
+					"reason": "manifest has wrong version" // last checked: 0.9.0
+				}
+			]
 		},
 		{
 			"name": "Show Catch Quality",
@@ -22604,7 +22808,16 @@
 			"id": "minervamaga.StandardizedKrobus",
 			"nexus": null,
 			"moddrop": 716314,
-			"github": "minervamaga/StandardizedKrobus"
+			"github": "minervamaga/StandardizedKrobus",
+
+			"overrideModData": [
+				{
+					"type": "updateKey",
+					"from": "Nexus:5206",
+					"to": "ModDrop:716314",
+					"reason": "mod page moved" // last checked: 1.0.0
+				}
+			]
 		},
 		{
 			"name": "Starbot",
@@ -25249,7 +25462,16 @@
 			"author": "Semisu",
 			"id": "VibrantPastoral.C",
 			"nexus": 6367,
-			"github": "notsemisu/VibrantPastoral.C"
+			"github": "notsemisu/VibrantPastoral.C",
+
+			"overrideModData": [
+				{
+					"type": "localVersion",
+					"from": "1.0.0-c",
+					"to": "2.0.1",
+					"reason": "manifest has wrong version" // last checked: 2.0.1
+				}
+			]
 		},
 		{
 			"name": "Video Player",
@@ -26314,183 +26536,6 @@
 			"nexus": 6031,
 			"github": null,
 			"source": "https://gitlab.com/geko_x/stardew-mods"
-		}
-	],
-	"modDataOverrides": [
-		{
-			"name": "Adjust Artisan Prices",
-			"id": "ThatNorthernMonkey.AdjustArtisanPrices, 1e36d4ca-c7ef-4dfb-9927-d27a6c3c8bdc",
-			"updateKeys": null,
-			"localVersion": null,
-			"remoteVersion": "0.01 → 0.0.1",
-			"reason": "[mod page](https://community.playstarbound.com/resources/smapi-adjust-artisan-prices.3532/history) has wrong version format"
-		},
-		{
-			"name": "Almighty Farming Tool",
-			"id": "439",
-			"updateKeys": null,
-			"localVersion": null,
-			"remoteVersion": "1.21 → 1.2.1",
-			"reason": "[mod page](https://www.nexusmods.com/stardewvalley/mods/439) has wrong version format"
-		},
-		{
-			"name": "Auto Water",
-			"id": "pickle.autowater",
-			"updateKeys": "Nexus:5463 → Nexus:1666",
-			"localVersion": null,
-			"remoteVersion": null,
-			"reason": "manifest has wrong update key" // last checked: 1.2.1
-		},
-		{
-			"name": "Better Shipping Box",
-			"id": "Kithio:BetterShippingBox, Kithio.BetterShippingBox",
-			"updateKeys": null,
-			"localVersion": "1.0.1 → 1.0.2",
-			"remoteVersion": null,
-			"reason": "manifest outdated" // last checked: 1.0.2
-		},
-		{
-			"name": "Big Silo",
-			"id": "lperkins2.BigSilo",
-			"updateKeys": null,
-			"localVersion": "0.0.2 → 0.0.3",
-			"remoteVersion": null,
-			"reason": "manifest outdated" // last checked: 0.0.3
-		},
-		{
-			"name": "Chefs Closet",
-			"id": "Duder.ChefsCloset",
-			"updateKeys": null,
-			"localVersion": "1.3-1 → 1.3.0",
-			"remoteVersion": null,
-			"reason": "manifest has wrong version" // last checked: 1.3.0
-		},
-		{
-			"name": "Configurable Machines",
-			"id": "21da6619-dc03-4660-9794-8e5b498f5b97",
-			"updateKeys": null,
-			"localVersion": "1.2-beta → 1.2.0",
-			"remoteVersion": null,
-			"reason": "manifest has wrong version" // last checked: 1.2.0
-		},
-		{
-			"name": "Custom Linens",
-			"id": "Mevima.CustomLinens",
-			"updateKeys": null,
-			"localVersion": "1.0 → 1.1.0",
-			"remoteVersion": null,
-			"reason": "manifest outdated" // last checked: 1.1.0
-		},
-		{
-			"name": "Dynamic Machines",
-			"id": "DynamicMachines",
-			"updateKeys": null,
-			"localVersion": "1.1 → 1.1.1",
-			"remoteVersion": null,
-			"reason": "manifest outdated" // last checked: 1.1.1
-		},
-		{
-			"name": "Enemy Health Bars",
-			"id": "SPDHealthBar, Speeder.HealthBars",
-			"updateKeys": "Nexus:541 → Nexus:193, Chuckklefish:3529 → Chucklefish:3529",
-			"localVersion": null,
-			"remoteVersion": null
-		},
-		{
-			"name": "Hmm Cheese Yum",
-			"id": "tomasitobambito.HmmCheeseYum",
-			"updateKeys": null,
-			"localVersion": null,
-			"remoteVersion": "1.12.0 → 1.1.2",
-			"reason": "[mod page](https://www.nexusmods.com/stardewvalley/mods/9343) has wrong version format"
-		},
-		{
-			"name": "Iridium Tools Patch",
-			"id": "Redwood.IridiumToolsPatch",
-			"updateKeys": null,
-			"localVersion": "1.0.0 → 1.0.1",
-			"remoteVersion": null,
-			"reason": "manifest outdated" // last checked: 1.0.1
-		},
-		{
-			"name": "Level Up Notifications",
-			"id": "Level Up Notifications, kd8lvt.LevelUpNotifications",
-			"updateKeys": null,
-			"localVersion": null,
-			"remoteVersion": "1.0.0-1.3patch → 0.0.2-unofficial.1-pathoschild, 1.3patch-1.0.0 → 0.0.2-unofficial.1-pathoschild", // CurseForge, Nexus
-			"reason": "mod page [A](https://www.curseforge.com/stardewvalley/mods/level-up-notifications/files) + [B](https://www.nexusmods.com/stardewvalley/mods/855) has wrong version" // last checked: 0.0.2-unofficial.1-pathoschild
-		},
-		{
-			"name": "Luck Skill",
-			"id": "spacechase0.LuckSkill",
-			"updateKeys": "GitHub:Nykal145/LuckSkill1.6 → Nexus:521",
-			"localVersion": null,
-			"remoteVersion": "1.4.0-unofficial.5-Nykal145 → 1.2.6",
-			"reason": "Changed from unofficial to official maintainer" // last checked: 1.0.0
-		},
-		{
-			"name": "Multiple Sprites and Portraits On Rotation",
-			"id": "FileLoading",
-			"updateKeys": null,
-			"localVersion": "1.1 → 1.1.2",
-			"remoteVersion": "1.12 → 1.1.2",
-			"reason": "[mod page](https://www.nexusmods.com/stardewvalley/mods/1094) + manifest has wrong version format" // last checked: 1.1.2
-		},
-		{
-			"name": "No Mine Flyers Redux",
-			"id": "minervamaga.NoMineFlyersRedux",
-			"updateKeys": "Nexus:4498 → ModDrop:631110",
-			"localVersion": null,
-			"remoteVersion": null,
-			"reason": "mod page moved" // last checked: 1.0.0
-		},
-		{
-			"name": "PokeMania",
-			"id": "TheKrominatorPokemania",
-			"updateKeys": null,
-			"localVersion": "4.0 → 4.0.3",
-			"remoteVersion": null,
-			"reason": "manifest outdated" // last checked: 4.0.3
-		},
-		{
-			"name": "Relationship Status",
-			"id": "relationshipstatus",
-			"updateKeys": null,
-			"localVersion": "1.0.4 → 1.0.5",
-			"remoteVersion": null,
-			"reason": "manifest outdated" // last checked: 1.0.5
-		},
-		{
-			"name": "Seasonal Obelisk",
-			"id": "maxvollmer.deepwoodsmod.seasonalobelisk",
-			"updateKeys": null,
-			"localVersion": null,
-			"remoteVersion": "2.11.0 → 2.1.0",
-			"reason": "[mod page](https://www.nexusmods.com/stardewvalley/mods/5016) has wrong version format"
-		},
-		{
-			"name": "Showcase",
-			"id": "Igorious.Showcase",
-			"updateKeys": null,
-			"localVersion": "0.9-500 → 0.9.0", // manifest incorrect
-			"remoteVersion": null,
-			"reason": "manifest has wrong version" // last checked: 0.9.0
-		},
-		{
-			"name": "Standardized Krobus",
-			"id": "minervamaga.StandardizedKrobus",
-			"updateKeys": "Nexus:5206 → ModDrop:716314",
-			"localVersion": null,
-			"remoteVersion": null,
-			"reason": "mod page moved" // last checked: 1.0.0
-		},
-		{
-			"name": "Vibrant Pastoral C#",
-			"id": "VibrantPastoral.C",
-			"updateKeys": null,
-			"localVersion": "1.0.0-c → 2.0.1", // manifest incorrect
-			"remoteVersion": null,
-			"reason": "manifest has wrong version" // last checked: 2.0.1
 		}
 	],
 	"brokenContentPacks": [
