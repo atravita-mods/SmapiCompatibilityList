@@ -1,0 +1,178 @@
+{
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"type": "object",
+	"properties": {
+		"mods": {
+			"title": "SMAPI mods",
+			"description": "The compatibility data for C# SMAPI mods. This does *not* include content packs; see `brokenContentPacks` instead for those.",
+			"type": "array",
+			"items": {
+				"$ref": "#/definitions/Mod"
+			}
+		},
+		"brokenContentPacks": {
+			"title": "Broken content packs",
+			"description": "The compatibility data for broken content packs only. This allows providing workarounds and unofficial updates for content packs. However compatible content packs shouldn't be listed here.",
+			"type": "array",
+			"items": {
+				"$ref": "#/definitions/BrokenContentPack"
+			}
+		}
+	},
+
+	"definitions": {
+		"Mod": {
+			"type": "object",
+			"properties": {
+				"name": {
+					"title": "Mod name",
+					"description": "The normalised display name for the mod. If the mod has alternate names, list them comma-separated after the main name.",
+					"type": "string"
+				},
+				"author": {
+					"title": "Author name",
+					"description": "The normalized display name for the author. If the author has alternate names, list them comma-separated after the main name.",
+					"type": "string"
+				},
+				"id": {
+					"title": "Unique ID",
+					"description": "The unique mod ID, as listed in its manifest.json file. If the mod has alternate or former IDs, list them comma-separated after the main one (ideally in latest to oldest order). For very old mods with no ID, use 'none' to disable validation checks.",
+					"type": "string"
+				},
+				"nexus": {
+					"title": "Nexus mod page ID",
+					"description": "The mod's unique ID on Nexus, or null if it has none. This is the number in the mod page's URL.",
+					"type": ["integer", "null"]
+				},
+				"github": {
+					"title": "GitHub repo",
+					"description": "The mod's GitHub repository in the form owner/repo, or null if it has none.",
+					"type": ["string", "null"]
+				},
+
+				"chucklefish": {
+					"title": "Chucklefish mod page ID",
+					"description": "The mod's unique ID in the legacy Chucklefish mod repository (if any). This is the value shown in the mod page's URL.",
+					"type": "integer"
+				},
+				"curse": {
+					"title": "CurseForge mod page ID",
+					"description": "The mod's unique ID on CurseForge (if any). This is the value shown on the mod page next to \"Project ID\".",
+					"type": "integer"
+				},
+				"moddrop": {
+					"title": "ModDrop mod page ID",
+					"description": "The mod's unique ID on ModDrop (if any). This is the value shown in the mod page's URL.",
+					"type": "integer"
+				},
+				"url": {
+					"title": "Custom URL",
+					"description": "The arbitrary mod URL, if the mod isn't on a mod site supported by more specific fields like `nexus`. This should be avoided if possible, since this makes crossreferencing much more difficult.",
+					"type": "string"
+				},
+				"source": {
+					"title": "Source URL",
+					"description": "An arbitrary source code URL, if not on GitHub. Avoid if possible, since this makes crossreferencing more difficult.",
+					"type": "string"
+				},
+				"warnings": {
+					"title": "Compatibility warnings",
+					"description": "Custom text indicating compatibility issues with the mod (e.g. not compatible with Linux/Mac).",
+					"type": "array",
+					"items": {
+						"type": "string"
+					}
+				},
+				"developerNotes": {
+					"title": "Developer notes",
+					"description": "Special notes intended for developers who maintain unofficial updates or submit pull requests.",
+					"type": "string"
+				},
+
+				"status": {
+					"title": "Compatibility status",
+					"description": "The mod's compatibility with the latest versions of Stardew Valley and SMAPI.\n\nThe possible values are...\n- ok: mod is compatible.\n- optional: mod is compatible if you use a secondary download on the mod page.\n-unofficial: mod is compatible if you use an unofficial update.\n- workaround: mod is not compatible, but the player there's a good alternative (must specify the `summary` field).\n- broken: mod is not compatible.\n- abandoned: mod is no longer maintained by the author, and an unofficial update or continuation is unlikely. This should only be used when the author has definitively abandoned the mod (either explicitly, or by removing the mod page or downloads).\n- obsolete: mod is no longer needed and should be removed.\n- unknown: the mod's compatibility status hasn't been tested. This should only be used as a placeholder (e.g., when adding a new beta), it should never be used long since that defeats the purpose of the compatibility list.\n\nIf not specified, it defaults to 'unofficial' if an `unofficialUpdate` is given, else 'broken' if `brokeIn` is specified, else 'ok'.",
+					"type": "string",
+					"enum": [ "ok", "optional", "unofficial", "workaround", "broken", "abandoned", "obsolete", "unknown" ]
+				},
+				"summary": {
+					"title": "Compatibility summary",
+					"description": "A custom description of the mod's compatibility, in Markdown format. This should be left blank if it's covered by more specific fields like `brokeIn` or `unofficialUpdate`.",
+					"type": "string"
+				},
+				"brokeIn": {
+					"title": "Broke In",
+					"description": "The SMAPI, Stardew Valley, or other release which broke this mod if applicable. This should include both the name and version, like 'Stardew Valley 1.6.9'.",
+					"type": "string"
+				},
+				"unofficialUpdate": {
+					"title": "Unofficial update",
+					"description": "An unofficial update of this mod which fixes compatibility with newer versions.",
+					"type": "object",
+					"properties": {
+						"version": {
+							"title": "Unofficial update version",
+							"description": "The semantic version number for the unofficial update. This must match the version in the linked download's manifest.json file, and is used for update alerts.\n\nTo avoid breaking update alerts, unofficial versions must match the official version incremented by 0.0.1 with a `-unofficial.n-updateAuthor` prerelease tag. For example, if the official version is 1.2.3, the unofficial versions should be 1.2.4-unofficial.1-someUserName, 1.2.4-unofficial.2-someUserName, etc.",
+							"type": "string"
+						},
+						"url": {
+							"title": "Unofficial update URL",
+							"description": "The web URL where players can find the unofficial update. The mod page must provide a ready download (e.g. not just source code that can be compiled).",
+							"type": "string"
+						}
+					},
+					"additionalProperties": false,
+					"required": [ "version", "url" ]
+				},
+
+				"contentPackFor": {
+					"title": "Content pack for",
+					"description": "The unique ID of the framework mod for which this is a content pack."
+				},
+
+				"overrideModData": {
+					"title": "Override mod data",
+					"description": "Specific mod data from the local manifest.json or remote mod page to override when performing update checks, if any.",
+					"type": "array",
+					"item": {
+						"type": "object",
+						"properties": {
+							"type": {
+								"title": "Override type",
+								"description": "Which mod data to override.",
+								"type": "string",
+								"enum": [ "updateKey", "localVersion", "remoteVersion" ]
+							},
+							"from": {
+								"title": "From value",
+								"description": "The specific value to replace with the `to` field. For a version number, this must match the exact formatting before the version is parsed.",
+								"type": "string"
+							},
+							"to": {
+								"title": "To value",
+								"description": "The value to use instead of the `from` value.",
+								"type": "string"
+							},
+							"reason": {
+								"title": "Reason",
+								"description": "A human-readable phrase which explains why the mod data needs to be overridden, like 'mod page has wrong version format'. This can use Markdown if needed."
+							}
+						},
+						"additionalProperties": false,
+						"required": [ "type", "from", "to", "reason" ]
+					}
+				}
+			},
+			"additionalProperties": false,
+			"required": [ "name", "author", "id", "nexus" ],
+			"anyOf": [
+				{ "required": [ "github" ] },
+				{ "required": [ "source" ] }
+			]
+		},
+		"BrokenContentPack": {
+			"$ref": "#/definitions/Mod",
+			"required": [ "name", "author", "id", "nexus", "contentPackFor" ]
+		}
+	}
+}

@@ -1,0 +1,25 @@
+name: Validate JSON schema
+on: [ push, pull_request ]
+jobs:
+  verify-json-validation:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 16
+
+      - name: Strip JSON comments
+        run: |
+          npm install -g ajv-cli
+          npm install -g strip-json-comments-cli
+          npx strip-json-comments-cli data/data.jsonc > data/data.json
+
+      - name: Validate JSON schema
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: /data/schema.json
+          INPUT_JSONS: /data/data.json

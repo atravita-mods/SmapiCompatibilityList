@@ -1,4 +1,5 @@
 {
+	"$schema": "schema.json",
 	"mods": [
 		{
 			"name": "24h Clock",
@@ -321,6 +322,7 @@
 			"id": "aedenthorn.AdvancedFluteBlocks",
 			"curse": 868790,
 			"nexus": 10934,
+			"github": null,
 
 			"brokeIn": "Stardew Valley 1.6",
 			"unofficialUpdate": {
@@ -717,6 +719,7 @@
 			"author": "SixthTitan",
 			"id": "SixthTitan.SDVWM_AmbientLight, SixthTitan.AmbientLight", // changed in 1.8.0
 			"nexus": 4639,
+			"github": null,
 
 			"brokeIn": "Stardew Valley 1.6"
 		},
@@ -1317,7 +1320,7 @@
 			"nexus": 12932,
 			"github": "atravita-mods/StardewMods",
 
-			"warnings": "Broken on Android.",
+			"warnings": [ "Broken on Android." ],
 
 			"brokeIn": "Stardew Valley 1.6" // @retest-linked
 		},
@@ -1640,7 +1643,7 @@
 			"moddrop": 467021,
 			"github": null,
 
-			"warnings": "use Nexus, ModDrop is NOT updated"
+			"warnings": [ "use Nexus, ModDrop is NOT updated" ]
 		},
 		{
 			"name": "Automatic Petting of Animals",
@@ -2854,7 +2857,7 @@
 			"nexus": 1845,
 			"github": "spacechase0/BiggerBackpack",
 
-			"warnings": "Broken on Android."
+			"warnings": [ "Broken on Android." ]
 		},
 		{
 			"name": "Bigger Craftables",
@@ -2897,7 +2900,7 @@
 			"nexus": 2429,
 			"source": "https://www.nexusmods.com/stardewvalley/mods/2429",
 
-			"devNote": "source in download",
+			"developerNotes": "source in download",
 
 			"brokeIn": "SMAPI 3.12.0",
 			"status": "workaround",
@@ -2974,7 +2977,7 @@
 			"nexus": 276,
 			"github": "KathrynHazuka/StardewValley_BirthdayMail",
 
-			"devNote": "author ignored previous PRs"
+			"developerNotes": "author ignored previous PRs"
 		},
 		{
 			"name": "Birthday Notifications",
@@ -3840,6 +3843,7 @@
 			"author": "DelphinWave",
 			"id": "DelphinWave.CatsAndDogsMod",
 			"nexus": 7407,
+			"github": null,
 
 			"status": "obsolete",
 			"summary": "remove this mod (equivalent feature added in Stardew Valley 1.6)."
@@ -4275,7 +4279,7 @@
 		{
 			"name": "Choose Baby Gender",
 			"author": "Travoos",
-			"id": null,
+			"id": "none",
 			"nexus": 590,
 			"github": null,
 
@@ -5639,6 +5643,7 @@
 			"author": "LeFauxMatt",
 			"id": "furyx639.CustomBundles",
 			"nexus": 8258,
+			"github": null,
 
 			"status": "abandoned"
 		},
@@ -6138,7 +6143,7 @@
 			"summary": "use latest version.",
 			"brokeIn": "Stardew Valley 1.5",
 			"status": "obsolete",
-			"warnings": "Only compatible with Android. ([Custom languages](https://stardewvalleywiki.com/Modding:Migrate_to_Stardew_Valley_1.5.5#Custom_languages) were added in Stardew Valley 1.5.5.)"
+			"warnings": [ "Only compatible with Android. ([Custom languages](https://stardewvalleywiki.com/Modding:Migrate_to_Stardew_Valley_1.5.5#Custom_languages) were added in Stardew Valley 1.5.5.)" ]
 		},
 		{
 			"name": "Custom Locks",
@@ -6856,6 +6861,7 @@
 			"author": "SUPERT",
 			"id": "supert.datenight",
 			"nexus": 11459,
+			"github": null,
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
@@ -7893,7 +7899,8 @@
 			"name": "Easy Darts Game",
 			"author": "Dragoon23",
 			"id": "Dragoon23.EasyDartGame",
-			"nexus": 22506
+			"nexus": 22506,
+			"github": null
 		},
 		{
 			"name": "Easy Fairy",
@@ -8051,7 +8058,7 @@
 			"id": "tech.enghao.sv.eh-smash-quality",
 			"nexus": 9303,
 			"github": null,
-			"warnings": "Only compatible with Android."
+			"warnings": [ "Only compatible with Android." ]
 		},
 		{
 			"name": "Eidee Easy Fishing",
@@ -8323,7 +8330,7 @@
 			"nexus": 5521,
 			"github": "Entoarox/StardewMods",
 
-			"warnings": "players report frequent crashes when loading saves or approaching the greenhouse.",
+			"warnings": [ "Players report frequent crashes when loading saves or approaching the greenhouse." ],
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "abandoned"
@@ -8472,6 +8479,7 @@
 			"author": "moonslime",
 			"id": "moonslime.ExcavationSkill",
 			"nexus": 15793,
+			"github": null,
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
@@ -9055,7 +9063,7 @@
 		{
 			"name": "Farm Resource Generator",
 			"author": "jwdred",
-			"id": null,
+			"id": "none",
 			"nexus": 647,
 			"github": null,
 
@@ -9188,7 +9196,7 @@
 			"chucklefish": 3641,
 			"github": "Entoarox/StardewMods",
 
-			"warnings": "Broken on Android (needs Entoarox Framework which crashes on startup).",
+			"warnings": [ "Broken on Android (needs Entoarox Framework which crashes on startup)." ],
 
 			"brokeIn": "Stardew Valley 1.6" // @retest after Entoarox Framework
 		},
@@ -9756,7 +9764,7 @@
 			"chucklefish": 4578,
 			"source": "https://community.playstarbound.com/resources/fishing-tuner-redux.4578",
 
-			"devNote": "source in download",
+			"developerNotes": "source in download",
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "workaround",
@@ -10576,6 +10584,7 @@
 			"author": "LeFauxMatt",
 			"id": "furyx639.FuryCore",
 			"nexus": 10696,
+			"github": null,
 
 			"status": "abandoned"
 		},
@@ -10950,7 +10959,7 @@
 			"nexus": 229,
 			"github": "tstaples/GiftTasteHelper",
 
-			"warnings": "needs zoom and UI scale options to have the same value.",
+			"warnings": [ "Needs zoom and UI scale options to have the same value." ],
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
@@ -12135,7 +12144,8 @@
 			"name": "Hugs and Kisses Continued",
 			"author": "JoXW",
 			"id": "JoXW.HugsAndKisses",
-			"nexus": 21019
+			"nexus": 21019,
+			"github": null
 		},
 		{
 			"name": "Hunger",
@@ -12307,7 +12317,7 @@
 			"nexus": 15290,
 			"github": "aedenthorn/StardewValleyMods",
 
-			"betaBrokeIn": "Stardew Valley 1.6",
+			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
 			"summary": "use [[#The Return of Immersive Scarecrows|The Return of Immersive Scarecrows]] instead."
 		},
@@ -12623,6 +12633,7 @@
 			"author": "nini700",
 			"id": "nini700.InstantEatKey",
 			"nexus": 4464,
+			"github": null,
 
 			"status": "workaround",
 			"summary": "use [[#Updated Instant Eat Key|Updated Instant Eat Key]] instead."
@@ -12642,7 +12653,7 @@
 		{
 			"name": "Instant Geodes",
 			"author": "montana123",
-			"id": null,
+			"id": "none",
 			"nexus": null,
 			"url": "https://community.playstarbound.com/threads/109038",
 			"github": null,
@@ -14077,7 +14088,8 @@
 			"name": "Looking for Love REDUX",
 			"author": "mushroomhash",
 			"id": "mush.loveydovey",
-			"nexus": 21370
+			"nexus": 21370,
+			"github": null
 		},
 		{
 			"name": "Look to the Sky",
@@ -15056,7 +15068,7 @@
 			"nexus": 17652,
 			"github": null,
 
-			"warnings": "Only works on Android.",
+			"warnings":  [ "Only works on Android." ],
 
 			"brokeIn": "Stardew Valley 1.6"
 		},
@@ -15825,7 +15837,7 @@
 			"github": null,
 			"source": "https://github.com/ylsama/RightClickMoveMode/tree/MoveThoughObjects",
 
-			"devNote": "source in separate Git branch",
+			"developerNotes": "source in separate Git branch",
 
 			"brokeIn": "Stardew Valley 1.4",
 			"status": "abandoned",
@@ -16013,7 +16025,7 @@
 			"github": null,
 			"source": "https://github.com/Kalthramis/StardewValley/tree/MPSpeechBubbles",
 
-			"devNote": "source in separate Git branch; GitHub repo outdated (see issue #11)",
+			"developerNotes": "source in separate Git branch; GitHub repo outdated (see issue #11)",
 
 			"brokeIn": "Stardew Valley 1.4",
 			"unofficialUpdate": {
@@ -16517,7 +16529,7 @@
 			"id": "Omegasis.NightOwl",
 			"nexus": 433,
 			"github": "janavarro95/Stardew_Valley_Mods",
-			"warnings": "affected by Vortex mod manager bug; use [Night Owl Repacked](https://www.nexusmods.com/stardewvalley/mods/19291) if you use Vortex."
+			"warnings": [ "Affected by a Vortex mod manager bug; use [Night Owl Repacked](https://www.nexusmods.com/stardewvalley/mods/19291) if you use Vortex." ]
 		},
 		{
 			"name": "Nightshade",
@@ -17051,7 +17063,7 @@
 		{
 			"name": "NPC Speak",
 			"author": "jwdred",
-			"id": null,
+			"id": "none",
 			"nexus": 694,
 			"github": null,
 
@@ -17233,7 +17245,6 @@
 			"id": "DeLiXx.Online_Splitscreen",
 			"nexus": 12291,
 			"github": null,
-			"source": null,
 
 			"status": "abandoned"
 		},
@@ -17808,7 +17819,7 @@
 		{
 			"name": "Persival's Bundle Mod",
 			"author": "Persival",
-			"id": null,
+			"id": "none",
 			"nexus": 438,
 			"github": null,
 
@@ -18060,6 +18071,7 @@
 			"author": "GrimReapers1121",
 			"id": "GrimReapers.PSMS",
 			"nexus": 12606,
+			"github": null,
 
 			"status": "abandoned"
 		},
@@ -19541,7 +19553,7 @@
 		{
 			"name": "Rain Randomizer",
 			"author": "EvilPdor",
-			"id": null,
+			"id": "none",
 			"nexus": null,
 			"url": "https://community.playstarbound.com/threads/111526",
 			"github": null,
@@ -19616,7 +19628,7 @@
 			"nexus": 4911,
 			"github": "aedenthorn/StardewValleyMods",
 
-			"warnings": "doesn't work in multiplayer.",
+			"warnings": [ "Doesn't work in multiplayer." ],
 
 			"brokeIn": "Stardew Valley 1.6"
 		},
@@ -19639,6 +19651,7 @@
 			"author": "skiilaa",
 			"id": "skiilaa.RandomTastes",
 			"nexus": 2285,
+			"github": null,
 
 			"brokeIn": "SMAPI 3.0"
 			/*
@@ -20061,7 +20074,7 @@
 			"nexus": 2545,
 			"github": "SoapStuff/Remote-Fridge-Storage",
 
-			"warnings": "Broken on Android (loads but does not work)."
+			"warnings": [ "Broken on Android (loads but does not work)." ]
 		},
 		{
 			"name": "Removable Horse Hats",
@@ -20647,7 +20660,7 @@
 			"nexus": 8386, // non-redux: 444
 			"github": "RealSweetPanda/SaveAnywhereRedux", // non-redux: janavarro95/Stardew_Valley_Mods
 
-			"warnings": "Broken on Android (use the built-in autosave instead).",
+			"warnings": [ "Broken on Android (use the built-in autosave instead)." ],
 
 			"status": "abandoned",
 			"summary": "remove this mod (no longer maintained; use [[#Quick Save|Quick Save]] instead)."
@@ -21428,7 +21441,7 @@
 			"chucklefish": 4381,
 			"github": "Entoarox/StardewMods",
 
-			"warnings": "Broken on Android (needs Entoarox Framework which crashes on startup).",
+			"warnings": [ "Broken on Android (needs Entoarox Framework which crashes on startup)." ],
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "abandoned",
@@ -22904,7 +22917,7 @@
 		{
 			"name": "Sprinting",
 			"author": "Patrick, mistersnuggler",
-			"id": null,
+			"id": "none",
 			"nexus": null,
 			"url": "https://community.playstarbound.com/threads/smapi-sprinting-mod.108313",
 			"github": "oliverpl/SprintingMod",
@@ -22939,7 +22952,7 @@
 		{
 			"name": "Sprint (Yoshify)",
 			"author": "Yoshify",
-			"id": null,
+			"id": "none",
 			"nexus": 2,
 			"github": null,
 
@@ -23087,7 +23100,7 @@
 		{
 			"name": "StaminaRegen",
 			"author": "EvilPdor",
-			"id": null,
+			"id": "none",
 			"nexus": null,
 			"url": "https://community.playstarbound.com/threads/111526",
 			"github": "natfoth/StardewValleyMods",
@@ -23287,8 +23300,7 @@
 			"author": "davikr, apdapreturns",
 			"id": "davikr.hypnos",
 			"nexus": 5935,
-			"github": "davicr/StardewHypnos",
-			"brokenIn": "Stardew Valley 1.4"
+			"github": "davicr/StardewHypnos"
 		},
 		{
 			"name": "Stardew Impact, Stardew Impact - Play as NPCs",
@@ -24077,7 +24089,7 @@
 		{
 			"name": "Taxes Mod",
 			"author": "bdawson1993",
-			"id": null,
+			"id": "none",
 			"nexus": 38,
 			"github": null,
 
@@ -24373,7 +24385,8 @@
 			"name": "The Return of Immersive Scarecrows",
 			"author": "aedenthorn and lucaskfreitas",
 			"id": "lucaskfreitas.ImmersiveScarecrows",
-			"nexus": 20701
+			"nexus": 20701,
+			"github": null
 		},
 		{
 			"name": "The Return of Immersive Sprinklers",
@@ -25386,7 +25399,7 @@
 			"url": "https://github.com/Annosz/UIInfoSuite2/releases",
 			"github": "Annosz/UiInfoSuite2",
 
-			"warnings": "Broken on Android."
+			"warnings": [ "Broken on Android." ]
 		},
 		{
 			"name": "UI Mod Suite",
@@ -25903,7 +25916,7 @@
 		{
 			"name": "Wake Up",
 			"author": "EvilPdor",
-			"id": null,
+			"id": "none",
 			"nexus": null,
 			"url": "https://community.playstarbound.com/threads/111526",
 			"github": null,
@@ -25950,7 +25963,7 @@
 		{
 			"name": "Wallpaper Fix",
 			"author": "Travoos",
-			"id": null,
+			"id": "none",
 			"nexus": null,
 			"chucklefish": 4211,
 			"github": null,
@@ -26264,7 +26277,7 @@
 		{
 			"name": "Weather Controller",
 			"author": "EvilPdor",
-			"id": null,
+			"id": "none",
 			"nexus": null,
 			"url": "https://community.playstarbound.com/threads/111526",
 			"github": "natfoth/StardewValleyMods",
@@ -26949,6 +26962,7 @@
 			"author": "Boogie",
 			"id": "Boogie.Crafting",
 			"nexus": 7177,
+			"github": null,
 
 			"summary": "broken (doesn't show new 1.6 crafting recipes).",
 			"brokeIn": "Stardew Valley 1.6"
@@ -26958,6 +26972,7 @@
 			"author": "Amaryn",
 			"id": "Amaryn.CuterSlimes",
 			"nexus": 6073,
+			"github": null,
 
 			"contentPackFor": "Content Patcher",
 
@@ -27011,6 +27026,7 @@
 			"author": "someguy363",
 			"id": "iss.immersivespouses",
 			"nexus": 5117,
+			"github": null,
 
 			"contentPackFor": "Content Patcher",
 
@@ -27023,6 +27039,7 @@
 			"author": "sivolobwho and foggywizard",
 			"id": "foggy.LfL",
 			"nexus": 10206,
+			"github": null,
 
 			"contentPackFor": "Content Patcher",
 
@@ -27076,6 +27093,8 @@
 			"author": "Wingyl",
 			"id": "Wingyl.QualityArtisanProducts",
 			"moddrop": 707502,
+			"nexus": null,
+			"github": null,
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
