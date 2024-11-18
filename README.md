@@ -29,12 +29,14 @@ Before proposing changes, please be aware of these guidelines:
 ### Propose changes
 To update this list:
 
-1. Install a JSON editor like [Visual Studio Code][] that understands JSON schemas.
-2. Edit the `data/data.jsonc` file locally. Make sure there are no schema warnings for your changes.
-3. [Submit a pull request][].
+1. Navigate to `data/data.jsonc` in the GitHub web UI.
+2. Click the "Edit this file" icon in the top-right corner.
+3. Copy the text into a text editor like [Visual Studio Code][] that understands JSON schemas.
+4. Make any changes needed.
 
-You can also propose changes to the `data/data.jsonc` file directly in the GitHub web UI. However,
-the GitHub UI won't validate the schema until the pull request is submitted.
+   You can point at a field for an explanation of that field. For example:
+   ![](docs/schema-tooltip.png)
+5. Copy your changes back into the GitHub web UI, and click the big green button to propose the changes.
 
 ### Mod compatibility list
 The public [mod compatibility list][] will be updated automatically within 10 minutes when a change
