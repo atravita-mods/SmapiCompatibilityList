@@ -3563,7 +3563,7 @@
 			"brokeIn": "Stardew Valley 1.6",
 			"unofficialUpdate": {
 				"version": "2.1.1-unofficial.3",
-				"url": "[Buy cooking recipes](https://www.nexusmods.com/stardewvalley/mods/21137)"
+				"url": "https://www.nexusmods.com/stardewvalley/mods/21137"
 			}
 		},
 		{
@@ -11732,7 +11732,7 @@
 
 			"brokeIn": "SMAPI 3.0",
 			"status": "workaround",
-			"summary": "use [Enemy Health Bars](#) (by OrSpeeder or by TheThor59) or [Health Bars](#) (by Zoryn) instead."
+			"summary": "use [Enemy Health Bars](#) (by OrSpeeder) or [Health Bars](#) (by Zoryn) instead."
 		},
 		{
 			"name": "Health Rework",
@@ -12103,7 +12103,7 @@
 
 			"brokeIn": "SMAPI 3.0",
 			"status": "workaround",
-			"summary": "use [Enemy Health Bars](#) (by OrSpeeder or by TheThor59) or [Health Bars](#) (by Zoryn) instead."
+			"summary": "use [Enemy Health Bars](#) (by OrSpeeder) or [Health Bars](#) (by Zoryn) instead."
 		},
 		{
 			"name": "HQ Farmer Mod",
