@@ -1,8 +1,52 @@
 This repository has the compatibility metadata for every [Stardew Valley][] C# mod for [SMAPI][].
 The [mod compatibility list][] is automatically generated from this data.
 
+## Contents
+* [For players](#for-players)
+* [For mod authors](#for-mod-authors)
+  * [Update your own mod](#update-your-own-mod)
+  * [Unofficial updates](#unofficial-updates)
+* [Edit the compatibility list](#edit-the-compatibility-list)
+  * [Guidelines](#guidelines)
+  * [Propose changes](#propose-changes)
+  * [Publish changes](#publish-changes)
+
 ## For players
 See the [mod compatibility list][] instead!
+
+## For mod authors
+### Update your own mod
+See [migration guides][] on the wiki.
+
+You can also...
+* [Update this compatibility list](#edit-the-compatibility-list).
+* Chat or ask questions in [#making-mods-general on Discord](https://smapi.io/community#Discord).
+
+### Unofficial updates
+An _unofficial update_ is an update for a broken open-source mod which is available from somewhere
+other than the official mod page. (This is separate from a continuation or redux mod.)
+
+SMAPI has special support for unofficial updates. If the player has the official mod installed
+_and_ it's incompatible, SMAPI will automatically show an update alert so they can get the
+unofficial update.
+
+To prepare an unofficial update:
+
+1. [Fork the mod's code](https://help.github.com/articles/fork-a-repo/).
+2. Make your changes to that fork.
+3. Change the version in `manifest.json` to an unofficial version.
+
+   **⚠ Important**: An unofficial version _must_ match the official mod's version, incremented by
+   `0.0.1`, with `-unofficial.1-yourName` appended. For example, if the official mod version is
+   `1.2.3`, then the unofficial versions would be `1.2.4-unofficial.1-yourName`,
+   `1.2.4-unofficial.2-yourName`, etc. This avoids breaking update alerts for the official mod
+    versions.
+
+4. Push your changes to GitHub.
+5. Post a release zip in the [unofficial updates forum thread][] with a link to your fork on GitHub.  
+   _(If the mod uses the NuGet build package, there should be a release package named `<mod name>
+   <version>.zip` in your bin folder.)_
+6. [Submit a pull request][] to the original author (if applicable).
 
 ## Edit the compatibility list
 Contributions are welcome!
@@ -24,7 +68,7 @@ Before proposing changes, please be aware of these guidelines:
   Only mark a mod 'broken' if it's incompatible. This isn't the place to track general mod bugs,
   unless they impact compatibility. In rare cases where a non-compatibility bug is severe enough to
   note here (e.g. game crashes on some platforms), you can use the `warnings` field.
-- **All contributions are released under this [repo's open-source MIT license](LICENSE).**
+- All contributions are released under this [repo's open-source MIT license](LICENSE).
 
 ### Propose changes
 To update this list:
@@ -38,12 +82,14 @@ To update this list:
    ![](docs/schema-tooltip.png)
 5. Copy your changes back into the GitHub web UI, and click the big green button to propose the changes.
 
-### Mod compatibility list
-The public [mod compatibility list][] will be updated automatically within 10 minutes when a change
-is merged.
+### Publish changes
+The public [mod compatibility list][] will be updated automatically within 10 minutes once the
+proposed change is merged.
 
+[migration guides]: https://stardewvalleywiki.com/Modding:Index#Migration_guides
 [Modding:Using XNB mods]: https://stardewvalleywiki.com/Modding:Using_XNB_mods
 [Submit a pull request]: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request
+[unofficial updates forum thread]: https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/
 
 [mod compatibility list]: https://smapi.io/mods
 
