@@ -27083,10 +27083,8 @@
 			"contentPackFor": "Content Patcher",
 
 			"brokeIn": "Stardew Valley 1.5",
-			"unofficialUpdate": {
-				"version": "OvergrownFairyBuildings.1.5.unofficialUpdate2",
-				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-26846"
-			}
+			"status": "workaround",
+			"summary": "use [unofficial update](https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-26846) instead." // doesn't use unofficial version convention
 		},
 		{
 			"name": "Quality Artisan Products",

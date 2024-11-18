@@ -112,8 +112,10 @@
 					"properties": {
 						"version": {
 							"title": "Unofficial update version",
-							"description": "The semantic version number for the unofficial update. This must match the version in the linked download's manifest.json file, and is used for update alerts.\n\nTo avoid breaking update alerts, unofficial versions must match the official version incremented by 0.0.1 with a `-unofficial.n-updateAuthor` prerelease tag. For example, if the official version is 1.2.3, the unofficial versions should be 1.2.4-unofficial.1-someUserName, 1.2.4-unofficial.2-someUserName, etc.",
-							"type": "string"
+							"description": "The semantic version number for the unofficial update. This must match the version in the linked download's manifest.json file, and is used for update alerts.\n\nTo avoid breaking update alerts, unofficial versions must match the official version, incremented by 0.0.1, with a `-unofficial.#-updateAuthor` prerelease tag. For example, if the official version is 1.2.3, the unofficial versions should be 1.2.4-unofficial.1-someUserName, 1.2.4-unofficial.2-someUserName, etc.",
+							"type": "string",
+							"pattern": "^(?:0|[1-9]\\d*)\\.(?:0|[1-9]\\d*)\\.(?:0|[1-9]\\d*)-unofficial(?:[\\.\\-]\\d+([\\.\\-][a-zA-Z0-9\\-\\._]+)?)?$",
+							"examples": [ "1.2.3-unofficial.1-updaterName" ]
 						},
 						"url": {
 							"title": "Unofficial update URL",
