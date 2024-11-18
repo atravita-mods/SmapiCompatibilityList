@@ -24,7 +24,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#24h Clock|24h Clock]] or [24H Clock Language](https://www.nexusmods.com/stardewvalley/mods/20794) instead."
+			"summary": "use [24h Clock](#) or [24H Clock Language](https://www.nexusmods.com/stardewvalley/mods/20794) instead."
 		},
 		{
 			"name": "24 Hour Format, 24 Hour Clock",
@@ -35,7 +35,7 @@
 
 			"brokeIn": "SMAPI 3.0",
 			"status": "workaround",
-			"summary": "use [[#24h Clock|24h Clock]] or [24H Clock Language](https://www.nexusmods.com/stardewvalley/mods/20794) instead."
+			"summary": "use [24h Clock](#) or [24H Clock Language](https://www.nexusmods.com/stardewvalley/mods/20794) instead."
 		},
 		{
 			"name": "3-Story Cellar",
@@ -69,7 +69,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Abilities - Experience Bars 1.6|Abilities - Experience Bars 1.6]] instead."
+			"summary": "use [Abilities - Experience Bars 1.6](#) instead."
 		},
 		{
 			"name": "Abilities - Experience Bars 1.6, Abilities Experience Bars",
@@ -94,7 +94,7 @@
 
 			"brokeIn": "Stardew Valley 1.1",
 			"status": "workaround",
-			"summary": "use [[#Chests Anywhere|Chests Anywhere]] instead."
+			"summary": "use [Chests Anywhere](#) instead."
 		},
 		{
 			"name": "Accessible Tiles",
@@ -349,7 +349,7 @@
 
 			"brokeIn": "Stardew Valley 1.5",
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Content Patcher|Content Patcher]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Content Patcher](#) instead)."
 		},
 		{
 			"name": "Advanced Loot Framework",
@@ -375,7 +375,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "workaround",
-			"summary": "use [[#Automate|Automate]] instead to automate machines; other features now part of the vanilla game."
+			"summary": "use [Automate](#) instead to automate machines; other features now part of the vanilla game."
 		},
 		{
 			"name": "Advanced Melee Framework",
@@ -569,7 +569,7 @@
 			"github": "cantorsdust/StardewMods",
 
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Crops Anytime Anywhere|Crops Anytime Anywhere]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Crops Anytime Anywhere](#) instead)."
 		},
 		{
 			"name": "Allow Beach Sprinklers",
@@ -613,7 +613,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "workaround",
-			"summary": "Consider using [[#Multitool|Multitool]] or [[#Auto Tool|Auto Tool]] instead.",
+			"summary": "Consider using [Multitool](#) or [Auto Tool](#) instead.",
 			/*
 			"unofficialUpdate": {
 				"version": "1.2.2-unofficial.3.mizzion",
@@ -805,7 +805,7 @@
 
 			"brokeIn": "Stardew Valley 1.3.29",
 			"status": "workaround",
-			"summary": "use [[#Animal Selector|Animal Selector]] instead."
+			"summary": "use [Animal Selector](#) instead."
 		},
 		{
 			"name": "Animal Dialogue Framework",
@@ -981,7 +981,7 @@
 			"brokeIn": "Stardew Valley 1.5.5" // @retest-after HD Portraits
 			/*
 			"status": "workaround",
-			"summary": "use [[#HD Portraits|HD Portraits]] instead.",
+			"summary": "use [HD Portraits](#) instead.",
 			*/
 		},
 		{
@@ -1241,7 +1241,7 @@
 
 			"brokeIn": "Stardew Valley 1.4",
 			"status": "workaround",
-			"summary": "use [[#Artifact System Drop Framework & Geodes Handler|Artifact System Drop Framework & Geodes Handler]] instead."
+			"summary": "use [Artifact System Drop Framework & Geodes Handler](#) instead."
 		},
 		{
 			"name": "Artisan Goods Redone",
@@ -1451,7 +1451,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "workaround",
-			"summary": "use [[#CJB Cheats Menu|CJB Cheats Menu]] instead."
+			"summary": "use [CJB Cheats Menu](#) instead."
 		},
 		{
 			"name": "Auto Crop Watering, Auto Water Crops",
@@ -1477,7 +1477,7 @@
 
 			"brokeIn": "Stardew Valley 1.5",
 			"status": "workaround",
-			"summary": "use [[#Daily Screenshot|Daily Screenshot]] instead."
+			"summary": "use [Daily Screenshot](#) instead."
 			/*
 			"unofficialUpdate": {
 				"version": "1.0.1-unofficial.1-AevumDecessus",
@@ -1546,7 +1546,7 @@
 			"github": null,
 
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Deluxe Auto-Grabber|Deluxe Auto-Grabber]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Deluxe Auto-Grabber](#) instead)."
 		},
 		{
 			"name": "Auto-Grabber Vacuum",
@@ -1827,7 +1827,7 @@
 
 			"brokeIn": "SMAPI 2.0",
 			"status": "workaround",
-			"summary": "use [[#Auto Water|Auto Water]] or [[#CJB Cheats Menu|CJB Cheats Menu]] instead."
+			"summary": "use [Auto Water](#) or [CJB Cheats Menu](#) instead."
 		},
 		{
 			"name": "Auto Watering Can",
@@ -1893,7 +1893,7 @@
 
 			"brokeIn": "Stardew Valley 1.4",
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Family Planning|Family Planning]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Family Planning](#) instead)."
 		},
 		{
 			"name": "Baby Pets",
@@ -2029,7 +2029,7 @@
 			"brokeIn": "Stardew Valley 1.4" // @retest-after Battle Royalley - Year 2
 			/*
 			"status": "workaround",
-			"summary": "use [[#Battle Royalley - Year 2|Battle Royalley - Year 2]] instead.",
+			"summary": "use [Battle Royalley - Year 2](#) instead.",
 			*/
 		},
 		{
@@ -2146,7 +2146,7 @@
 
 			"brokeIn": "Stardew Valley 1.4",
 			"status": "workaround",
-			"summary": "use [[#Activate Sprinklers|Activate Sprinklers]] or [[#Activated Sprinklers|Activated Sprinklers]] instead."
+			"summary": "use [Activate Sprinklers](#) or [Activated Sprinklers](#) instead."
 		},
 		{
 			"name": "Better Artisan Good Icons",
@@ -2158,7 +2158,7 @@
 
 			"brokeIn": "Stardew Valley 1.6", // @retest-linked
 			"status": "workaround",
-			"summary": "use [[#Even Better Artisan Good Icons|Even Better Artisan Good Icons]] instead (see [instructions to convert old content packs](https://github.com/chsiao58/EvenBetterArtisanGoodIcons#for-user))."
+			"summary": "use [Even Better Artisan Good Icons](#) instead (see [instructions to convert old content packs](https://github.com/chsiao58/EvenBetterArtisanGoodIcons#for-user))."
 		},
 		{
 			"name": "Better Artisan Good Icons For Meads, Better Artisan Good Icons - Mead Addon",
@@ -2300,7 +2300,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Better Elevator - Continued|Better Elevator - Continued]] instead."
+			"summary": "use [Better Elevator - Continued](#) instead."
 		},
 		{
 			"name": "Better Elevator - Continued",
@@ -2388,7 +2388,7 @@
 
 			"brokeIn": "Stardew Valley 1.5",
 			"status": "workaround",
-			"summary": "use [[#Garden Pot Options|Garden Pot Options]] instead."
+			"summary": "use [Garden Pot Options](#) instead."
 			/*
 			"unofficialUpdate": {
 				"version": "1.6.1-unofficial.1-benjiismydog",
@@ -2435,7 +2435,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "workaround",
-			"summary": "use [[#Iridium Tools Patch|Iridium Tools Patch]] instead."
+			"summary": "use [Iridium Tools Patch](#) instead."
 		},
 		{
 			"name": "Better Jukebox",
@@ -2510,7 +2510,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "abandoned",
-			"summary": "use [[#Re-Mixed Seeds|Re-Mixed Seeds]] or [Seed Overhaul](https://www.nexusmods.com/stardewvalley/mods/22495) instead."
+			"summary": "use [Re-Mixed Seeds](#) or [Seed Overhaul](https://www.nexusmods.com/stardewvalley/mods/22495) instead."
 		},
 		{
 			"name": "Better Panning",
@@ -2619,7 +2619,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "workaround",
-			"summary": "Use [[#Better Shipping Bin|Better Shipping Bin]] instead.",
+			"summary": "Use [Better Shipping Bin](#) instead.",
 
 			"overrideModData": [
 				{
@@ -2717,7 +2717,7 @@
 			"github": "gingajamie/smapi-better-sprinklers-plus-encore",
 
 			"status": "abandoned",
-			"summary": "use [[#Better Sprinklers Plus|Better Sprinklers Plus]] instead."
+			"summary": "use [Better Sprinklers Plus](#) instead."
 		},
 		{
 			"name": "Better Stardrops",
@@ -2806,7 +2806,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Workbench Helper|Workbench Helper]] instead."
+			"summary": "use [Workbench Helper](#) instead."
 		},
 		{
 			"name": "Betwitched",
@@ -2904,7 +2904,7 @@
 
 			"brokeIn": "SMAPI 3.12.0",
 			"status": "workaround",
-			"summary": "use [[#Silo Size|Silo Size]] instead.",
+			"summary": "use [Silo Size](#) instead.",
 
 			"overrideModData": [
 				{
@@ -3238,7 +3238,7 @@
 			"github": "spacechase0/Bow",
 
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Archery|Archery]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Archery](#) instead)."
 		},
 		{
 			"name": "Brave New World - Core, BNW Core",
@@ -3294,7 +3294,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "workaround",
-			"summary": "use [[#Breed Like Rabbits 2: Procreation Boogaloo|Breed Like Rabbits 2: Procreation Boogaloo]] instead."
+			"summary": "use [Breed Like Rabbits 2: Procreation Boogaloo](#) instead."
 		},
 		{
 			"name": "Brighter Building Paint",
@@ -3647,7 +3647,7 @@
 
 			"brokeIn": "Stardew Valley 1.3.29",
 			"status": "workaround",
-			"summary": "use [[#Limited Campfire Cooking|Limited Campfire Cooking]] instead."
+			"summary": "use [Limited Campfire Cooking](#) instead."
 		},
 		{
 			"name": "Can The Player Leave",
@@ -3720,7 +3720,7 @@
 
 			"brokeIn": "Stardew Valley 1.4",
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Custom Cask Mod|Custom Cask Mod]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Custom Cask Mod](#) instead)."
 		},
 		{
 			"name": "Casks Everywhere",
@@ -3732,7 +3732,7 @@
 
 			"brokeIn": "Stardew Valley 1.5",
 			"status": "workaround",
-			"summary": "use [[#Custom Cask Mod|Custom Cask Mod]] instead."
+			"summary": "use [Custom Cask Mod](#) instead."
 		},
 		{
 			"name": "Casks on Ground",
@@ -3743,7 +3743,7 @@
 
 			"brokeIn": "Stardew Valley 1.4",
 			"status": "workaround",
-			"summary": "use [[#Custom Cask Mod|Custom Cask Mod]] instead."
+			"summary": "use [Custom Cask Mod](#) instead."
 		},
 		{
 			"name": "Casual Life",
@@ -3769,7 +3769,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Catalogue Filter- Continued|Catalogue Filter - Continued]] instead."
+			"summary": "use [Catalogue Filter - Continued](#) instead."
 		},
 		{
 			"name": "Catalogue Filter - Continued",
@@ -3819,7 +3819,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "workaround",
-			"summary": "use [[#Better Chests|Better Chests]] or [[#Convenient Chests|Convenient Chests]] instead."
+			"summary": "use [Better Chests](#) or [Convenient Chests](#) instead."
 			/*
 			"unofficialUpdate": {
 				"version": "1.4.3-unofficial.3.mizzion",
@@ -4033,7 +4033,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Default On Cheats|Default On Cheats]] instead."
+			"summary": "use [Default On Cheats](#) instead."
 		},
 		{
 			"name": "Chat Commands Lite",
@@ -4074,7 +4074,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "workaround",
-			"summary": "use [[#Remote Fridge Storage|Remote Fridge Storage]] instead.",
+			"summary": "use [Remote Fridge Storage](#) instead.",
 
 			"overrideModData": [
 				{
@@ -4163,7 +4163,7 @@
 
 			"brokeIn": "SMAPI 3.0",
 			"status": "workaround",
-			"summary": "use [[#Chests Anywhere|Chests Anywhere]] instead."
+			"summary": "use [Chests Anywhere](#) instead."
 		},
 		{
 			"name": "Chest Pooling",
@@ -4175,7 +4175,7 @@
 
 			"brokeIn": "Stardew Valley 1.4",
 			"status": "workaround",
-			"summary": "use [[#Better Chests|Better Chests]], [[#Convenient Chests|Convenient Chests]], or [[#Chest Pooling V2|Chest Pooling V2]] instead."
+			"summary": "use [Better Chests](#), [Convenient Chests](#), or [Chest Pooling V2](#) instead."
 		},
 		{
 			"name": "Chest Pooling V2",
@@ -4285,7 +4285,7 @@
 
 			"brokeIn": "SMAPI 2.0",
 			"status": "workaround",
-			"summary": "use [[#Family Planning|Family Planning]] instead."
+			"summary": "use [Family Planning](#) instead."
 		},
 		{
 			"name": "Choose Random Farm Event",
@@ -4315,7 +4315,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Never Ending Adventure and Circle of Thorns|Never Ending Adventure and Circle of Thorns]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Never Ending Adventure and Circle of Thorns](#) instead)."
 		},
 		{
 			"name": "CJB Automation",
@@ -4326,7 +4326,7 @@
 
 			"brokeIn": "Stardew Valley 1.2",
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Automate|Automate]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Automate](#) instead)."
 		},
 		{
 			"name": "CJB Cheats Menu",
@@ -4409,7 +4409,7 @@
 
 			"brokeIn": "Stardew Valley 1.3.29",
 			"status": "workaround",
-			"summary": "use [[#Right Click Move Mode|Right Click Move Mode]] instead."
+			"summary": "use [Right Click Move Mode](#) instead."
 		},
 		{
 			"name": "Climates of Ferngill, Ferngill Custom Weather, Ferngill Weathers",
@@ -4438,7 +4438,7 @@
 
 			"brokeIn": "Stardew Valley 1.4",
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#24h Clock|24h Clock by Lajna]] or [[#24-Hour Clock Patcher|24-Hour Clock Patcher by pepoluan]] instead)."
+			"summary": "remove this mod (no longer maintained; use [24h Clock](#) by Lajna or [24-Hour Clock Patcher](#) by pepoluan instead)."
 		},
 		{
 			"name": "Clothes Rack",
@@ -4476,7 +4476,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Prismatic Tools|Prismatic Tools]] or [[#Radioactive Tools|Radioactive Tools]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Prismatic Tools](#) or [Radioactive Tools](#) instead)."
 		},
 		{
 			"name": "Cock-a-doodle-dont",
@@ -4685,7 +4685,7 @@
 
 			"brokeIn": "Stardew Valley 1.4",
 			"status": "workaround",
-			"summary": "use [[#NPC Adventures|NPC Adventures]] instead."
+			"summary": "use [NPC Adventures](#) instead."
 		},
 		{
 			"name": "Compost&#44; Pests&#44; and Cultivation",
@@ -4750,7 +4750,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "workaround",
-			"summary": "use [[#Configure Machine Outputs|Configure Machine Outputs]] instead.",
+			"summary": "use [Configure Machine Outputs](#) instead.",
 
 			"overrideModData": [
 				{
@@ -4864,7 +4864,7 @@
 
 			"brokeIn": "Stardew Valley 1.3.29",
 			"status": "workaround",
-			"summary": "use [[#Aggressive Acorns|Aggressive Acorns]] instead."
+			"summary": "use [Aggressive Acorns](#) instead."
 		},
 		{
 			"name": "Console Chat",
@@ -5018,7 +5018,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Yet Another Cooking Skill|Yet Another Cooking Skill]] instead."
+			"summary": "use [Yet Another Cooking Skill](#) instead."
 		},
 		{
 			"name": "Coop Battle Pause",
@@ -5098,7 +5098,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "workaround",
-			"summary": "use [[#Crab Net Redux|Crab Net Redux]] instead."
+			"summary": "use [Crab Net Redux](#) instead."
 			/*
 			"unofficialUpdate": {
 				"version": "1.1.1-unofficial.6-strobe",
@@ -5267,7 +5267,7 @@
 			"github": null,
 
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Personal Effects|Personal Effects]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Personal Effects](#) instead)."
 		},
 		{
 			"name": "Critter Fixes",
@@ -5459,7 +5459,7 @@
 
 			"brokeIn": "Stardew Valley 1.4", // @retest-after Bookcase
 			"status": "workaround",
-			"summary": "use [[#Lookup Anything|Lookup Anything]] instead."
+			"summary": "use [Lookup Anything](#) instead."
 		},
 		{
 			"name": "Crop Transplant",
@@ -5500,7 +5500,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Crop Watering Bubbles Continued|Crop Watering Bubbles Continued]] instead."
+			"summary": "use [Crop Watering Bubbles Continued](#) instead."
 		},
 		{
 			"name": "Crop Watering Bubbles Continued",
@@ -5562,7 +5562,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Debug Mode|Debug Mode]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Debug Mode](#) instead)."
 		},
 		{
 			"name": "Current Location",
@@ -5573,7 +5573,7 @@
 
 			"brokeIn": "SMAPI 3.0",
 			"status": "workaround",
-			"summary": "use [[#Debug Mode|Debug Mode]] instead."
+			"summary": "use [Debug Mode](#) instead."
 		},
 		{
 			"name": "Cursor Teleport, Teleport to Cursor",
@@ -5616,7 +5616,7 @@
 
 			"brokeIn": "SMAPI 3.0",
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Content Patcher|Content Patcher]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Content Patcher](#) instead)."
 		},
 		{
 			"name": "Custom Backpack Framework",
@@ -5628,7 +5628,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#The Return of Custom Backpack Framework|The Return of Custom Backpack Framework]] instead."
+			"summary": "use [The Return of Custom Backpack Framework](#) instead."
 		},
 		{
 			"name": "Custom Blessings Framework",
@@ -5743,7 +5743,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Json Assets|Json Assets]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Json Assets](#) instead)."
 		},
 		{
 			"name": "Custom Crops Decay",
@@ -5812,7 +5812,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#PyTK|PyTK]] instead)."
+			"summary": "remove this mod (no longer maintained; use [PyTK](#) instead)."
 		},
 		{
 			"name": "Custom Elevator Sound, Customizable Elevator Bell Ding Sound Replacer",
@@ -5847,7 +5847,7 @@
 			"github": "Platonymous/Stardew-Valley-Mods",
 
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Producer Framework Mod|Producer Framework Mod]] instead.",
+			"summary": "remove this mod (no longer maintained; use [Producer Framework Mod](#) instead.",
 			"brokeIn": "Stardew Valley 1.4.4" // @retest-linked
 			/*
 			"unofficialUpdate": {
@@ -5865,7 +5865,7 @@
 
 			"brokeIn": "Automate 1.15",
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Producer Framework Mod → PFMAutomate|Producer Framework Mod → PFMAutomate]] instead."
+			"summary": "remove this mod (no longer maintained; use [Producer Framework Mod → PFMAutomate](#) instead."
 			/*
 			"unofficialUpdate": {
 				"version": "2.12.10-unofficial.1-minervamaga",
@@ -5917,7 +5917,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Custom Fixed Dialogue - Continued|Custom Fixed Dialogue - Continued]] instead."
+			"summary": "use [Custom Fixed Dialogue - Continued](#) instead."
 		},
 		{
 			"name": "Custom Fixed Dialogue - Continued",
@@ -5956,7 +5956,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Custom Gift Limits - Continued|Custom Gift Limits - Continued]] instead."
+			"summary": "use [Custom Gift Limits - Continued](#) instead."
 		},
 		{
 			"name": "Custom Gift Limits - Continued",
@@ -6228,7 +6228,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Content Patcher|Content Patcher]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Content Patcher](#) instead)."
 		},
 		{
 			"name": "Custom NPC Exclusions",
@@ -6305,7 +6305,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Content Patcher|Content Patcher]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Content Patcher](#) instead)."
 		},
 		{
 			"name": "Custom Pet Beds, Pet Bed",
@@ -6378,7 +6378,7 @@
 
 			"brokeIn": "Stardew Valley 1.4",
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Json Assets|Json Assets]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Json Assets](#) instead)."
 		},
 		{
 			"name": "Custom Shops Redux",
@@ -6389,7 +6389,7 @@
 
 			"brokeIn": "Stardew Valley 1.4",
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Content Patcher|Content Patcher]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Content Patcher](#) instead)."
 		},
 		{
 			"name": "Custom Signs",
@@ -6418,7 +6418,7 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Custom Spouse Patio Redux|Custom Spouse Patio Redux]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Custom Spouse Patio Redux](#) instead)."
 		},
 		{
 			"name": "Custom Spouse Patio Redux",
@@ -6454,7 +6454,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Custom Spouse Rooms - Continued|Custom Spouse Rooms - Continued]] or [unofficial update](https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-123184) instead.",
+			"summary": "use [Custom Spouse Rooms - Continued](#) or [unofficial update](https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-123184) instead.",
 			"unofficialUpdate": {
 				"version": "0.8.3-unofficial.1-FlyingTNT",
 				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-123184"
@@ -6702,7 +6702,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "workaround",
-			"summary": "use [[#Stardew Notifications|Stardew Notifications]] instead."
+			"summary": "use [Stardew Notifications](#) instead."
 		},
 		{
 			"name": "Daily Luck on HUD, Just Luck Mod, Luck Score HUD",
@@ -6731,7 +6731,7 @@
 
 			"brokeIn": "Stardew Valley 1.2?",
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Stardew Notifications|Stardew Notifications]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Stardew Notifications](#) instead)."
 			/*
 			"unofficialUpdate": {
 				"version": "1.2.1-unofficial.3-f4ith",
@@ -6770,7 +6770,7 @@
 			"github": "janavarro95/Stardew_Valley_Mods",
 
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Billboard Anywhere|Billboard Anywhere]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Billboard Anywhere](#) instead)."
 		},
 		{
 			"name": "Daily Screenshot",
@@ -7014,7 +7014,7 @@
 
 			"brokeIn": "Stardew Valley 1.3.29",
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Deluxe Grabber Redux|Deluxe Grabber Redux]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Deluxe Grabber Redux](#) instead)."
 		},
 		{
 			"name": "Deluxe Auto-Petter",
@@ -7032,7 +7032,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Deluxe Grabber Redux 1.6|Deluxe Grabber Redux 1.6]] instead."
+			"summary": "use [Deluxe Grabber Redux 1.6](#) instead."
 		},
 		{
 			"name": "Deluxe Grabber Redux 1.6",
@@ -7229,7 +7229,7 @@
 			"github": null,
 
 			"status": "workaround",
-			"summary": "use [[#Crops Watered Indicator|Crops Watered Indicator]] instead.",
+			"summary": "use [Crops Watered Indicator](#) instead.",
 			"brokeIn": "Stardew Valley 1.3.29"
 		},
 		{
@@ -7595,7 +7595,7 @@
 
 			"brokeIn": "SMAPI 2.0",
 			"status": "workaround",
-			"summary": "use [[#Daily Tasks Report|Daily Tasks Report]] instead."
+			"summary": "use [Daily Tasks Report](#) instead."
 			/*
 			"unofficialUpdate": {
 				"version": "1.0.2-unofficial.1-Mizzion",
@@ -7684,7 +7684,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Adopt 'n Skin|Adopt 'n Skin]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Adopt 'n Skin](#) instead)."
 		},
 		{
 			"name": "Dynamic Machines",
@@ -7695,7 +7695,7 @@
 
 			"brokeIn": "SMAPI 2.0",
 			"status": "workaround",
-			"summary": "use [[#Configure Machine Outputs|Configure Machine Outputs]] instead.",
+			"summary": "use [Configure Machine Outputs](#) instead.",
 
 			"overrideModData": [
 				{
@@ -7715,7 +7715,7 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"summary": "use [[#Dynamic Map Tiles - Continued|Dynamic Map Tiles - Continued]] instead."
+			"summary": "use [Dynamic Map Tiles - Continued](#) instead."
 		},
 		{
 			"name": "Dynamic Map Tiles - Continued",
@@ -7741,7 +7741,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "workaround",
-			"summary": "use [[#Content Patcher|Content Patcher]] instead."
+			"summary": "use [Content Patcher](#) instead."
 		},
 		{
 			"name": "Dynamic Price",
@@ -7803,7 +7803,7 @@
 
 			"brokeIn": "Stardew Valley 1.6", // @retest-after AtraCore
 			"status": "workaround",
-			"summary": "use [[#Easy Island Puzzle|Easy Island Puzzle]] instead."
+			"summary": "use [Easy Island Puzzle](#) instead."
 		},
 		{
 			"name": "Easier Dart Puzzle",
@@ -7816,7 +7816,7 @@
 
 			"brokeIn": "Stardew Valley 1.6", // @retest-after AtraCore
 			"status": "workaround",
-			"summary": "use [[#Easy Darts Game|Easy Darts Game]] instead."
+			"summary": "use [Easy Darts Game](#) instead."
 		},
 		{
 			"name": "Easier Farming",
@@ -7835,7 +7835,7 @@
 
 			"brokeIn": "SMAPI 3.0",
 			"status": "workaround",
-			"summary": "use [[#Fishing Mod|Fishing Mod]] instead."
+			"summary": "use [Fishing Mod](#) instead."
 		},
 		{
 			"name": "Easier Monster Eradication",
@@ -7918,7 +7918,7 @@
 
 			"brokeIn": "Stardew Valley 1.4",
 			"status": "workaround",
-			"summary": "use [[#Point and Plant|Point and Plant]] or [[#Smart Building|Smart Building]] instead."
+			"summary": "use [Point and Plant](#) or [Smart Building](#) instead."
 		},
 		{
 			"name": "Easy Farm Switcher",
@@ -7990,7 +7990,7 @@
 
 			"brokeIn": "Stardew Valley 1.5",
 			"status": "workaround",
-			"summary": "use [[#Animal Observer|Animal Observer]] instead."
+			"summary": "use [Animal Observer](#) instead."
 		},
 		{
 			"name": "Easy Travel, Easy Move",
@@ -8108,7 +8108,7 @@
 
 			"brokeIn": "SMAPI 3.0",
 			"status": "workaround",
-			"summary": "use [[#Standardized Krobus|Standardized Krobus]] instead."
+			"summary": "use [Standardized Krobus](#) instead."
 		},
 		{
 			"name": "Email App",
@@ -8148,7 +8148,7 @@
 			"github": "quicksilverfox/StardewMods",
 
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Empty Your Hands|Empty Your Hands]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Empty Your Hands](#) instead)."
 		},
 		{
 			"name": "Empty Jar Bubbles",
@@ -8483,7 +8483,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Archaeology Skill for 1.6|Archaeology Skill for 1.6]] instead."
+			"summary": "use [Archaeology Skill for 1.6](#) instead."
 		},
 		{
 			"name": "Exhaustion Tweaks",
@@ -8606,7 +8606,7 @@
 
 			"brokeIn": "Stardew Valley 1.2",
 			"status": "workaround",
-			"summary": "use [[#Remote Fridge Storage|Remote Fridge Storage]] instead."
+			"summary": "use [Remote Fridge Storage](#) instead."
 			/*
 			"unofficialUpdate": {
 				"version": "1.1.1-unofficial.4.mizzion",
@@ -8624,7 +8624,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Content Patcher|Content Patcher]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Content Patcher](#) instead)."
 		},
 		{
 			"name": "Extended Reach",
@@ -8859,7 +8859,7 @@
 
 			"brokeIn": "SMAPI 2.0",
 			"status": "workaround",
-			"summary": "use [[#Auto Animal Doors|Auto Animal Doors]] or [[#Automated Doors|Automated Doors]] instead."
+			"summary": "use [Auto Animal Doors](#) or [Automated Doors](#) instead."
 		},
 		{
 			"name": "Farm Automation: Item Collector",
@@ -8871,7 +8871,7 @@
 
 			"brokeIn": "Stardew Valley 1.2",
 			"status": "workaround",
-			"summary": "use [[#Automate|Automate]] instead."
+			"summary": "use [Automate](#) instead."
 		},
 		{
 			"name": "Farm Cave Framework",
@@ -9069,7 +9069,7 @@
 
 			"brokeIn": "SMAPI 2.0",
 			"status": "workaround",
-			"summary": "use [[#Farm Type Manager|Farm Type Manager]] instead."
+			"summary": "use [Farm Type Manager](#) instead."
 		},
 		{
 			"name": "Farm Tablet",
@@ -9179,7 +9179,7 @@
 
 			"brokeIn": "SMAPI 3.0",
 			"status": "workaround",
-			"summary": "use [[#Grass Growth|Grass Growth]] instead."
+			"summary": "use [Grass Growth](#) instead."
 		},
 		{
 			"name": "Faster Horse",
@@ -9216,7 +9216,7 @@
 
 			"brokeIn": "SMAPI 2.0",
 			"status": "workaround",
-			"summary": "use [[#Auto Speed|Auto Speed]] instead."
+			"summary": "use [Auto Speed](#) instead."
 		},
 		{
 			"name": "Faster Transition",
@@ -9264,7 +9264,7 @@
 
 			"brokeIn": "Stardew Valley 1.2",
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Fast Animations|Fast Animations]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Fast Animations](#) instead)."
 		},
 		{
 			"name": "Fast Loads",
@@ -9381,7 +9381,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Ultimate Fertilizer|Ultimate Fertilizer]] instead."
+			"summary": "use [Ultimate Fertilizer](#) instead."
 		},
 		{
 			"name": "Fertilizer Bubbles",
@@ -9595,7 +9595,7 @@
 
 			"brokeIn": "SMAPI 2.6",
 			"status": "workaround",
-			"summary": "use [[#Fishing Mod|Fishing Mod]] instead."
+			"summary": "use [Fishing Mod](#) instead."
 		},
 		{
 			"name": "Fishing Assistant 2, Fishing Assistant", // changed in 2.0.0
@@ -9739,7 +9739,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Fishing Trawler - New Horizons|Fishing Trawler - New Horizons]] instead."
+			"summary": "use [Fishing Trawler - New Horizons](#) instead."
 		},
 		{
 			"name": "Fishing Trawler - New Horizons",
@@ -9768,7 +9768,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "workaround",
-			"summary": "use [[#Fishing Mod|Fishing Mod]] instead."
+			"summary": "use [Fishing Mod](#) instead."
 		},
 		{
 			"name": "Fish Me",
@@ -10039,7 +10039,7 @@
 
 			"brokeIn": "SMAPI 3.0",
 			"status": "workaround",
-			"summary": "use [[#Three-Heart Dance Partner|Three-Heart Dance Partner]] instead."
+			"summary": "use [Three-Heart Dance Partner](#) instead."
 		},
 		{
 			"name": "Flower Dancing, Kelly's Flower Dancing",
@@ -10162,7 +10162,7 @@
 
 			"brokeIn": "Stardew Valley 1.3.29",
 			"status": "workaround",
-			"summary": "use [[#Farm Type Manager|Farm Type Manager]] instead."
+			"summary": "use [Farm Type Manager](#) instead."
 			/*
 			"unofficialUpdate": {
 				"version": "1.9.1-unofficial.1-Olivki",
@@ -10294,13 +10294,13 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "Use [[#Polyamory Sweet → Polyamory Kiss|Polyamory Sweet → Polyamory Kiss]] instead."
+			"summary": "Use [Polyamory Sweet → Polyamory Kiss](#) instead."
 			/*
 			"unofficialUpdate": {
 				"version": "1.2.10-unofficial.2-LKbosss",
 				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-123155"
 			},
-			"summary": "Use [unofficial update](https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-123155) or [[#Polyamory Sweet → Polyamory Kiss|Polyamory Sweet → Polyamory Kiss]] instead.",
+			"summary": "Use [unofficial update](https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-123155) or [Polyamory Sweet → Polyamory Kiss](#) instead.",
 			*/
 		},
 		{
@@ -10321,7 +10321,7 @@
 
 			"brokeIn": "Stardew Valley 1.5",
 			"status": "workaround",
-			"summary": "Use [[#Scroll To Blank|Scroll To Blank]] instead."
+			"summary": "Use [Scroll To Blank](#) instead."
 		},
 		{
 			"name": "Freeze Time Multiplayer",
@@ -10356,7 +10356,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Friends Forever (1.6)|Friends Forever (1.6)]] instead."
+			"summary": "use [Friends Forever (1.6)](#) instead."
 		},
 		{
 			"name": "Friends Forever (1.6)",
@@ -10545,7 +10545,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Furniture Display Framework for 1.6|Furniture Display Framework for 1.6]] instead."
+			"summary": "use [Furniture Display Framework for 1.6](#) instead."
 		},
 		{
 			"name": "Furniture Display Framework for 1.6",
@@ -10637,7 +10637,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "workaround",
-			"summary": "use [[#Stardew Notifications|Stardew Notifications]] instead."
+			"summary": "use [Stardew Notifications](#) instead."
 		},
 		{
 			"name": "GameSpeed",
@@ -10671,7 +10671,7 @@
 
 			"brokeIn": "SMAPI 3.0",
 			"status": "workaround",
-			"summary": "use [[#Auto Trash|Auto Trash]] instead."
+			"summary": "use [Auto Trash](#) instead."
 		},
 		{
 			"name": "Garbage Day",
@@ -10713,7 +10713,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Garden Pot Options|Garden Pot Options]] instead."
+			"summary": "use [Garden Pot Options](#) instead."
 		},
 		{
 			"name": "Gate Fix",
@@ -10735,7 +10735,7 @@
 
 			"brokeIn": "Stardew Valley 1.4",
 			"status": "workaround",
-			"summary": "use [[#Auto Gate|Auto Gate]] instead."
+			"summary": "use [Auto Gate](#) instead."
 		},
 		{
 			"name": "Gem Isles",
@@ -10859,7 +10859,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "obsolete",
-			"summary": "remove this mod (no longer maintained; use [[#Customize Anywhere|Customize Anywhere]] + [[#Get Glam|Get Glam]] + [[#Change Shoe Color|Change Shoe Color]] + [[#Json Assets|Json Assets]] packs instead)."
+			"summary": "remove this mod (no longer maintained; use [Customize Anywhere](#) + [Get Glam](#) + [Change Shoe Color](#) + [Json Assets](#) packs instead)."
 		},
 		{
 			"name": "Get Glam",
@@ -10963,7 +10963,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Gift Taste Helper Continued x2|Gift Taste Helper Continued x2]] instead."
+			"summary": "use [Gift Taste Helper Continued x2](#) instead."
 		},
 		{
 			"name": "Gift Taste Helper Continued",
@@ -10974,7 +10974,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Gift Taste Helper Continued x2|Gift Taste Helper Continued x2]] instead."
+			"summary": "use [Gift Taste Helper Continued x2](#) instead."
 		},
 		{
 			"name": "Gift Taste Helper Continued x2",
@@ -11160,7 +11160,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Grandfather's Heirlooms|Grandfather's Heirlooms]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Grandfather's Heirlooms](#) instead)."
 		},
 		{
 			"name": "Grandfather's Gift Remade",
@@ -11172,7 +11172,7 @@
 			"source": "https://sourceforge.net/projects/sdvmod-grandfather-s-gift-re/",
 
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Grandfather's Heirlooms|Grandfather's Heirlooms]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Grandfather's Heirlooms](#) instead)."
 		},
 		{
 			"name": "Grandfather's Heirlooms",
@@ -11476,7 +11476,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "workaround",
-			"summary": "use [[#Happy Birthday|Happy Birthday by Omegasis]] instead."
+			"summary": "use [Happy Birthday](#) by Omegasis instead."
 		},
 		{
 			"name": "Happy Fish Jump",
@@ -11509,7 +11509,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "workaround",
-			"summary": "use [[#Hardcore Mines 2|Hardcore Mines 2]] instead."
+			"summary": "use [Hardcore Mines 2](#) instead."
 		},
 		{
 			"name": "Hardcore Mines 2",
@@ -11604,7 +11604,7 @@
 
 			"brokeIn": "SMAPI 2.0",
 			"status": "workaround",
-			"summary": "use [[#Yet Another Harvest With Scythe Mod|Yet Another Harvest With Scythe Mod]] instead."
+			"summary": "use [Yet Another Harvest With Scythe Mod](#) instead."
 		},
 		{
 			"name": "Hat Buffs",
@@ -11695,7 +11695,7 @@
 			"github": "ninthworld/HDSprites",
 
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Sprite Master|Sprite Master]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Sprite Master](#) instead)."
 		},
 		{
 			"name": "Health and Stamina Regeneration",
@@ -11732,7 +11732,7 @@
 
 			"brokeIn": "SMAPI 3.0",
 			"status": "workaround",
-			"summary": "use [[#Enemy Health Bars|Enemy Health Bars]] (by OrSpeeder or by TheThor59) or [[#Health Bars|Health Bars]] (by Zoryn) instead."
+			"summary": "use [Enemy Health Bars](#) (by OrSpeeder or by TheThor59) or [Health Bars](#) (by Zoryn) instead."
 		},
 		{
 			"name": "Health Rework",
@@ -12047,7 +12047,7 @@
 
 			"brokeIn": "Stardew Valley 1.5",
 			"status": "workaround",
-			"summary": "use [[#Horse Flute Anywhere|Horse Flute Anywhere]] instead."
+			"summary": "use [Horse Flute Anywhere](#) instead."
 		},
 		{
 			"name": "Horse Whistle",
@@ -12059,7 +12059,7 @@
 
 			"brokeIn": "SMAPI 2.0",
 			"status": "workaround",
-			"summary": "use [[#Horse Flute Anywhere|Horse Flute Anywhere]] instead."
+			"summary": "use [Horse Flute Anywhere](#) instead."
 		},
 		{
 			"name": "Host Tools",
@@ -12103,7 +12103,7 @@
 
 			"brokeIn": "SMAPI 3.0",
 			"status": "workaround",
-			"summary": "use [[#Enemy Health Bars|Enemy Health Bars]] (by OrSpeeder or by TheThor59) or [[#Health Bars|Health Bars]] (by Zoryn) instead."
+			"summary": "use [Enemy Health Bars](#) (by OrSpeeder or by TheThor59) or [Health Bars](#) (by Zoryn) instead."
 		},
 		{
 			"name": "HQ Farmer Mod",
@@ -12138,7 +12138,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Hugs and Kisses Continued|Hugs and Kisses Continued]] instead."
+			"summary": "use [Hugs and Kisses Continued](#) instead."
 		},
 		{
 			"name": "Hugs and Kisses Continued",
@@ -12165,7 +12165,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "workaround",
-			"summary": "use [[#Another Hunger Mod|Another Hunger Mod]], [[#Hunger|Hunger]], or [[#Simple Hunger System|Simple Hunger System]] instead."
+			"summary": "use [Another Hunger Mod](#), [Hunger](#), or [Simple Hunger System](#) instead."
 		},
 		{
 			"name": "Hunger for Food",
@@ -12176,7 +12176,7 @@
 
 			"brokeIn": "SMAPI 2.0",
 			"status": "workaround",
-			"summary": "use [[#Another Hunger Mod|Another Hunger Mod]], [[#Hunger|Hunger]], or [[#Simple Hunger System|Simple Hunger System]] instead."
+			"summary": "use [Another Hunger Mod](#), [Hunger](#), or [Simple Hunger System](#) instead."
 		},
 		{
 			"name": "Hungry Morning",
@@ -12258,7 +12258,7 @@
 
 			"brokeIn": "SMAPI 3.0",
 			"status": "workaround",
-			"summary": "use [[#Idle Pause|Idle Pause]] instead."
+			"summary": "use [Idle Pause](#) instead."
 		},
 		{
 			"name": "I Don't Use That Water",
@@ -12319,7 +12319,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#The Return of Immersive Scarecrows|The Return of Immersive Scarecrows]] instead."
+			"summary": "use [The Return of Immersive Scarecrows](#) instead."
 		},
 		{
 			"name": "Immersive Sprinklers",
@@ -12331,7 +12331,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#The Return of Immersive Sprinklers|The Return of Immersive Sprinklers]] instead."
+			"summary": "use [The Return of Immersive Sprinklers](#) instead."
 		},
 		{
 			"name": "Improved Fall Debris",
@@ -12582,7 +12582,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Instant Animals 1.6|Instant Animals 1.6]] instead."
+			"summary": "use [Instant Animals 1.6](#) instead."
 		},
 		{
 			"name": "Instant Animals 1.6",
@@ -12636,7 +12636,7 @@
 			"github": null,
 
 			"status": "workaround",
-			"summary": "use [[#Updated Instant Eat Key|Updated Instant Eat Key]] instead."
+			"summary": "use [Updated Instant Eat Key](#) instead."
 		},
 		{
 			"name": "Instant Fishing",
@@ -12648,7 +12648,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "workaround",
-			"summary": "use [[#Fishing Mod|Fishing Mod]] instead."
+			"summary": "use [Fishing Mod](#) instead."
 		},
 		{
 			"name": "Instant Geodes",
@@ -12660,7 +12660,7 @@
 
 			"brokeIn": "Stardew Valley 1.1",
 			"status": "workaround",
-			"summary": "use [[#Fast Animations|Fast Animations]] instead."
+			"summary": "use [Fast Animations](#) instead."
 		},
 		{
 			"name": "Instant Growth Powder",
@@ -12875,7 +12875,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Farming Tools Patch|Farming Tools Patch]] instead.",
+			"summary": "use [Farming Tools Patch](#) instead.",
 
 			"overrideModData": [
 				{
@@ -13103,7 +13103,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "workaround",
-			"summary": "use [[#Community Bundle Item Tooltip|Community Bundle Item Tooltip]] instead."
+			"summary": "use [Community Bundle Item Tooltip](#) instead."
 		},
 		{
 			"name": "JoJa84+, JoJa-84-Plus--Ingame-calculator",
@@ -13194,7 +13194,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Glory Of Efficiency|Glory Of Efficiency]] instead."
+			"summary": "use [Glory Of Efficiency](#) instead."
 			/*
 			"unofficialUpdate": {
 				"version": "1.5.0-unofficial.7-Hackswell",
@@ -13494,7 +13494,7 @@
 
 			"brokeIn": "Stardew Valley 1.3.29",
 			"status": "obsolete",
-			"summary": "remove this mod (no longer maintained; use [[#Customize Anywhere|Customize Anywhere]] + [[#Get Glam|Get Glam]] + [[#Change Shoe Color|Change Shoe Color]] + [[#Json Assets|Json Assets]] packs instead)."
+			"summary": "remove this mod (no longer maintained; use [Customize Anywhere](#) + [Get Glam](#) + [Change Shoe Color](#) + [Json Assets](#) packs instead)."
 		},
 		{
 			"name": "Kiss Krobus",
@@ -13722,7 +13722,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Sit n' Relax: Rest Your Butt|Sit n' Relax: Rest Your Butt]] instead."
+			"summary": "use [Sit n' Relax: Rest Your Butt](#) instead."
 		},
 		{
 			"name": "Let Me Shop",
@@ -13850,7 +13850,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Like a Duck to Water Continued|Like a Duck to Water Continued]] instead."
+			"summary": "use [Like a Duck to Water Continued](#) instead."
 		},
 		{
 			"name": "Like a Duck to Water Continued",
@@ -14068,7 +14068,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Longer Seasons - Continued|Longer Seasons - Continued]] instead."
+			"summary": "use [Longer Seasons - Continued](#) instead."
 		},
 		{
 			"name": "Longer Seasons - Continued",
@@ -14169,7 +14169,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "workaround",
-			"summary": "use [[#Better Ranching|Better Ranching]] instead."
+			"summary": "use [Better Ranching](#) instead."
 		},
 		{
 			"name": "Loved Labels",
@@ -14227,7 +14227,7 @@
 
 			"brokeIn": "Stardew Valley 1.6.9", // @retest-linked
 			"status": "workaround",
-			"summary": "use [[#Spacecore Luck Skill|Spacecore Luck Skill]] instead.",
+			"summary": "use [Spacecore Luck Skill](#) instead.",
 
 			"overrideModData": [
 				{
@@ -14308,7 +14308,7 @@
 
 			"brokeIn": "Stardew Valley 1.3.29",
 			"status": "workaround",
-			"summary": "use [[#Configure Machine Speed|Configure Machine Speed]] instead."
+			"summary": "use [Configure Machine Speed](#) instead."
 		},
 		{
 			"name": "Machine Status",
@@ -14328,7 +14328,7 @@
 
 			"brokeIn": "Stardew Valley 1.6", // @retest-linked
 			"status": "workaround",
-			"summary": "use [[#Ars Venefici|Ars Venefici]] instead."
+			"summary": "use [Ars Venefici](#) instead."
 		},
 		{
 			"name": "Magical Crops",
@@ -14388,7 +14388,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Mailbox Menu Continued|Mailbox Menu Continued]] instead."
+			"summary": "use [Mailbox Menu Continued](#) instead."
 		},
 		{
 			"name": "Mailbox Menu Continued",
@@ -14856,7 +14856,7 @@
 
 			"brokeIn": "Stardew Valley 1.3.23",
 			"status": "workaround",
-			"summary": "use [[#Farm Type Manager|Farm Type Manager]] instead."
+			"summary": "use [Farm Type Manager](#) instead."
 			/*
 			"unofficialUpdate": {
 				"version": "1.9.1-unofficial.1.1-Olivki",
@@ -14966,7 +14966,7 @@
 
 			"brokeIn": "Stardew Valley 1.6", // @retest-after Mobile Phone
 			"status": "workaround",
-			"summary": "use [[#Mobile Phone Continued → Arcade Mobile Apps|Mobile Phone Continued → Arcade Mobile Apps]] instead."
+			"summary": "use [Mobile Phone Continued → Arcade Mobile Apps](#) instead."
 		},
 		{
 			"name": "Mobile Audio Player",
@@ -14988,7 +14988,7 @@
 
 			"brokeIn": "Stardew Valley 1.6", // @retest-after Mobile Phone
 			"status": "workaround",
-			"summary": "use [[#Mobile Phone Continued → Calendar Mobile App|Mobile Phone Continued → Calendar Mobile App]] instead."
+			"summary": "use [Mobile Phone Continued → Calendar Mobile App](#) instead."
 		},
 		{
 			"name": "Mobile Catalogues",
@@ -15000,7 +15000,7 @@
 
 			"brokeIn": "Stardew Valley 1.6", // @retest-after Mobile Phone
 			"status": "workaround",
-			"summary": "use [[#Mobile Phone Continued → Mobile Catalogues|Mobile Phone Continued → Mobile Catalogues]] instead."
+			"summary": "use [Mobile Phone Continued → Mobile Catalogues](#) instead."
 		},
 		{
 			"name": "Mobile Phone",
@@ -15012,7 +15012,7 @@
 
 			"brokeIn": "Stardew Valley 1.6", // @retest-linked
 			"status": "workaround",
-			"summary": "use [[#Mobile Phone Continued|Mobile Phone Continued]] instead."
+			"summary": "use [Mobile Phone Continued](#) instead."
 		},
 		{
 			"name": "Mobile Phone Continued",
@@ -15059,7 +15059,7 @@
 
 			"brokeIn": "Stardew Valley 1.6", // @retest-after Mobile Phone
 			"status": "workaround",
-			"summary": "use [[#Mobile Phone Continued → Television Mobile App|Mobile Phone Continued → Television Mobile App]] instead."
+			"summary": "use [Mobile Phone Continued → Television Mobile App](#) instead."
 		},
 		{
 			"name": "MobileUI Android",
@@ -15118,7 +15118,7 @@
 
 			"brokeIn": "Stardew Valley 1.5",
 			"status": "workaround",
-			"summary": "Use [[#Generic Mod Config Menu|Generic Mod Config Menu]] instead."
+			"summary": "Use [Generic Mod Config Menu](#) instead."
 		},
 		{
 			"name": "Modular Gameplay Overhaul, MARGO, DaLion's Modular Gameplay Overhaul",
@@ -15198,7 +15198,7 @@
 			"github": null,
 
 			"status": "workaround",
-			"summary": "Use [[#Almanac|Almanac]] instead.",
+			"summary": "Use [Almanac](#) instead.",
 			"brokeIn": "Stardew Valley 1.3"
 		},
 		{
@@ -15355,7 +15355,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "workaround",
-			"summary": "use [[#Increased Artifact Spots|Increased Artifact Spots]] instead."
+			"summary": "use [Increased Artifact Spots](#) instead."
 			/*
 			"unofficialUpdate": {
 				"version": "2.0.1-unofficial.1-IQ",
@@ -15526,7 +15526,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#PyTK|PyTK]] instead)."
+			"summary": "remove this mod (no longer maintained; use [PyTK](#) instead)."
 		},
 		{
 			"name": "More Mine Ladders",
@@ -15553,7 +15553,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#More Multiplayer Info (1.6 Updated)|More Multiplayer Info (1.6 Updated)]] instead."
+			"summary": "use [More Multiplayer Info (1.6 Updated)](#) instead."
 		},
 		{
 			"name": "More Multiplayer Info (1.6 Updated)",
@@ -15619,7 +15619,7 @@
 			"github": null,
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "workaround",
-			"summary": "use [[#Silo Size|Silo Size]] instead."
+			"summary": "use [Silo Size](#) instead."
 		},
 		{
 			"name": "More Slimes, More Monsters",
@@ -15794,7 +15794,7 @@
 
 			"brokeIn": "Stardew Valley 1.2?",
 			"status": "workaround",
-			"summary": "use [[#Auto Speed|Auto Speed]] instead."
+			"summary": "use [Auto Speed](#) instead."
 		},
 		{
 			"name": "Move Greenhouse Plot",
@@ -15841,7 +15841,7 @@
 
 			"brokeIn": "Stardew Valley 1.4",
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Noclip Mode|Noclip Mode]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Noclip Mode](#) instead)."
 		},
 		{
 			"name": "Movie Theater Options",
@@ -15897,7 +15897,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Ultimate Fertilizer|Ultimate Fertilizer]] instead."
+			"summary": "use [Ultimate Fertilizer](#) instead."
 		},
 		{
 			"name": "Multiplayer Backpacks",
@@ -16057,7 +16057,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Multiple Floor Farmhouse - Continued|Multiple Floor Farmhouse - Continued]] instead."
+			"summary": "use [Multiple Floor Farmhouse - Continued](#) instead."
 		},
 		{
 			"name": "Multiple Floor Farmhouse - Continued",
@@ -16118,7 +16118,7 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Free Love|Free Love]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Free Love](#) instead)."
 		},
 		{
 			"name": "Multiple Sprites and Portraits On Rotation, File Loading",
@@ -16128,7 +16128,7 @@
 			"github": null,
 
 			"status": "workaround",
-			"summary": "Use [[#Content Patcher|Content Patcher]] instead.",
+			"summary": "Use [Content Patcher](#) instead.",
 			"brokeIn": "SMAPI 2.0",
 
 			"overrideModData": [
@@ -16155,7 +16155,7 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"summary": "use [unofficial update](https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-123241) or [[#Multi Save - Continued|Multi Save - Continued]] instead.",
+			"summary": "use [unofficial update](https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-123241) or [Multi Save - Continued](#) instead.",
 			"unofficialUpdate": {
 				"version": "0.1.9-unofficial.1-GrimatGaming",
 				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-123241"
@@ -16220,7 +16220,7 @@
 
 			"brokeIn": "Stardew Valley 1.5",
 			"status": "workaround",
-			"summary": "use [[#Personal Combat Drone Redux|Personal Combat Drone Redux]] or [unofficial update](https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-104637) instead.",
+			"summary": "use [Personal Combat Drone Redux](#) or [unofficial update](https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-104637) instead.",
 			"unofficialUpdate": {
 				"version": "0.0.7-unofficial.5-prism99",
 				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-104637"
@@ -16294,7 +16294,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "workaround",
-			"summary": "Use [[#Almanac|Almanac]] instead."
+			"summary": "Use [Almanac](#) instead."
 		},
 		{
 			"name": "Mushroom Log Additions",
@@ -16477,7 +16477,7 @@
 
 			"brokeIn": "SMAPI 2.0",
 			"status": "workaround",
-			"summary": "use [[#Producer Framework Mod|Producer Framework Mod]] instead."
+			"summary": "use [Producer Framework Mod](#) instead."
 		},
 		{
 			"name": "New Years Eve → Fireworks",
@@ -16651,7 +16651,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#No Fence Decay Redux|No Fence Decay Redux]] instead."
+			"summary": "use [No Fence Decay Redux](#) instead."
 		},
 		{
 			"name": "No Fence Decay Redux",
@@ -16677,7 +16677,7 @@
 
 			"brokeIn": "Stardew Valley 1.2?",
 			"status": "workaround",
-			"summary": "use [[#CJB Cheats Menu|CJB Cheats Menu]] or [[#No Friendship Decay - Reborn|No Friendship Decay - Reborn]] instead."
+			"summary": "use [CJB Cheats Menu](#) or [No Friendship Decay - Reborn](#) instead."
 			/*
 			"unofficialUpdate": {
 				"version": "1.1.2-unofficial.1-f4ith",
@@ -16803,7 +16803,7 @@
 
 			"brokeIn": "SMAPI 2.8",
 			"status": "workaround",
-			"summary": "use [[#No Mine Flyers Redux|No Mine Flyers Redux]] instead."
+			"summary": "use [No Mine Flyers Redux](#) instead."
 		},
 		{
 			"name": "Non Destructive NPCs",
@@ -16875,7 +16875,7 @@
 
 			"brokeIn": "Stardew Valley 1.3.29",
 			"status": "workaround",
-			"summary": "use [[#Updated No Rumble Horse|Updated No Rumble Horse]] instead."
+			"summary": "use [Updated No Rumble Horse](#) instead."
 		},
 		{
 			"name": "No Seeds",
@@ -16906,7 +16906,7 @@
 
 			"brokeIn": "Stardew Valley 1.2",
 			"status": "workaround",
-			"summary": "use [[#No Soil Decay On Farm|No Soil Decay On Farm]] or [[#No Soil Decay Redux|No Soil Decay Redux]] instead."
+			"summary": "use [No Soil Decay On Farm](#) or [No Soil Decay Redux](#) instead."
 		},
 		{
 			"name": "No Soil Decay On Farm",
@@ -16969,7 +16969,7 @@
 
 			"brokeIn": "Stardew Valley 1.6.9",
 			"status": "workaround",
-			"summary": "use [[#Fast Animations|Fast Animations]] instead."
+			"summary": "use [Fast Animations](#) instead."
 		},
 		{
 			"name": "No Warp Delay",
@@ -17120,7 +17120,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Object Progress Bars Continued|Object Progress Bars Continued]] instead."
+			"summary": "use [Object Progress Bars Continued](#) instead."
 		},
 		{
 			"name": "Object Progress Bars Continued",
@@ -17221,7 +17221,7 @@
 			"github": null,
 
 			"status": "workaround",
-			"summary": "Use [[#Silo Size|Silo Size]] instead.",
+			"summary": "Use [Silo Size](#) instead.",
 			"brokeIn": "SMAPI 3.12.0"
 		},
 		{
@@ -17423,7 +17423,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Pacifist Valley - Continued|Pacifist Valley - Continued]] instead."
+			"summary": "use [Pacifist Valley - Continued](#) instead."
 		},
 		{
 			"name": "Pacifist Valley - Continued",
@@ -17603,7 +17603,7 @@
 
 			"brokeIn": "Harmony 2.0.0",
 			"status": "workaround",
-			"summary": "use [[#Noclip Mode|Noclip Mode]] instead."
+			"summary": "use [Noclip Mode](#) instead."
 		},
 		{
 			"name": "Passerby Cemetery, ClownSharp",
@@ -17629,7 +17629,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Pause Time in Multiplayer Revived|Pause Time in Multiplayer Revived]] instead."
+			"summary": "use [Pause Time in Multiplayer Revived](#) instead."
 		},
 		{
 			"name": "Pause Sync",
@@ -17787,7 +17787,7 @@
 			"github": null,
 			"brokeIn": "SMAPI 3.0",
 			"status": "workaround",
-			"summary": "Use [[#Global Config Settings|Global Config Settings]] instead."
+			"summary": "Use [Global Config Settings](#) instead."
 		},
 		{
 			"name": "Persistent Grange Display",
@@ -17825,7 +17825,7 @@
 
 			"brokeIn": "Stardew Valley 1.1",
 			"status": "workaround",
-			"summary": "use [[#Junimo Deposit Anywhere|Junimo Deposit Anywhere]] instead."
+			"summary": "use [Junimo Deposit Anywhere](#) instead."
 		},
 		{
 			"name": "Personal Anvil",
@@ -17849,7 +17849,7 @@
 			"github": "bwdymods/SDV-PersonalEffects",
 
 			"status": "workaround",
-			"summary": "use [[#Personal Effects Redux|Personal Effects Redux]] instead.",
+			"summary": "use [Personal Effects Redux](#) instead.",
 			"brokeIn": "Stardew Valley 1.4" // @retest-after bwdyworks
 		},
 		{
@@ -17937,7 +17937,7 @@
 
 			"brokeIn": "SMAPI 2.0",
 			"status": "workaround",
-			"summary": "use [[#Pet Interaction|Pet Interaction]] instead."
+			"summary": "use [Pet Interaction](#) instead."
 			/*
 			"unofficialUpdate": {
 				"version": "0.0.2-unofficial.2-pathoschild",
@@ -18050,7 +18050,7 @@
 
 			"brokeIn": "Stardew Valley 1.6", // @retest-after AtraCore
 			"status": "workaround",
-			"summary": "use [[#Pick Your Enchantment Restored|Pick Your Enchantment Restored]] instead."
+			"summary": "use [Pick Your Enchantment Restored](#) instead."
 		},
 		{
 			"name": "Pick Your Enchantment Restored",
@@ -18200,7 +18200,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "workaround",
-			"summary": "use [[#Tillable Ground|Tillable Ground]] instead."
+			"summary": "use [Tillable Ground](#) instead."
 		},
 		{
 			"name": "Platonic Partners and Friendships",
@@ -18327,7 +18327,7 @@
 
 			"brokeIn": "Stardew Valley 1.3.29",
 			"status": "workaround",
-			"summary": "Use [[#Smart Building|Smart Building]] instead."
+			"summary": "Use [Smart Building](#) instead."
 			/*
 			"unofficialUpdate": {
 				"version": "1.1.1-unofficial.5-strobe",
@@ -18414,7 +18414,7 @@
 
 			"brokeIn": "Stardew Valley 1.4",
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Free Love|Free Love]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Free Love](#) instead)."
 		},
 		{
 			"name": "Pomodoro Mod, Stardew-Doro", // manifest, Nexus
@@ -18835,7 +18835,7 @@
 
 			"brokeIn": "SMAPI 3.0",
 			"status": "workaround",
-			"summary": "use [[#CJB Show Item Sell Price|CJB Show Item Sell Price]] instead."
+			"summary": "use [CJB Show Item Sell Price](#) instead."
 		},
 		{
 			"name": "Price Tooltips",
@@ -18847,7 +18847,7 @@
 
 			"brokeIn": "Stardew Valley 1.4", // @retest-after Bookcase
 			"status": "workaround",
-			"summary": "use [[#CJB Show Item Sell Price|CJB Show Item Sell Price]] instead."
+			"summary": "use [CJB Show Item Sell Price](#) instead."
 		},
 		{
 			"name": "Prismatic Butterfly Location",
@@ -18926,7 +18926,7 @@
 
 			"brokeIn": "Stardew Valley 1.3.29",
 			"status": "workaround",
-			"summary": "use [[#Pristmatic Tools Continued|Pristmatic Tools Continued]] instead."
+			"summary": "use [Pristmatic Tools Continued](#) instead."
 			/*
 			"status": "workaround",
 			"unofficialUpdate": {
@@ -19067,7 +19067,7 @@
 
 			"brokeIn": "Stardew Valley 1.6", // @retest-after PlatoTK
 			"status": "workaround",
-			"summary": "use [[#Public Access TV (1.6)|Public Access TV (1.6)]] instead."
+			"summary": "use [Public Access TV (1.6)](#) instead."
 		},
 		{
 			"name": "Public Access TV (1.6)",
@@ -19121,7 +19121,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "workaround",
-			"summary": "use [[#Buy Cooking Recipes|Buy Cooking Recipes]] or [[#TV Recipes|TV Recipes]] instead."
+			"summary": "use [Buy Cooking Recipes](#) or [TV Recipes](#) instead."
 			/*
 			"unofficialUpdate": {
 				"version": "1.0.1-unofficial.3.mizzion",
@@ -19215,7 +19215,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "workaround",
-			"summary": "use [[#Stone Bridge Over Pond|Stone Bridge Over Pond]] instead."
+			"summary": "use [Stone Bridge Over Pond](#) instead."
 		},
 		{
 			"name": "Quality Bait",
@@ -19349,7 +19349,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Quest Time Limits - Continued|Quest Time Limits - Continued]] instead."
+			"summary": "use [Quest Time Limits - Continued](#) instead."
 		},
 		{
 			"name": "Quest Time Limits - Continued",
@@ -19671,7 +19671,7 @@
 
 			"brokeIn": "Stardew Valley 1.5",
 			"status": "workaround",
-			"summary": "use [[#Data Layers|Data Layers]] instead."
+			"summary": "use [Data Layers](#) instead."
 		},
 		{
 			"name": "Ranged Machine Interactions",
@@ -19748,7 +19748,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Realistic Random Names Redux|Realistic Random Names Redux]] instead."
+			"summary": "use [Realistic Random Names Redux](#) instead."
 		},
 		{
 			"name": "Realistic Random Names Redux",
@@ -19900,7 +19900,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "workaround",
-			"summary": "use [[#Regen Mod|Regen Mod]] or [[#Health and Stamina Regeneration|Health and Stamina Regeneration]] instead."
+			"summary": "use [Regen Mod](#) or [Health and Stamina Regeneration](#) instead."
 		},
 		{
 			"name": "Regen Mod",
@@ -19945,7 +19945,7 @@
 
 			"brokeIn": "SMAPI 2.0",
 			"status": "workaround",
-			"summary": "use [[#Enhanced Relationships|Enhanced Relationships]] instead."
+			"summary": "use [Enhanced Relationships](#) instead."
 		},
 		{
 			"name": "Relationship Status",
@@ -20050,7 +20050,7 @@
 
 			"brokeIn": "SMAPI 3.0",
 			"status": "workaround",
-			"summary": "use [[#Custom Reminders|Custom Reminders]] instead."
+			"summary": "use [Custom Reminders](#) instead."
 		},
 		{
 			"name": "Remind to Exit",
@@ -20112,7 +20112,7 @@
 
 			"brokeIn": "Stardew Valley 1.4",
 			"status": "workaround",
-			"summary": "use [[#Rename Reworked|Rename Reworked]] instead."
+			"summary": "use [Rename Reworked](#) instead."
 		},
 		{
 			"name": "Rename Reworked",
@@ -20187,7 +20187,7 @@
 
 			"brokeIn": "Stardew Valley 1.3.29",
 			"status": "workaround",
-			"summary": "Use [[#Harvest Seeds|Harvest Seeds]] instead."
+			"summary": "Use [Harvest Seeds](#) instead."
 		},
 		{
 			"name": "Reset Skull Caverns, Skull Caverns Reset",
@@ -20236,7 +20236,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Resource Storage - Continued|Resource Storage - Continued]] instead."
+			"summary": "use [Resource Storage - Continued](#) instead."
 		},
 		{
 			"name": "Resource Storage - Continued",
@@ -20294,7 +20294,7 @@
 
 			"brokeIn": "SMAPI 2.0",
 			"status": "workaround",
-			"summary": "use [[#Wallpaper Recycler|Wallpaper Recycler]] instead."
+			"summary": "use [Wallpaper Recycler](#) instead."
 		},
 		{
 			"name": "Reverse Proposal",
@@ -20363,7 +20363,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Ring Overhaul|Ring Overhaul]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Ring Overhaul](#) instead)."
 		},
 		{
 			"name": "Rise And Shine",
@@ -20374,7 +20374,7 @@
 
 			"brokeIn": "SMAPI 0.39.1",
 			"status": "workaround",
-			"summary": "Use [[#Just Sleep In|Just Sleep In]] instead."
+			"summary": "Use [Just Sleep In](#) instead."
 			/*
 			"unofficialUpdate": {
 				"version": "1.1.1-whisk-update",
@@ -20551,7 +20551,7 @@
 
 			"brokeIn": "Stardew Valley 1.5",
 			"status": "workaround",
-			"summary": "use [[#Safe Lightning Updated|Safe Lightning Updated]] instead."
+			"summary": "use [Safe Lightning Updated](#) instead."
 			/*
 			"unofficialUpdate": {
 				"version": "2.1.1-unofficial.1-strobe",
@@ -20568,7 +20568,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Safe Lightning Updated|Safe Lightning Updated]] instead."
+			"summary": "use [Safe Lightning Updated](#) instead."
 		},
 		{
 			"name": "Safe Lightning Updated",
@@ -20663,7 +20663,7 @@
 			"warnings": [ "Broken on Android (use the built-in autosave instead)." ],
 
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Quick Save|Quick Save]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Quick Save](#) instead)."
 		},
 		{
 			"name": "Save Backup",
@@ -20682,7 +20682,7 @@
 
 			"brokeIn": "Stardew Valley 1.5",
 			"status": "workaround",
-			"summary": "Use [[#Global Config Settings|Global Config Settings]] instead."
+			"summary": "Use [Global Config Settings](#) instead."
 		},
 		{
 			"name": "Save Mod Info",
@@ -20798,7 +20798,7 @@
 
 			"brokeIn": "Stardew Valley 1.3.29",
 			"status": "workaround",
-			"summary": "use [[#Yet Another Harvest With Scythe Mod|Yet Another Harvest With Scythe Mod]] instead."
+			"summary": "use [Yet Another Harvest With Scythe Mod](#) instead."
 		},
 		{
 			"name": "Scythe Tool Enchantments",
@@ -20906,7 +20906,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Content Patcher|Content Patcher]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Content Patcher](#) instead)."
 		},
 		{
 			"name": "Seasonal Save Slots",
@@ -20996,7 +20996,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Seed Info - Continued | Seed Info - Continued]] instead."
+			"summary": "use [Seed Info - Continued](#) instead."
 		},
 		{
 			"name": "Seed Machines",
@@ -21016,7 +21016,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Seed Maker - Quality|Seed Maker - Quality]] instead."
+			"summary": "use [Seed Maker - Quality](#) instead."
 		},
 		{
 			"name": "Seed Maker Crop Quality, SMCQ",
@@ -21027,7 +21027,7 @@
 
 			"brokeIn": "SMAPI 3.0",
 			"status": "workaround",
-			"summary": "use [[#Seed Maker - Quality|Seed Maker - Quality]] instead."
+			"summary": "use [Seed Maker - Quality](#) instead."
 		},
 		{
 			"name": "Seed Maker Quality",
@@ -21136,7 +21136,7 @@
 
 			"brokeIn": "Stardew Valley 1.4",
 			"status": "workaround",
-			"summary": "use [[#Self Service|Self Service]] instead."
+			"summary": "use [Self Service](#) instead."
 		},
 		{
 			"name": "Sell Quality",
@@ -21241,7 +21241,7 @@
 
 			"brokeIn": "Stardew Valley 1.4",
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#CJB Cheats Menu|CJB Cheats Menu]] instead)."
+			"summary": "remove this mod (no longer maintained; use [CJB Cheats Menu](#) instead)."
 		},
 		{
 			"name": "Set Reminders",
@@ -21366,7 +21366,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Chests Anywhere|Chests Anywhere]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Chests Anywhere](#) instead)."
 		},
 		{
 			"name": "Ship From Inventory",
@@ -21445,7 +21445,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Content Patcher|Content Patcher]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Content Patcher](#) instead)."
 		},
 		{
 			"name": "Shoplifter",
@@ -21620,7 +21620,7 @@
 
 			"brokeIn": "Stardew Valley 1.4",
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Shroom Spotter Redux|Shroom Spotter Redux]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Shroom Spotter Redux](#) instead)."
 		},
 		{
 			"name": "Shroom Spotter Redux",
@@ -21661,7 +21661,7 @@
 
 			"brokeIn": "Stardew Valley 1.5",
 			"status": "workaround",
-			"summary": "use [[#Silo Size|Silo Size]] instead."
+			"summary": "use [Silo Size](#) instead."
 		},
 		{
 			"name": "Silo Size",
@@ -21894,7 +21894,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "abandoned",
-			"summary": "remove this mod (replaced by [[#Skill Prestige for All SpaceCore Skill Mods|Skill Prestige for All SpaceCore Skill Mods]])."
+			"summary": "remove this mod (replaced by [Skill Prestige for All SpaceCore Skill Mods](#))."
 		},
 		{
 			"name": "Skill Prestige for Love of Cooking, SkillPrestige.LoveOfCooking",
@@ -21923,7 +21923,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "abandoned",
-			"summary": "remove this mod (replaced by [[#Skill Prestige for All SpaceCore Skill Mods|Skill Prestige for All SpaceCore Skill Mods]])."
+			"summary": "remove this mod (replaced by [Skill Prestige for All SpaceCore Skill Mods](#))."
 		},
 		{
 			"name": "Skill Rings",
@@ -22071,7 +22071,7 @@
 			"github": "cantorsdust/StardewMods",
 
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Skull Cavern Elevator|Skull Cavern Elevator]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Skull Cavern Elevator](#) instead)."
 		},
 		{
 			"name": "Sleeping Stamina Config",
@@ -22266,7 +22266,7 @@
 
 			"brokeIn": "SMAPI 2.0",
 			"status": "workaround",
-			"summary": "use [[#No Fence Decay Redux|No Fence Decay Redux]] instead."
+			"summary": "use [No Fence Decay Redux](#) instead."
 		},
 		{
 			"name": "Smack Dat Scarecrow",
@@ -22297,7 +22297,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#The Return of Smaller Fish Ponds|The Return of Smaller Fish Ponds]] instead."
+			"summary": "use [The Return of Smaller Fish Ponds](#) instead."
 		},
 		{
 			"name": "Small Tree Texture",
@@ -22424,7 +22424,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Social Page Order Redux|Social Page Order Redux]] instead."
+			"summary": "use [Social Page Order Redux](#) instead."
 		},
 		{
 			"name": "Social Page Order Menu",
@@ -22436,7 +22436,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Social Page Order Redux|Social Page Order Redux]] instead."
+			"summary": "use [Social Page Order Redux](#) instead."
 		},
 		{
 			"name": "Social Page Order Redux",
@@ -22461,7 +22461,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Lunar Disturbances|Lunar Disturbances]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Lunar Disturbances](#) instead)."
 		},
 		{
 			"name": "Solid Foundations",
@@ -22506,7 +22506,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "workaround",
-			"summary": "use [[#Better Chests|Better Chests]] or [[#Convenient Chests|Convenient Chests]] instead."
+			"summary": "use [Better Chests](#) or [Convenient Chests](#) instead."
 		},
 		{
 			"name": "Sorting Chests",
@@ -22675,7 +22675,7 @@
 
 			"brokeIn": "Stardew Valley 1.5.5", // @retest-after Mod Settings Tab
 			"status": "workaround",
-			"summary": "use [[#CJB Cheats Menu|CJB Cheats Menu]] instead."
+			"summary": "use [CJB Cheats Menu](#) instead."
 		},
 		{
 			"name": "Speedrun Practice Mod",
@@ -22885,7 +22885,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Activated Sprinklers|Activated Sprinklers]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Activated Sprinklers](#) instead)."
 		},
 		{
 			"name": "Sprint and Dash Buttons, Sprint and Dash Mod",
@@ -22924,7 +22924,7 @@
 
 			"brokeIn": "Stardew Valley 1.2",
 			"status": "workaround",
-			"summary": "use [[#Sprint (unidarkshin)|Sprint (unidarkshin)]], [[#Sprint and Dash Buttons|Sprint and Dash Buttons]], [[#Sprint and Dash Redux|Sprint and Dash Redux]], or [[#Sprint Sprint|Sprint Sprint]] instead."
+			"summary": "use [Sprint (unidarkshin)](#), [Sprint and Dash Buttons](#), [Sprint and Dash Redux](#), or [Sprint Sprint](#) instead."
 		},
 		{
 			"name": "SprintNRegen, Eating food or crops restores health and stamina over time plus enables sprinting",
@@ -22958,7 +22958,7 @@
 
 			"brokeIn": "SMAPI 0.39.1",
 			"status": "workaround",
-			"summary": "use [[#Sprint (unidarkshin)|Sprint (unidarkshin)]], [[#Sprint and Dash Buttons|Sprint and Dash Buttons]], [[#Sprint and Dash Redux|Sprint and Dash Redux]], or [[#Sprint Sprint|Sprint Sprint]] instead."
+			"summary": "use [Sprint (unidarkshin)](#), [Sprint and Dash Buttons](#), [Sprint and Dash Redux](#), or [Sprint Sprint](#) instead."
 		},
 		{
 			"name": "SpriteMaster",
@@ -22969,7 +22969,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Clear Glasses|Clear Glasses]] instead."
+			"summary": "use [Clear Glasses](#) instead."
 		},
 		{
 			"name": "Sprite Sheet Extender",
@@ -23023,7 +23023,7 @@
 
 			"brokeIn": "Stardew Valley 1.5",
 			"status": "workaround",
-			"summary": "use [[#Stack Everything Redux|Stack Everything Redux]] instead."
+			"summary": "use [Stack Everything Redux](#) instead."
 			/*
 			"unofficialUpdate": {
 				"version": "3.0.3-unofficial.1-strobe",
@@ -23066,7 +23066,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Stack Everything Redux|Stack Everything Redux]] instead."
+			"summary": "use [Stack Everything Redux](#) instead."
 		},
 		{
 			"name": "StackSplitX",
@@ -23077,7 +23077,7 @@
 
 			"brokeIn": "Stardew Valley 1.4",
 			"status": "workaround",
-			"summary": "use [[#Stack Split Redux|Stack Split Redux]] instead."
+			"summary": "use [Stack Split Redux](#) instead."
 		},
 		{
 			"name": "Stack to Nearby Chests",
@@ -23088,7 +23088,7 @@
 
 			"brokeIn": "Stardew Valley 1.5",
 			"status": "workaround",
-			"summary": "use [[#Better Chests|Better Chests]], [[#Convenient Chests|Convenient Chests]], or [[#Stash Items|Stash Items]] instead."
+			"summary": "use [Better Chests](#), [Convenient Chests](#), or [Stash Items](#) instead."
 		},
 		{
 			"name": "Staircase Placement Fix, 楼梯修复, Fix Floor Placement", // before 1.0.1
@@ -23107,7 +23107,7 @@
 
 			"brokeIn": "SMAPI 2.0",
 			"status": "workaround",
-			"summary": "use [[#Regen Mod|Regen Mod]] or [[#Health and Stamina Regeneration|Health and Stamina Regeneration]] instead."
+			"summary": "use [Regen Mod](#) or [Health and Stamina Regeneration](#) instead."
 		},
 		{
 			"name": "Standalone Crane Game",
@@ -23209,7 +23209,7 @@
 
 			"brokeIn": "Stardew Valley 1.3.29",
 			"status": "workaround",
-			"summary": "Use [[#Generic Mod Config Menu|Generic Mod Config Menu]] instead."
+			"summary": "Use [Generic Mod Config Menu](#) instead."
 		},
 		{
 			"name": "Stardew Content Compatibility Layer (SCCL)",
@@ -23253,7 +23253,7 @@
 
 			"status": "abandoned",
 			"brokeIn": "Stardew Valley 1.6",
-			"summary": "remove this mod (no longer maintained; use [[#Magic by Neosinf|Magic by Neosinf]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Magic by Neosinf](#) instead)."
 		},
 		{
 			"name": "Stardew Editor",
@@ -23621,7 +23621,7 @@
 
 			"brokeIn": "SMAPI 2.0",
 			"status": "workaround",
-			"summary": "use [[#Better Chests|Better Chests]], [[#Convenient Chests|Convenient Chests]], or [[#Stash Items|Stash Items]] instead."
+			"summary": "use [Better Chests](#), [Convenient Chests](#), or [Stash Items](#) instead."
 		},
 		{
 			"name": "Static Inventory",
@@ -23925,7 +23925,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Swim - Continued|Swim - Continued]] instead."
+			"summary": "use [Swim - Continued](#) instead."
 		},
 		{
 			"name": "Swim (Almost) Anywhere, Swim Suit",
@@ -23936,7 +23936,7 @@
 
 			"brokeIn": "SMAPI 3.0",
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Swim|Swim]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Swim](#) instead)."
 		},
 		{
 			"name": "Swim - Continued",
@@ -24069,7 +24069,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "workaround",
-			"summary": "use [[#Tapper Report|Tapper Report]] instead."
+			"summary": "use [Tapper Report](#) instead."
 		},
 		{
 			"name": "Tapper Report",
@@ -24094,7 +24094,7 @@
 			"github": null,
 
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Ferngill Revenue Service|Ferngill Revenue Service]] or [[#Serfdom - Immersive Taxes|Serfdom - Immersive Taxes]] instead).",
+			"summary": "remove this mod (no longer maintained; use [Ferngill Revenue Service](#) or [Serfdom - Immersive Taxes](#) instead).",
 			"brokeIn": "SMAPI 0.39.1"
 		},
 		{
@@ -24148,7 +24148,7 @@
 
 			"brokeIn": "Stardew Valley 1.2",
 			"status": "workaround",
-			"summary": "use [[#Fast Travel|Fast Travel]] instead."
+			"summary": "use [Fast Travel](#) instead."
 		},
 		{
 			"name": "Teleport Mod",
@@ -24316,7 +24316,7 @@
 
 			"brokeIn": "Stardew Valley 1.3.20",
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Night Owl|Night Owl]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Night Owl](#) instead)."
 		},
 		{
 			"name": "The Love of Cooking",
@@ -24530,7 +24530,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Tileman Redux|Tileman Redux]] instead."
+			"summary": "use [Tileman Redux](#) instead."
 		},
 		{
 			"name": "Tileman Redux",
@@ -24579,7 +24579,7 @@
 			"github": null,
 
 			"status": "workaround", // implemented a SMAPI API interface and broke when new functionality was added to SMAPI
-			"summary": "use [[#Time Before Harvest Enhanced|Time Before Harvest Enhanced]] instead."
+			"summary": "use [Time Before Harvest Enhanced](#) instead."
 		},
 		{
 			"name": "Time Before Harvest Enhanced",
@@ -24724,7 +24724,7 @@
 
 			"brokeIn": "Stardew Valley 1.3.29",
 			"status": "workaround",
-			"summary": "use [[#To-Dew|To-Dew]] instead."
+			"summary": "use [To-Dew](#) instead."
 			/*
 			"unofficialUpdate": {
 				"version": "1.1.3-unofficial.2-pathoschild",
@@ -24843,7 +24843,7 @@
 
 			"brokeIn": "Stardew Valley 1.4",
 			"status": "workaround",
-			"summary": "Use [[#Tool Power Select|Tool Power Select]] instead."
+			"summary": "Use [Tool Power Select](#) instead."
 		},
 		{
 			"name": "Tool Smart Switch",
@@ -24854,7 +24854,7 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"summary": "use [[#Tool Smart Switch (Updated)|Tool Smart Switch (Updated)]] instead."
+			"summary": "use [Tool Smart Switch (Updated)](#) instead."
 		},
 		{
 			"name": "Tool Smart Switch (Updated)",
@@ -24888,7 +24888,7 @@
 
 			"brokeIn": "Stardew Valley 1.4",
 			"status": "workaround",
-			"summary": "use [[#Mail Services Mod|Mail Services Mod]] or [[#Tool Upgrade Delivery|Tool Upgrade Delivery]] instead."
+			"summary": "use [Mail Services Mod](#) or [Tool Upgrade Delivery](#) instead."
 			/*
 			"unofficialUpdate": {
 				"version": "1.4.1-unofficial.1-pathoschild",
@@ -25276,7 +25276,7 @@
 
 			"brokeIn": "Stardew Valley 1.6.9",
 			"status": "workaround",
-			"summary": "use [[#CJB Cheats Menu|CJB Cheats Menu]] or [[#Truly Invincible|Truly Invincible]] instead."
+			"summary": "use [CJB Cheats Menu](#) or [Truly Invincible](#) instead."
 		},
 		{
 			"name": "True Random Geodes",
@@ -25389,7 +25389,7 @@
 
 			"brokeIn": "Stardew Valley 1.5.5",
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Ui Info Suite 2|Ui Info Suite 2]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Ui Info Suite 2](#) instead)."
 		},
 		{
 			"name": "Ui Info Suite 2",
@@ -25410,7 +25410,7 @@
 
 			"brokeIn": "Stardew Valley 1.2",
 			"status": "workaround",
-			"summary": "use [[#Ui Info Suite 2|Ui Info Suite 2]] instead."
+			"summary": "use [Ui Info Suite 2](#) instead."
 		},
 		{
 			"name": "Ukrainizacija, Ukrainizacija - Utilities",
@@ -25502,7 +25502,7 @@
 			"brokeIn": "Stardew Valley 1.6"
 			/*@retest-after Underground Secrets Redux
 			"status": "workaround",
-			"summary": "use [[#Underground Secrets Redux|Underground Secrets Redux]] instead.",
+			"summary": "use [Underground Secrets Redux](#) instead.",
 			*/
 		},
 		{
@@ -25622,7 +25622,7 @@
 
 			"brokeIn": "Stardew Valley 1.4", // @retest-after bwdyworks
 			"status": "workaround",
-			"summary": "use [[#Custom Locks|Custom Locks]] instead."
+			"summary": "use [Custom Locks](#) instead."
 		},
 		{
 			"name": "Unscheduled Evaluation",
@@ -25716,7 +25716,7 @@
 
 			"brokeIn": "Stardew Valley 1.3.29",
 			"status": "workaround",
-			"summary": "Use [[#BetterBombs|BetterBombs]] instead."
+			"summary": "Use [BetterBombs](#) instead."
 			/*
 			"unofficialUpdate": {
 				"version": "1.0.5-unofficial.1-Mizzion",
@@ -25951,7 +25951,7 @@
 
 			"status": "abandoned",
 			"brokeIn": "Stardew Valley 1.6",
-			"summary": "remove this mod (no longer maintained; use [[#Passable Crops|Passable Crops]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Passable Crops](#) instead)."
 		},
 		{
 			"name": "Wall Decorations",
@@ -25970,7 +25970,7 @@
 
 			"brokeIn": "SMAPI 2.0",
 			"status": "obsolete",
-			"summary": "remove this mod (added in Stardew Valley 1.4; for wallpaper swapping use [[#Wallpaper Recycler|Wallpaper Recycler]] instead)."
+			"summary": "remove this mod (added in Stardew Valley 1.4; for wallpaper swapping use [Wallpaper Recycler](#) instead)."
 		},
 		{
 			"name": "Wallpaper Recycler",
@@ -26011,7 +26011,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Wall Televisions - Continued|Wall Televisions - Continued]] instead."
+			"summary": "use [Wall Televisions - Continued](#) instead."
 		},
 		{
 			"name": "Wall Televisions - Continued",
@@ -26094,7 +26094,7 @@
 			"github": "Shalankwa/SDV_Mods",
 
 			"status": "workaround",
-			"summary": "use [[#Warp Multiplayer|Warp Multiplayer]] instead.",
+			"summary": "use [Warp Multiplayer](#) instead.",
 			"brokeIn": "Stardew Valley 1.4",
 			"unofficialUpdate": {
 				"version": "1.2.1-unofficial.1-SorryLate",
@@ -26699,7 +26699,7 @@
 			"github": "Entoarox/StardewMods",
 
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [[#Content Patcher|Content Patcher]] instead)."
+			"summary": "remove this mod (no longer maintained; use [Content Patcher](#) instead)."
 		},
 		{
 			"name": "XP Display",
@@ -26875,7 +26875,7 @@
 
 			"brokeIn": "Stardew Valley 1.5",
 			"status": "workaround",
-			"summary": "use [[#Zoom Level|Zoom Level]] instead."
+			"summary": "use [Zoom Level](#) instead."
 		},
 		{
 			"name": "Zoom Mod / Zoom Out Extreme",
@@ -26886,7 +26886,7 @@
 
 			"brokeIn": "Stardew Valley 1.3.33",
 			"status": "workaround",
-			"summary": "use [[#Zoom Level|Zoom Level]] instead."
+			"summary": "use [Zoom Level](#) instead."
 			/*
 			"unofficialUpdate": {
 				"version": "1.2.2-unofficial.1-Mizzion",
@@ -27096,7 +27096,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [[#Artisan Goods Keep Quality|Artisan Goods Keep Quality]] instead."
+			"summary": "use [Artisan Goods Keep Quality](#) instead."
 		},
 		{
 			"name": "Remove That Damn Rock",

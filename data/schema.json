@@ -97,7 +97,7 @@
 				},
 				"summary": {
 					"title": "Compatibility summary",
-					"description": "A custom description of the mod's compatibility, in Markdown format. This should be left blank if it's covered by more specific fields like `brokeIn` or `unofficialUpdate`.",
+					"description": "A custom description of the mod's compatibility, in Markdown format. You can link to another mod in the list using the format `[Full Mod Name](#)`, with the exact URL `#`; the URL will be filled in automatically based on the link text.\n\nThis should be left blank if it's covered by more specific fields like `brokeIn` or `unofficialUpdate`.",
 					"type": "string"
 				},
 				"brokeIn": {
