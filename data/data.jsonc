@@ -9,6 +9,7 @@
 			"github": "LajnaLegenden/Stardew_Valley_Mods",
 
 			"brokeIn": "SMAPI 3.0",
+			"summary": "use [unofficial update](https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-76#post-3342641) or [24H Clock Language](https://www.nexusmods.com/stardewvalley/mods/20794) instead.",
 			"unofficialUpdate": {
 				"version": "1.0.1-unofficial.1-pathoschild",
 				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-76#post-3342641"
@@ -24,7 +25,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [24h Clock](#) or [24H Clock Language](https://www.nexusmods.com/stardewvalley/mods/20794) instead."
+			"summary": "use [24h Clock](#) instead."
 		},
 		{
 			"name": "24 Hour Format, 24 Hour Clock",
@@ -35,7 +36,7 @@
 
 			"brokeIn": "SMAPI 3.0",
 			"status": "workaround",
-			"summary": "use [24h Clock](#) or [24H Clock Language](https://www.nexusmods.com/stardewvalley/mods/20794) instead."
+			"summary": "use [24h Clock](#) instead."
 		},
 		{
 			"name": "3-Story Cellar",
@@ -286,7 +287,7 @@
 			"moddrop": 600967,
 			"github": "Gathouria/Adopt-Skin",
 
-			"brokeIn": "Stardew Valley 1.6"
+			"brokeIn": "Stardew Valley 1.6" // @retest-linked
 		},
 		{
 			"name": "Adopt With Krobus",
@@ -387,7 +388,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [Advanced Melee Framework (Unofficial)](https://www.nexusmods.com/stardewvalley/mods/24374) instead"
+			"summary": "use [Advanced Melee Framework (Unofficial)](https://www.nexusmods.com/stardewvalley/mods/24374) instead."
 		},
 		{
 			"name": "Advanced Menu Positioning",
@@ -498,7 +499,7 @@
 			"nexus": 3661,
 			"github": "phrasefable/StardewMods",
 
-			"brokeIn": "Stardew Valley 1.6"
+			"brokeIn": "Stardew Valley 1.6" // @retest-linked
 		},
 		{
 			"name": "Aging Mod",
@@ -613,7 +614,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "workaround",
-			"summary": "Consider using [Multitool](#) or [Auto Tool](#) instead.",
+			"summary": "Consider using [Multitool](#) or [Auto Tool Select](#) instead.",
 			/*
 			"unofficialUpdate": {
 				"version": "1.2.2-unofficial.3.mizzion",
@@ -803,9 +804,7 @@
 			"nexus": 2573,
 			"github": "stokastic/AnimalChooser",
 
-			"brokeIn": "Stardew Valley 1.3.29",
-			"status": "workaround",
-			"summary": "use [Animal Selector](#) instead."
+			"brokeIn": "Stardew Valley 1.3.29"
 		},
 		{
 			"name": "Animal Dialogue Framework",
@@ -1184,7 +1183,7 @@
 			"nexus": 16768,
 			"github": "Floogen/Archery",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after
+			"brokeIn": "Stardew Valley 1.6" // @retest-after Archery
 		},
 		{
 			"name": "Arena Challenges Mod",
@@ -1239,9 +1238,7 @@
 			"nexus": 2761,
 			"github": "Ilyaki/ArtifactSystemFixed",
 
-			"brokeIn": "Stardew Valley 1.4",
-			"status": "workaround",
-			"summary": "use [Artifact System Drop Framework & Geodes Handler](#) instead."
+			"brokeIn": "Stardew Valley 1.4"
 		},
 		{
 			"name": "Artisan Goods Redone",
@@ -1546,7 +1543,7 @@
 			"github": null,
 
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [Deluxe Auto-Grabber](#) instead)."
+			"summary": "remove this mod (no longer maintained; use [Deluxe Grabber Redux 1.6](#) instead)."
 		},
 		{
 			"name": "Auto-Grabber Vacuum",
@@ -1892,8 +1889,7 @@
 			"github": null,
 
 			"brokeIn": "Stardew Valley 1.4",
-			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [Family Planning](#) instead)."
+			"status": "abandoned"
 		},
 		{
 			"name": "Baby Pets",
@@ -2435,7 +2431,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "workaround",
-			"summary": "use [Iridium Tools Patch](#) instead."
+			"summary": "use [Farming Tools Patch](#) instead."
 		},
 		{
 			"name": "Better Jukebox",
@@ -2903,8 +2899,6 @@
 			"developerNotes": "source in download",
 
 			"brokeIn": "SMAPI 3.12.0",
-			"status": "workaround",
-			"summary": "use [Silo Size](#) instead.",
 
 			"overrideModData": [
 				{
@@ -3237,8 +3231,10 @@
 			"moddrop": 771627,
 			"github": "spacechase0/Bow",
 
-			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [Archery](#) instead)."
+			"status": "abandoned"
+			/*
+			"summary": "remove this mod (no longer maintained; use [Archery](#) instead)." // @retest-after Archery
+			*/
 		},
 		{
 			"name": "Brave New World - Core, BNW Core",
@@ -4283,9 +4279,7 @@
 			"nexus": 590,
 			"github": null,
 
-			"brokeIn": "SMAPI 2.0",
-			"status": "workaround",
-			"summary": "use [Family Planning](#) instead."
+			"brokeIn": "SMAPI 2.0"
 		},
 		{
 			"name": "Choose Random Farm Event",
@@ -4409,7 +4403,7 @@
 
 			"brokeIn": "Stardew Valley 1.3.29",
 			"status": "workaround",
-			"summary": "use [Right Click Move Mode](#) instead."
+			"summary": "use [Mouse Move Mode](#) instead."
 		},
 		{
 			"name": "Climates of Ferngill, Ferngill Custom Weather, Ferngill Weathers",
@@ -4438,7 +4432,7 @@
 
 			"brokeIn": "Stardew Valley 1.4",
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [24h Clock](#) by Lajna or [24-Hour Clock Patcher](#) by pepoluan instead)."
+			"summary": "remove this mod (no longer maintained; use [24h Clock](#) instead)."
 		},
 		{
 			"name": "Clothes Rack",
@@ -4476,7 +4470,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [Prismatic Tools](#) or [Radioactive Tools](#) instead)."
+			"summary": "remove this mod (no longer maintained; use [Prismatic Tools Continued](#) instead)."
 		},
 		{
 			"name": "Cock-a-doodle-dont",
@@ -4683,9 +4677,11 @@
 			"nexus": 3175,
 			"github": "EKomperud/StardewMods",
 
-			"brokeIn": "Stardew Valley 1.4",
+			"brokeIn": "Stardew Valley 1.4"
+			/*
 			"status": "workaround",
-			"summary": "use [NPC Adventures](#) instead."
+			"summary": "use [NPC Adventures](#) instead." // @retest-after NPC Adventures
+			*/
 		},
 		{
 			"name": "Compost&#44; Pests&#44; and Cultivation",
@@ -4749,8 +4745,10 @@
 			"github": null,
 
 			"brokeIn": "Stardew Valley 1.3",
+			/*
 			"status": "workaround",
-			"summary": "use [Configure Machine Outputs](#) instead.",
+			"summary": "use [Configure Machine Outputs](#) instead.", // @retest-after Configure Machine Outputs
+			*/
 
 			"overrideModData": [
 				{
@@ -4795,7 +4793,7 @@
 			"moddrop": 661367,
 			"github": "Mizzion/MyStardewMods",
 
-			"brokeIn": "Stardew Valley 1.6"
+			"brokeIn": "Stardew Valley 1.6" // @retest-linked
 		},
 		{
 			"name": "Configure Machine Speed",
@@ -4862,9 +4860,11 @@
 			"nexus": 1799,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.3.29",
+			"brokeIn": "Stardew Valley 1.3.29"
+			/*
 			"status": "workaround",
-			"summary": "use [Aggressive Acorns](#) instead."
+			"summary": "use [Aggressive Acorns](#) instead." // @retest-after Aggressive Acorns
+			*/
 		},
 		{
 			"name": "Console Chat",
@@ -5266,8 +5266,7 @@
 			"nexus": 2115,
 			"github": null,
 
-			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [Personal Effects](#) instead)."
+			"status": "abandoned"
 		},
 		{
 			"name": "Critter Fixes",
@@ -6798,7 +6797,9 @@
 			"nexus": 1624,
 			"github": "GuiNoya/SVMods",
 
-			"brokeIn": "Stardew Valley 1.4"
+			"brokeIn": "Stardew Valley 1.4",
+			"status": "workaround",
+			"summary": "use [Daily Tasks Report Plus](#) instead."
 			/*
 			"unofficialUpdate": {
 				"version": "1.4.2-unofficial.8-prism99",
@@ -7014,7 +7015,7 @@
 
 			"brokeIn": "Stardew Valley 1.3.29",
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [Deluxe Grabber Redux](#) instead)."
+			"summary": "remove this mod (no longer maintained; use [Deluxe Grabber Redux 1.6](#) instead)."
 		},
 		{
 			"name": "Deluxe Auto-Petter",
@@ -7595,7 +7596,7 @@
 
 			"brokeIn": "SMAPI 2.0",
 			"status": "workaround",
-			"summary": "use [Daily Tasks Report](#) instead."
+			"summary": "use [Daily Tasks Report Plus](#) instead."
 			/*
 			"unofficialUpdate": {
 				"version": "1.0.2-unofficial.1-Mizzion",
@@ -7683,8 +7684,10 @@
 			"github": "Bpendragon/DynamicHorses",
 
 			"brokeIn": "Stardew Valley 1.3",
-			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [Adopt 'n Skin](#) instead)."
+			"status": "abandoned"
+			/*
+			"summary": "remove this mod (no longer maintained; use [Adopt 'n Skin](#) instead)." // @retest-after Adopt 'n Skin
+			*/
 		},
 		{
 			"name": "Dynamic Machines",
@@ -7694,8 +7697,10 @@
 			"github": null,
 
 			"brokeIn": "SMAPI 2.0",
+			/*
 			"status": "workaround",
-			"summary": "use [Configure Machine Outputs](#) instead.",
+			"summary": "use [Configure Machine Outputs](#) instead.", // @retest-after Configure Machine Outputs
+			*/
 
 			"overrideModData": [
 				{
@@ -7918,7 +7923,7 @@
 
 			"brokeIn": "Stardew Valley 1.4",
 			"status": "workaround",
-			"summary": "use [Point and Plant](#) or [Smart Building](#) instead."
+			"summary": "use [Smart Building](#) instead."
 		},
 		{
 			"name": "Easy Farm Switcher",
@@ -9297,7 +9302,7 @@
 			"nexus": 1529,
 			"github": "DeathGameDev/SDV-FastTravel",
 
-			"brokeIn": "Stardew Valley 1.6"
+			"brokeIn": "Stardew Valley 1.6" // @retest-linked
 		},
 		{
 			"name": "FauxCore",
@@ -10671,7 +10676,7 @@
 
 			"brokeIn": "SMAPI 3.0",
 			"status": "workaround",
-			"summary": "use [Auto Trash](#) instead."
+			"summary": "use [Auto Trasher](#) instead."
 		},
 		{
 			"name": "Garbage Day",
@@ -10859,7 +10864,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "obsolete",
-			"summary": "remove this mod (no longer maintained; use [Customize Anywhere](#) + [Get Glam](#) + [Change Shoe Color](#) + [Json Assets](#) packs instead)."
+			"summary": "remove this mod (no longer maintained; use [Content Patcher](#) packs, [Customize Anywhere](#), or [Fashion Sense](#) instead)."
 		},
 		{
 			"name": "Get Glam",
@@ -10868,7 +10873,9 @@
 			"nexus": 5044,
 			"github": "MartyrPher/GetGlam",
 
-			"brokeIn": "Stardew Valley 1.6"
+			"brokeIn": "Stardew Valley 1.6",
+			"status": "workaround",
+			"summary": "use [Content Patcher](#) packs, [Customize Anywhere](#), or [Fashion Sense](#) instead."
 		},
 		{
 			"name": "Get Out the Way",
@@ -11507,9 +11514,11 @@
 			"nexus": 1674,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.3",
+			"brokeIn": "Stardew Valley 1.3"
+			/*
 			"status": "workaround",
-			"summary": "use [Hardcore Mines 2](#) instead."
+			"summary": "use [Hardcore Mines 2](#) instead." // @retest-after Hardcore Mines 2
+			*/
 		},
 		{
 			"name": "Hardcore Mines 2",
@@ -11518,7 +11527,7 @@
 			"nexus": 6411,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.6"
+			"brokeIn": "Stardew Valley 1.6" // @retest-linked
 		},
 		{
 			"name": "Hardcore Mode",
@@ -11695,7 +11704,7 @@
 			"github": "ninthworld/HDSprites",
 
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [Sprite Master](#) instead)."
+			"summary": "remove this mod (no longer maintained; use [Clear Glasses](#) instead)."
 		},
 		{
 			"name": "Health and Stamina Regeneration",
@@ -12165,7 +12174,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "workaround",
-			"summary": "use [Another Hunger Mod](#), [Hunger](#), or [Simple Hunger System](#) instead."
+			"summary": "use [Simple Hunger System](#) instead."
 		},
 		{
 			"name": "Hunger for Food",
@@ -12176,7 +12185,7 @@
 
 			"brokeIn": "SMAPI 2.0",
 			"status": "workaround",
-			"summary": "use [Another Hunger Mod](#), [Hunger](#), or [Simple Hunger System](#) instead."
+			"summary": "use [Simple Hunger System](#) instead."
 		},
 		{
 			"name": "Hungry Morning",
@@ -13405,7 +13414,7 @@
 			"nexus": 11286,
 			"github": "9Rifleman/JustSleepIn",
 
-			"brokeIn": "Stardew Valley 1.6"
+			"brokeIn": "Stardew Valley 1.6" // @retest-linked
 		},
 		{
 			"name": "Kali's Less Creepy Kids, Less Creepy Core, Sleep Animation Fix", // old name for Less Creepy Core before 1.0.2
@@ -13494,7 +13503,7 @@
 
 			"brokeIn": "Stardew Valley 1.3.29",
 			"status": "obsolete",
-			"summary": "remove this mod (no longer maintained; use [Customize Anywhere](#) + [Get Glam](#) + [Change Shoe Color](#) + [Json Assets](#) packs instead)."
+			"summary": "remove this mod (no longer maintained; use use [Content Patcher](#) packs, [Customize Anywhere](#), or [Fashion Sense](#) instead)."
 		},
 		{
 			"name": "Kiss Krobus",
@@ -14269,7 +14278,7 @@
 			"moddrop": 664151,
 			"github": "Sakorona/SDVMods",
 
-			"brokeIn": "Stardew Valley 1.6.9"
+			"brokeIn": "Stardew Valley 1.6.9" // @retest-linked
 		},
 		{
 			"name": "Luny's Wizard Furniture Catalog, Luny's Wizard Furniture Recolor Catalog",
@@ -15197,9 +15206,11 @@
 			"nexus": 1896,
 			"github": null,
 
-			"status": "workaround",
-			"summary": "Use [Almanac](#) instead.",
 			"brokeIn": "Stardew Valley 1.3"
+			/*
+			"status": "workaround",
+			"summary": "Use [Almanac](#) instead.", // @retest-after Almanac
+			*/
 		},
 		{
 			"name": "Monster Log Anywhere",
@@ -15617,9 +15628,8 @@
 			"id": "OrneryWalrus.MoreSiloStorage",
 			"nexus": 2587,
 			"github": null,
-			"brokeIn": "Stardew Valley 1.3",
-			"status": "workaround",
-			"summary": "use [Silo Size](#) instead."
+
+			"brokeIn": "Stardew Valley 1.3"
 		},
 		{
 			"name": "More Slimes, More Monsters",
@@ -16118,7 +16128,7 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [Free Love](#) instead)."
+			"summary": "remove this mod (no longer maintained; use [Polyamory Sweet → Polyamory Kiss](#) instead)."
 		},
 		{
 			"name": "Multiple Sprites and Portraits On Rotation, File Loading",
@@ -16292,9 +16302,11 @@
 			"nexus": 1894,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.3",
+			"brokeIn": "Stardew Valley 1.3"
+			/*
 			"status": "workaround",
-			"summary": "Use [Almanac](#) instead."
+			"summary": "Use [Almanac](#) instead." // @retest-after Almanac
+			*/
 		},
 		{
 			"name": "Mushroom Log Additions",
@@ -16993,7 +17005,7 @@
 			"nexus": 4582,
 			"github": "purrplingcat/PurrplingMod",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after Quest Framework
+			"brokeIn": "Stardew Valley 1.6" // @retest-after Quest Framework, @retest-linked
 		},
 		{
 			"name": "NPC Bucket for HB, NPC Bucket",
@@ -17220,8 +17232,6 @@
 			"nexus": 5150,
 			"github": null,
 
-			"status": "workaround",
-			"summary": "Use [Silo Size](#) instead.",
 			"brokeIn": "SMAPI 3.12.0"
 		},
 		{
@@ -17848,9 +17858,11 @@
 			"nexus": 3532,
 			"github": "bwdymods/SDV-PersonalEffects",
 
-			"status": "workaround",
-			"summary": "use [Personal Effects Redux](#) instead.",
 			"brokeIn": "Stardew Valley 1.4" // @retest-after bwdyworks
+			/*
+			"status": "workaround",
+			"summary": "use [Personal Effects Redux](#) instead." // @retest-after Personal Effects Redux
+			*/
 		},
 		{
 			"name": "Personal Effects Redux",
@@ -17859,7 +17871,7 @@
 			"nexus": 8616,
 			"github": "ceruleandeep/CeruleanStardewMods",
 
-			"brokeIn": "Stardew Valley 1.6"
+			"brokeIn": "Stardew Valley 1.6" // @retest-linked
 		},
 		{
 			"name": "Personal Indoor Farm",
@@ -17935,9 +17947,11 @@
 			"url": "https://community.playstarbound.com/threads/smapi-consilliums-pet-enhancement-mod.114314",
 			"github": "jlfulmer/PetEnhancementMod",
 
-			"brokeIn": "SMAPI 2.0",
+			"brokeIn": "SMAPI 2.0"
+			/*
 			"status": "workaround",
-			"summary": "use [Pet Interaction](#) instead."
+			"summary": "use [Pet Interaction](#) instead." // @retest-after Pet Interaction
+			*/
 			/*
 			"unofficialUpdate": {
 				"version": "0.0.2-unofficial.2-pathoschild",
@@ -17964,7 +17978,7 @@
 			"nexus": 4232,
 			"github": "jahangmar/StardewValleyMods",
 
-			"brokeIn": "Stardew Valley 1.6"
+			"brokeIn": "Stardew Valley 1.6" // @retest-linked
 		},
 		{
 			"name": "Pet's Enhanced",
@@ -18200,7 +18214,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "workaround",
-			"summary": "use [Tillable Ground](#) instead."
+			"summary": "use [Crops Anytime Anywhere](#) instead."
 		},
 		{
 			"name": "Platonic Partners and Friendships",
@@ -18414,7 +18428,7 @@
 
 			"brokeIn": "Stardew Valley 1.4",
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [Free Love](#) instead)."
+			"summary": "remove this mod (no longer maintained; use [Polyamory Sweet → Polyamory Kiss](#) instead)."
 		},
 		{
 			"name": "Pomodoro Mod, Stardew-Doro", // manifest, Nexus
@@ -18926,7 +18940,7 @@
 
 			"brokeIn": "Stardew Valley 1.3.29",
 			"status": "workaround",
-			"summary": "use [Pristmatic Tools Continued](#) instead."
+			"summary": "use [Prismatic Tools Continued](#) instead."
 			/*
 			"status": "workaround",
 			"unofficialUpdate": {
@@ -19121,7 +19135,7 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "workaround",
-			"summary": "use [Buy Cooking Recipes](#) or [TV Recipes](#) instead."
+			"summary": "use [Buy Cooking Recipes](#) instead."
 			/*
 			"unofficialUpdate": {
 				"version": "1.0.1-unofficial.3.mizzion",
@@ -19213,9 +19227,7 @@
 			"nexus": 1647,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.3",
-			"status": "workaround",
-			"summary": "use [Stone Bridge Over Pond](#) instead."
+			"brokeIn": "Stardew Valley 1.3"
 		},
 		{
 			"name": "Quality Bait",
@@ -20185,9 +20197,7 @@
 			"nexus": 2421,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.3.29",
-			"status": "workaround",
-			"summary": "Use [Harvest Seeds](#) instead."
+			"brokeIn": "Stardew Valley 1.3.29"
 		},
 		{
 			"name": "Reset Skull Caverns, Skull Caverns Reset",
@@ -20371,9 +20381,11 @@
 			"nexus": 3,
 			"github": null,
 
-			"brokeIn": "SMAPI 0.39.1",
+			"brokeIn": "SMAPI 0.39.1"
+			/*
 			"status": "workaround",
-			"summary": "Use [Just Sleep In](#) instead."
+			"summary": "Use [Just Sleep In](#) instead." // @retest-after Just Sleep In
+			*/
 			/*
 			"unofficialUpdate": {
 				"version": "1.1.1-whisk-update",
@@ -21015,7 +21027,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [Seed Maker - Quality](#) instead."
+			"summary": "use [Seed Maker Quality](#) instead."
 		},
 		{
 			"name": "Seed Maker Crop Quality, SMCQ",
@@ -21026,7 +21038,7 @@
 
 			"brokeIn": "SMAPI 3.0",
 			"status": "workaround",
-			"summary": "use [Seed Maker - Quality](#) instead."
+			"summary": "use [Seed Maker Quality](#) instead."
 		},
 		{
 			"name": "Seed Maker Quality",
@@ -21133,9 +21145,7 @@
 			"nexus": 1622,
 			"github": "GuiNoya/SVMods",
 
-			"brokeIn": "Stardew Valley 1.4",
-			"status": "workaround",
-			"summary": "use [Self Service](#) instead."
+			"brokeIn": "Stardew Valley 1.4"
 		},
 		{
 			"name": "Sell Quality",
@@ -21198,7 +21208,7 @@
 			"nexus": 24357,
 			"github": "daleao/sdv",
 
-			"brokeIn": "Stardew Valley 1.6.9"
+			"brokeIn": "Stardew Valley 1.6.9" // @retest-linked
 		},
 		{
 			"name": "Server Bookmarker",
@@ -21658,9 +21668,7 @@
 			"nexus": 3194,
 			"github": "bogie5464/SiloReport",
 
-			"brokeIn": "Stardew Valley 1.5",
-			"status": "workaround",
-			"summary": "use [Silo Size](#) instead."
+			"brokeIn": "Stardew Valley 1.5"
 		},
 		{
 			"name": "Silo Size",
@@ -22295,9 +22303,11 @@
 			"nexus": 7651,
 			"github": "Wellbott/StardewValleyMods",
 
-			"brokeIn": "Stardew Valley 1.6",
+			"brokeIn": "Stardew Valley 1.6"
+			/*
 			"status": "workaround",
-			"summary": "use [The Return of Smaller Fish Ponds](#) instead."
+			"summary": "use [The Return of Smaller Fish Ponds](#) instead." // @retest-after The Return of Smaller Fish Ponds
+			*/
 		},
 		{
 			"name": "Small Tree Texture",
@@ -22459,9 +22469,11 @@
 			"nexus": 897,
 			"github": "JohnsonNicholas/SDVMods",
 
-			"brokeIn": "Stardew Valley 1.3",
+			"brokeIn": "Stardew Valley 1.3"
+			/*
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [Lunar Disturbances](#) instead)."
+			"summary": "remove this mod (no longer maintained; use [Lunar Disturbances](#) instead)." // @retest-after Lunar Disturbance
+			*/
 		},
 		{
 			"name": "Solid Foundations",
@@ -22895,7 +22907,9 @@
 			"github": null,
 			"source": "https://gitlab.com/speeder1/SPDSprintAndDashMod",
 
-			"brokeIn": "Stardew Valley 1.6"
+			"brokeIn": "Stardew Valley 1.6",
+			"status": "workaround",
+			"summary": "use [Sprinting](#), [Sprint Sprint](#), or [Sprint (unidarkshin)](#) by onemix instead"
 		},
 		{
 			"name": "Sprint and Dash Redux",
@@ -22905,7 +22919,9 @@
 			"moddrop": 827770,
 			"github": "littleraskol/Sprint-And-Dash-Redux",
 
-			"brokeIn": "Stardew Valley 1.6"
+			"brokeIn": "Stardew Valley 1.6",
+			"status": "workaround",
+			"summary": "use [Sprinting](#), [Sprint Sprint](#), or [Sprint (unidarkshin)](#) by onemix instead"
 		},
 		{
 			"name": "Sprinting",
@@ -22924,7 +22940,7 @@
 
 			"brokeIn": "Stardew Valley 1.2",
 			"status": "workaround",
-			"summary": "use [Sprint (unidarkshin)](#), [Sprint and Dash Buttons](#), [Sprint and Dash Redux](#), or [Sprint Sprint](#) instead."
+			"summary": "use [Sprinting](#), [Sprint Sprint](#), or [Sprint (unidarkshin)](#) by onemix instead"
 		},
 		{
 			"name": "SprintNRegen, Eating food or crops restores health and stamina over time plus enables sprinting",
@@ -22958,7 +22974,7 @@
 
 			"brokeIn": "SMAPI 0.39.1",
 			"status": "workaround",
-			"summary": "use [Sprint (unidarkshin)](#), [Sprint and Dash Buttons](#), [Sprint and Dash Redux](#), or [Sprint Sprint](#) instead."
+			"summary": "use [Sprinting](#), [Sprint Sprint](#), or [Sprint (unidarkshin)](#) by onemix instead"
 		},
 		{
 			"name": "SpriteMaster",
@@ -23077,7 +23093,7 @@
 
 			"brokeIn": "Stardew Valley 1.4",
 			"status": "workaround",
-			"summary": "use [Stack Split Redux](#) instead."
+			"summary": "use [Stack Everything Redux](#) instead."
 		},
 		{
 			"name": "Stack to Nearby Chests",
@@ -23936,7 +23952,7 @@
 
 			"brokeIn": "SMAPI 3.0",
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [Swim](#) instead)."
+			"summary": "remove this mod (no longer maintained; use [Swim - Continued](#) instead)."
 		},
 		{
 			"name": "Swim - Continued",
@@ -24094,7 +24110,7 @@
 			"github": null,
 
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [Ferngill Revenue Service](#) or [Serfdom - Immersive Taxes](#) instead).",
+			"summary": "remove this mod (no longer maintained; use [Ferngill Revenue Service](#) instead).", // or [Serfdom](#): @retest-after Serfdon
 			"brokeIn": "SMAPI 0.39.1"
 		},
 		{
@@ -24146,9 +24162,11 @@
 			"chucklefish": 4374,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.2",
+			"brokeIn": "Stardew Valley 1.2"
+			/*
 			"status": "workaround",
-			"summary": "use [Fast Travel](#) instead."
+			"summary": "use [Fast Travel](#) instead." // @retest-after Fast Travel
+			*/
 		},
 		{
 			"name": "Teleport Mod",
@@ -24409,7 +24427,7 @@
 			"nexus": 21900,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.6.9"
+			"brokeIn": "Stardew Valley 1.6.9" // @retest-linked
 		},
 		{
 			"name": "The Twlight Traveller - Custom NPC (API), APICut",
@@ -24555,7 +24573,9 @@
 			"nexus": 2175,
 			"github": "hawkfalcon/Stardew-Mods",
 
-			"brokeIn": "Stardew Valley 1.6"
+			"brokeIn": "Stardew Valley 1.6",
+			"status": "workaround",
+			"summary": "use [Crops Anytime Anywhere](#) instead."
 		},
 		{
 			"name": "Tilled Soil Decay",
@@ -25620,9 +25640,7 @@
 			"nexus": 4338,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.4", // @retest-after bwdyworks
-			"status": "workaround",
-			"summary": "use [Custom Locks](#) instead."
+			"brokeIn": "Stardew Valley 1.4" // @retest-after bwdyworks
 		},
 		{
 			"name": "Unscheduled Evaluation",
@@ -25716,7 +25734,7 @@
 
 			"brokeIn": "Stardew Valley 1.3.29",
 			"status": "workaround",
-			"summary": "Use [BetterBombs](#) instead."
+			"summary": "Use [Better Bombs](#) instead."
 			/*
 			"unofficialUpdate": {
 				"version": "1.0.5-unofficial.1-Mizzion",
@@ -26093,8 +26111,6 @@
 			"nexus": 2180,
 			"github": "Shalankwa/SDV_Mods",
 
-			"status": "workaround",
-			"summary": "use [Warp Multiplayer](#) instead.",
 			"brokeIn": "Stardew Valley 1.4",
 			"unofficialUpdate": {
 				"version": "1.2.1-unofficial.1-SorryLate",
