@@ -22052,6 +22052,7 @@
 			"name": "Skull Cavern Elevator",
 			"author": "Bifibi, Lestoph",
 			"id": "SkullCavernElevator",
+			"curse": 990459,
 			"nexus": 963,
 			"github": null
 		},
