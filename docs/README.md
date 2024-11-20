@@ -80,7 +80,7 @@ To update this list:
 4. Make any changes needed.
 
    You can point at a field for an explanation of that field. For example:
-   ![](docs/schema-tooltip.png)
+   > ![](schema-tooltip.png)
 5. Copy your changes back into the GitHub web UI, and click the big green button to propose the changes.
 
 ### Publish changes
