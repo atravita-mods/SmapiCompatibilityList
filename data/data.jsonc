@@ -1222,7 +1222,9 @@
 			"id": "mizzion.artifactdigger",
 			"nexus": 4212,
 			"moddrop": 661378,
-			"github": "Mizzion/MyStardewMods"
+			"github": "Mizzion/MyStardewMods",
+
+			"brokeIn": "Stardew Valley 1.6.9"
 		},
 		{
 			"name": "Artifact System Drop Framework & Geodes Handler, ASDFGH, Artifact System Fixed - Redux",
@@ -13295,7 +13297,9 @@
 			"author": "flowoeB",
 			"id": "flowoeB.JumpDownTheMine",
 			"nexus": 8357,
-			"github": null
+			"github": null,
+
+			"brokeIn": "Stardew Valley 1.6.9"
 		},
 		{
 			"name": "Jump Over",
@@ -21021,7 +21025,9 @@
 			"author": "dumbledalton",
 			"id": "Dumbledalton.SeasonSwitcher",
 			"nexus": 10457,
-			"github": null
+			"github": null,
+
+			"brokeIn": "Stardew Valley 1.6.9"
 		},
 		{
 			"name": "Sebastian Frog Tank Switch",
@@ -21678,7 +21684,10 @@
 			"id": "aedenthorn.ShowPlayerBehind",
 			"curse": 868887,
 			"nexus": 6540,
-			"github": "aedenthorn/stardewValleyMods"
+			"github": "aedenthorn/stardewValleyMods",
+
+			"brokeIn": "Stardew Valley 1.6.9",
+			"retestWhenCompatible": [ "Tile Transparency" ]
 		},
 		{
 			"name": "Show Players, 显示玩家",
@@ -23631,7 +23640,9 @@
 			"author": "evskii",
 			"id": "evskii.StardewTimelapse",
 			"nexus": 19806,
-			"github": null
+			"github": null,
+
+			"brokeIn": "Stardew Valley 1.6.9"
 		},
 		{
 			"name": "Stardew Valley Web API",
