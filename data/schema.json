@@ -136,7 +136,7 @@
 					"title": "Override mod data",
 					"description": "Specific mod data from the local manifest.json or remote mod page to override when performing update checks, if any.",
 					"type": "array",
-					"item": {
+					"items": {
 						"type": "object",
 						"properties": {
 							"type": {
@@ -162,6 +162,15 @@
 						},
 						"additionalProperties": false,
 						"required": [ "type", "from", "to", "reason" ]
+					}
+				},
+
+				"retestWhenCompatible": {
+					"title": "Retest when other mods are compatible",
+					"description": "The names of other mods on the compatibility list which currently break this mod's compatibility. These can be broken mod dependencies (e.g. a framework), or mods which act as a replacement for this broken mod. This mod entry should be retested or updated once those mods are updated.\n\nThis only helps avoid forgetting to mark a mod compatible once the dependency is fixed; this does not comprehensively track dependencies.",
+					"type": "array",
+					"items": {
+						"type": "string"
 					}
 				}
 			},

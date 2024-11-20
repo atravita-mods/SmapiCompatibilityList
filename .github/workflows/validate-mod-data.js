@@ -40,6 +40,29 @@ for (const mod of mods) {
 			continue;
 		}
 	}
+
+	// check 'retest when compatible' field
+	if (mod.retestWhenCompatible) {
+		if (mod.status === 'ok' || mod.status === 'optional')
+			hasErrors = logModError(mod, "is marked compatible, but still has the 'retestWhenCompatible' field set.");
+		else {
+			for (const otherName of mod.retestWhenCompatible) {
+				// target not found
+				const targets = modsByName[otherName.toLowerCase()];
+				if (!targets) {
+					hasErrors = logModError(mod, `has mod name '${otherName}' in the retestWhenCompatible field, but no such mod was found.`);
+					continue;
+				}
+
+				// target already compatible
+				const statuses = new Set(targets.map(target => target.status));
+				if (statuses.has("ok") || statuses.has("optional") || statuses.has("unofficial")) {
+					hasErrors = logModError(mod, `has mod name '${otherName}' in the retestWhenCompatible field, but that mod is already compatible.`);
+					continue;
+				}
+			}
+		}
+	}
 }
 
 if (hasErrors)

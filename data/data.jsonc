@@ -287,7 +287,7 @@
 			"moddrop": 600967,
 			"github": "Gathouria/Adopt-Skin",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-linked
+			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
 			"name": "Adopt With Krobus",
@@ -360,7 +360,7 @@
 			"nexus": 7739,
 			"github": "aedenthorn/StardewValleyMods",
 
-			"brokeIn": "Stardew Valley 1.6", // @retest-linked
+			"brokeIn": "Stardew Valley 1.6",
 			"unofficialUpdate": {
 				"version": "0.4.2-unofficial.1-mouahrara",
 				"url": "https://github.com/mouahrara/aedenthorn#AdvancedLootFramework"
@@ -499,7 +499,7 @@
 			"nexus": 3661,
 			"github": "phrasefable/StardewMods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-linked
+			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
 			"name": "Aging Mod",
@@ -594,7 +594,7 @@
 			"nexus": 11022,
 			"github": "KhloeLeclair/StardewMods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-linked
+			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
 			"name": "Almanac → DGA Support",
@@ -603,7 +603,8 @@
 			"nexus": 11022,
 			"github": "KhloeLeclair/StardewMods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after Alamanac, Dynamic Game Assets
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "Almanac", "Dynamic Game Assets" ] // broken dependencies
 		},
 		{
 			"name": "Almighty Farming Tool, Almighty Tool",
@@ -977,7 +978,8 @@
 			"nexus": 8249,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.5.5" // @retest-after HD Portraits
+			"brokeIn": "Stardew Valley 1.5.5",
+			"retestWhenCompatible": [ "HD Portraits" ] // workaround
 			/*
 			"status": "workaround",
 			"summary": "use [HD Portraits](#) instead.",
@@ -1112,7 +1114,8 @@
 			"nexus": 24356,
 			"github": "daleao/sdv",
 
-			"brokeIn": "Stardew Valley 1.6.9" // @retest-after DaLionheart
+			"brokeIn": "Stardew Valley 1.6.9",
+			"retestWhenCompatible": [ "DaLionheart" ] // dependency
 		},
 		{
 			"name": "Arcade 2048",
@@ -1173,7 +1176,7 @@
 			"nexus": 16767,
 			"github": "Floogen/Archery",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-linked
+			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
 			"name": "Archery - Starter Pack",
@@ -1183,7 +1186,8 @@
 			"nexus": 16768,
 			"github": "Floogen/Archery",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after Archery
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "Archery" ] // dependency
 		},
 		{
 			"name": "Arena Challenges Mod",
@@ -1319,7 +1323,7 @@
 
 			"warnings": [ "Broken on Android." ],
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-linked
+			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
 			"name": "Atra's Interaction Tweaks, Stop Rug Removal",
@@ -2022,7 +2026,8 @@
 			"nexus": 3199,
 			"github": "Ilyaki/BattleRoyalley",
 
-			"brokeIn": "Stardew Valley 1.4" // @retest-after Battle Royalley - Year 2
+			"brokeIn": "Stardew Valley 1.4",
+			"retestWhenCompatible": [ "Battle Royalley - Year 2" ] // workaround
 			/*
 			"status": "workaround",
 			"summary": "use [Battle Royalley - Year 2](#) instead.",
@@ -2035,7 +2040,7 @@
 			"nexus": 9891,
 			"github": "tylergibbs2/StardewValleyMods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-linked
+			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
 			"name": "Beatable Lucky Purple Shorts",
@@ -2152,7 +2157,7 @@
 			"moddrop": 833553,
 			"github": "danvolchek/StardewMods",
 
-			"brokeIn": "Stardew Valley 1.6", // @retest-linked
+			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
 			"summary": "use [Even Better Artisan Good Icons](#) instead (see [instructions to convert old content packs](https://github.com/chsiao58/EvenBetterArtisanGoodIcons#for-user))."
 		},
@@ -2163,7 +2168,8 @@
 			"nexus": null,
 			"github": "daleao/bagi-meads",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after Better Artisan Good Icons
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "Better Artisan Good Icons" ] // dependency
 		},
 		{
 			"name": "Better Balance",
@@ -2464,7 +2470,7 @@
 			"nexus": 8992,
 			"github": "ceruleandeep/CeruleanStardewMods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after Better Junimos
+			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
 			"name": "Better Junimos Forestry Redux",
@@ -2515,7 +2521,7 @@
 			"nexus": 4161,
 			"github": "AairTheGreat/StardewValleyMods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-linked
+			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
 			"name": "Better Panning Extra Config",
@@ -2524,7 +2530,8 @@
 			"nexus": 16235,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after Better Pannint
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "Better Panning" ] // dependency
 		},
 		{
 			"name": "Better Panning Spot",
@@ -2863,7 +2870,7 @@
 			"nexus": 7530,
 			"github": "spacechase0/StardewValleyMods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-linked
+			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
 			"name": "Bigger Craftables for 1.6",
@@ -3120,7 +3127,8 @@
 			"curse": 307717,
 			"github": "GenDeathrow/SDV_BlessingsAndCurses",
 
-			"brokeIn": "Stardew Valley 1.4" // @retest-after Bookcase
+			"brokeIn": "Stardew Valley 1.4",
+			"retestWhenCompatible": [ "Bookcase" ] // dependency
 		},
 		{
 			"name": "Blinking Cursed Mannequins",
@@ -3184,7 +3192,7 @@
 			"curse": 297252,
 			"github": "Stardew-Valley-Modding/Bookcase",
 
-			"brokeIn": "Stardew Valley 1.4" // @retest-linked
+			"brokeIn": "Stardew Valley 1.4"
 		},
 		{
 			"name": "Boomerangs, Boomerang Mod",
@@ -3231,9 +3239,10 @@
 			"moddrop": 771627,
 			"github": "spacechase0/Bow",
 
-			"status": "abandoned"
+			"status": "abandoned",
+			"retestWhenCompatible": [ "Archery" ] // workaround
 			/*
-			"summary": "remove this mod (no longer maintained; use [Archery](#) instead)." // @retest-after Archery
+			"summary": "remove this mod (no longer maintained; use [Archery](#) instead)."
 			*/
 		},
 		{
@@ -3262,7 +3271,8 @@
 			"nexus": 5105,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after Simple Sound Manager
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "Simple Sound Manager" ] // dependency
 		},
 		{
 			"name": "Breeding Overhaul",
@@ -3272,7 +3282,8 @@
 			"github": "StarAmy/BreedingOverhaul",
 
 			"status": "abandoned",
-			"brokeIn": "Stardew Valley 1.6" // @retest-after Animal Husbandry Overhaul, @retest-after Paritee's Better Farm Animal Variety
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "Paritee's Better Farm Animal Variety" ] // dependency
 		},
 		{
 			"name": "Breed Like Rabbits 2: Procreation Boogaloo",
@@ -3632,7 +3643,8 @@
 			"nexus": 16218,
 			"github": "atravita-mods/StardewMods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after AtraCore
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "AtraCore" ] // dependency
 		},
 		{
 			"name": "Campfire Cooking",
@@ -3877,7 +3889,7 @@
 			"nexus": 14196,
 			"github": "slothsoft/stardew-challenger",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-linked
+			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
 			"name": "Challenger → Automate",
@@ -3886,7 +3898,8 @@
 			"nexus": 14196,
 			"github": "slothsoft/stardew-challenger",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after Challenger
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "Challenger" ] // dependency
 		},
 		{
 			"name": "Challenging Community Center Bundles",
@@ -4001,7 +4014,8 @@
 			"nexus": 23048,
 			"github": "daleao/sdv",
 
-			"brokeIn": "Stardew Valley 1.6.9" // @retest-after DaLionheart
+			"brokeIn": "Stardew Valley 1.6.9",
+			"retestWhenCompatible": [ "DaLionheart" ] // dependency
 		},
 		{
 			"name": "Charlie Out of Her Coop, Charlie The Chicken",
@@ -4487,7 +4501,8 @@
 			"nexus": 9843,
 			"github": "aedenthorn/StardewValleyMods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after Dynamic Game Assets
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "Dynamic Game Assets" ] // dependency
 		},
 		{
 			"name": "Cold Pets",
@@ -4588,7 +4603,8 @@
 			"nexus": 16769,
 			"github": "Floogen/CombatDummy",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after Dynamic Game Assets
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "Dynamic Game Assets" ] // dependency
 		},
 		{
 			"name": "Combat Level Damage Scaler",
@@ -4668,7 +4684,8 @@
 			"nexus": 9851,
 			"github": "b-b-blueberry/CustomCommunityCentre",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after Custom Community Center
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "Custom Community Centre", "Custom Music" ] // dependency
 		},
 		{
 			"name": "Companion NPCs",
@@ -4677,10 +4694,11 @@
 			"nexus": 3175,
 			"github": "EKomperud/StardewMods",
 
-			"brokeIn": "Stardew Valley 1.4"
+			"brokeIn": "Stardew Valley 1.4",
+			"retestWhenCompatible": [ "NPC Adventures" ] // workaround
 			/*
 			"status": "workaround",
-			"summary": "use [NPC Adventures](#) instead." // @retest-after NPC Adventures
+			"summary": "use [NPC Adventures](#) instead."
 			*/
 		},
 		{
@@ -4745,9 +4763,10 @@
 			"github": null,
 
 			"brokeIn": "Stardew Valley 1.3",
+			"retestWhenCompatible": [ "Configure Machine Outputs" ], // workaround
 			/*
 			"status": "workaround",
-			"summary": "use [Configure Machine Outputs](#) instead.", // @retest-after Configure Machine Outputs
+			"summary": "use [Configure Machine Outputs](#) instead.",
 			*/
 
 			"overrideModData": [
@@ -4793,7 +4812,7 @@
 			"moddrop": 661367,
 			"github": "Mizzion/MyStardewMods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-linked
+			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
 			"name": "Configure Machine Speed",
@@ -4860,10 +4879,11 @@
 			"nexus": 1799,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.3.29"
+			"brokeIn": "Stardew Valley 1.3.29",
+			"retestWhenCompatible": [ "Aggressive Acorns" ] // workaround
 			/*
 			"status": "workaround",
-			"summary": "use [Aggressive Acorns](#) instead." // @retest-after Aggressive Acorns
+			"summary": "use [Aggressive Acorns](#) instead."
 			*/
 		},
 		{
@@ -5284,7 +5304,8 @@
 			"nexus": 15557,
 			"github": "atravita-mods/StardewMods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after AtraCore
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "AtraCore" ] // dependency
 		},
 		{
 			"name": "Crocus Crew Sea Monster Alert, Sea Monster Alert",
@@ -5456,7 +5477,8 @@
 			"curse": 307933,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.4", // @retest-after Bookcase
+			"brokeIn": "Stardew Valley 1.4",
+			"retestWhenCompatible": [ "Bookcase" ], // dependency
 			"status": "workaround",
 			"summary": "use [Lookup Anything](#) instead."
 		},
@@ -5688,7 +5710,7 @@
 			"moddrop": 717888,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-linked
+			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
 			"name": "Custom Community Center Bundles",
@@ -5704,7 +5726,7 @@
 			"nexus": 9850,
 			"github": "b-b-blueberry/CustomCommunityCentre",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-linked
+			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
 			"name": "Custom Companions",
@@ -5847,7 +5869,7 @@
 
 			"status": "abandoned",
 			"summary": "remove this mod (no longer maintained; use [Producer Framework Mod](#) instead.",
-			"brokeIn": "Stardew Valley 1.4.4" // @retest-linked
+			"brokeIn": "Stardew Valley 1.4.4"
 			/*
 			"unofficialUpdate": {
 				"version": "2.12.10-unofficial.1-minervamaga",
@@ -6441,7 +6463,8 @@
 			"nexus": 7775,
 			"github": "aedenthorn/StardewValleyMods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest after Custom Spouse Patio
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "Custom Spouse Patio" ] // dependency
 		},
 		{
 			"name": "Custom Spouse Rooms",
@@ -6582,7 +6605,8 @@
 			"nexus": 6775,
 			"github": "Platonymous/Stardew-Valley-Mods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after PlatoTK
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "PlatoTK" ] // dependency
 		},
 		{
 			"name": "Custom TV Channel",
@@ -6752,7 +6776,8 @@
 			"nexus": 14648,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after Quest Framework
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "Quest Framework" ] // dependency
 		},
 		{
 			"name": "Daily Planner, Stardew In-Game Daily Planner", // changed in 1.2.0
@@ -6821,7 +6846,7 @@
 			"nexus": 24332,
 			"github": "daleao/sdv",
 
-			"brokeIn": "Stardew Valley 1.6.9" // @retest-linked
+			"brokeIn": "Stardew Valley 1.6.9"
 		},
 		{
 			"name": "Dan Utils",
@@ -6926,7 +6951,7 @@
 			"nexus": 2571,
 			"github": "maxvollmer/DeepWoodsMod",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-linked
+			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
 			"name": "Deep Woods Seasonal Obelisk",
@@ -6935,7 +6960,8 @@
 			"nexus": 5016,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.6", // @retest-after Deep Woods
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "Deep Woods" ], // dependency
 
 			"overrideModData": [
 				{
@@ -6954,7 +6980,8 @@
 			"moddrop": 1060419,
 			"github": "tlitookilakin/WarpnetDeepwoods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest after Warp Network
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "Warp Network" ] // dependency
 		},
 		{
 			"name": "Default Animal Skin Replacer, Default Skin Replace",
@@ -7458,7 +7485,8 @@
 			"nexus": 11352,
 			"github": "atravita-mods/StardewMods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after AtraCore
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "AtraCore" ] // dependency
 		},
 		{
 			"name": "Dreamscape",
@@ -7509,7 +7537,7 @@
 			"nexus": 7864,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after Custom NPC Exclusions
+			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
 			"name": "Dungeon Merchants",
@@ -7665,7 +7693,7 @@
 			"nexus": 9365,
 			"github": "spacechase0/StardewValleyMods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-linked
+			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
 			"name": "Dynamic Game Assets → DGA Automate",
@@ -7674,7 +7702,8 @@
 			"nexus": 9365,
 			"github": "spacechase0/StardewValleyMods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after Dynamic Game Assets
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "Dynamic Game Assets" ] // dependency
 		},
 		{
 			"name": "Dynamic Horses",
@@ -7684,9 +7713,10 @@
 			"github": "Bpendragon/DynamicHorses",
 
 			"brokeIn": "Stardew Valley 1.3",
-			"status": "abandoned"
+			"status": "abandoned",
+			"retestWhenCompatible": [ "Adopt 'n Skin" ] // workaround
 			/*
-			"summary": "remove this mod (no longer maintained; use [Adopt 'n Skin](#) instead)." // @retest-after Adopt 'n Skin
+			"summary": "remove this mod (no longer maintained; use [Adopt 'n Skin](#) instead)."
 			*/
 		},
 		{
@@ -7697,9 +7727,10 @@
 			"github": null,
 
 			"brokeIn": "SMAPI 2.0",
+			"retestWhenCompatible": [ "Configure Machine Outputs" ], // workaround
 			/*
 			"status": "workaround",
-			"summary": "use [Configure Machine Outputs](#) instead.", // @retest-after Configure Machine Outputs
+			"summary": "use [Configure Machine Outputs](#) instead.",
 			*/
 
 			"overrideModData": [
@@ -7806,7 +7837,8 @@
 			"nexus": 11500,
 			"github": "atravita-mods/StardewMods",
 
-			"brokeIn": "Stardew Valley 1.6", // @retest-after AtraCore
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "AtraCore" ], // dependency
 			"status": "workaround",
 			"summary": "use [Easy Island Puzzle](#) instead."
 		},
@@ -7819,7 +7851,8 @@
 			"nexus": 13049,
 			"github": "atravita-mods/StardewMods",
 
-			"brokeIn": "Stardew Valley 1.6", // @retest-after AtraCore
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "AtraCore" ], // dependency
 			"status": "workaround",
 			"summary": "use [Easy Darts Game](#) instead."
 		},
@@ -8123,7 +8156,8 @@
 			"nexus": 11325,
 			"github": "aedenthorn/StardewValleyMods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after Mobile Phone
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "Mobile Phone" ] // dependency
 		},
 		{
 			"name": "Emily for Stardew Impact, SDI Emily", // Nexus, manifest
@@ -8691,7 +8725,11 @@
 			"id": "aedenthorn.ExtraMapLayers",
 			"curse": 868841,
 			"nexus": 9633,
-			"github": "aedenthorn/StardewValleyMods" // @retest-linked
+			"github": "aedenthorn/StardewValleyMods",
+
+			"brokeIn": "Stardew Valley 1.6",
+			"status": "obsolete",
+			"summary": "remove this mod (extra map layers are supported by the base game in Stardew Valley 1.6)."
 		},
 		{
 			"name": "Extra Map Layers for Android",
@@ -8801,7 +8839,8 @@
 			"nexus": 15857,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after Dynamic Game Assets
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "Dynamic Game Assets" ] // dependency
 		},
 		{
 			"name": "Fantastic Frames",
@@ -8899,7 +8938,8 @@
 			"nexus": 10186,
 			"github": "atravita-mods/StardewMods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after AtraCore
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "AtraCore" ] // dependency
 		},
 		{
 			"name": "Farm Combat Grants XP Too, EXP From Monster Kills On Farm",
@@ -8910,7 +8950,8 @@
 			"nexus": 10924,
 			"github": "atravita-mods/StardewMods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after AtraCore
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "AtraCore" ] // dependency
 		},
 		{
 			"name": "Farm Computer Plus",
@@ -9203,7 +9244,8 @@
 
 			"warnings": [ "Broken on Android (needs Entoarox Framework which crashes on startup)." ],
 
-			"brokeIn": "Stardew Valley 1.6" // @retest after Entoarox Framework
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "Entoarox Framework" ] // dependency
 		},
 		{
 			"name": "Faster Path Speed",
@@ -9302,7 +9344,7 @@
 			"nexus": 1529,
 			"github": "DeathGameDev/SDV-FastTravel",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-linked
+			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
 			"name": "FauxCore",
@@ -9626,7 +9668,7 @@
 			"nexus": 7694,
 			"github": "aedenthorn/StardewValleyMods",
 
-			"brokeIn": "Stardew Valley 1.6", // @retest-after Advanced Loot Framework
+			"brokeIn": "Stardew Valley 1.6",
 			"unofficialUpdate": {
 				"version": "0.4.3-unofficial.3-mouahrara",
 				"url": "https://github.com/mouahrara/aedenthorn#FishingChestsExpanded"
@@ -9654,7 +9696,8 @@
 			"curse": 299792,
 			"github": "M3ales/FishingLogbook",
 
-			"brokeIn": "Stardew Valley 1.4" // @retest-after Bookcase
+			"brokeIn": "Stardew Valley 1.4",
+			"retestWhenCompatible": [ "Bookcase" ] // dependency
 		},
 		{
 			"name": "Fishing Minigames",
@@ -9906,7 +9949,8 @@
 			"nexus": 15003,
 			"github": "atravita-mods/StardewMods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after AtraCore
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "AtraCore" ] // dependency
 		},
 		{
 			"name": "Fix Scythe Exp",
@@ -10012,7 +10056,8 @@
 			"moddrop": 794657,
 			"source": "https://gitlab.com/kdau/flowerbombs",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after PlatoTK
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "PlatoTK" ] // dependency
 		},
 		{
 			"name": "Flower Color Picker",
@@ -10902,7 +10947,8 @@
 			"nexus": 11620,
 			"github": "atravita-mods/StardewMods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after AtraCore
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "AtraCore" ] // dependency
 		},
 		{
 			"name": "Giant Crop Ring",
@@ -11018,7 +11064,8 @@
 			"nexus": 10004,
 			"github": "atravita-mods/StardewMods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after AtraCore
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "AtraCore" ] // dependency
 		},
 		{
 			"name": "Give Gold Mod, Instant Gold Mod",
@@ -11346,7 +11393,8 @@
 			"nexus": 15111,
 			"github": "atravita-mods/StardewMods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after AtraCore
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "AtraCore" ] // dependency
 		},
 		{
 			"name": "Growable Giant Crops",
@@ -11357,7 +11405,7 @@
 			"nexus": 15559,
 			"github": "atravita-mods/StardewMods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-linked
+			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
 			"name": "Growing Valley - Child NPCs",
@@ -11514,10 +11562,11 @@
 			"nexus": 1674,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.3"
+			"brokeIn": "Stardew Valley 1.3",
+			"retestWhenCompatible": [ "Hardcore Mines 2" ] // workaround
 			/*
 			"status": "workaround",
-			"summary": "use [Hardcore Mines 2](#) instead." // @retest-after Hardcore Mines 2
+			"summary": "use [Hardcore Mines 2](#) instead."
 			*/
 		},
 		{
@@ -11527,7 +11576,7 @@
 			"nexus": 6411,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-linked
+			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
 			"name": "Hardcore Mode",
@@ -11687,7 +11736,8 @@
 			"moddrop": 1103418,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after AeroCore
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "AeroCore" ] // dependency
 		},
 		{
 			"name": "HD Portraiture Plus",
@@ -11804,7 +11854,8 @@
 			"nexus": 5175,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after Custom Chores
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "Custom Chores" ] // dependency
 		},
 		{
 			"name": "Help Wanted",
@@ -11896,7 +11947,8 @@
 			"nexus": 11664,
 			"github": "atravita-mods/StardewMods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after AtraCore
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "AtraCore" ] // dependency
 		},
 		{
 			"name": "High Roller Slots",
@@ -11978,7 +12030,8 @@
 			"nexus": 13050,
 			"github": "atravita-mods/StardewMods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after AtraCore
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "AtraCore" ] // dependency
 		},
 		{
 			"name": "Home Sewing Kit",
@@ -12436,7 +12489,7 @@
 			"nexus": 5568,
 			"github": "Traktori7/StardewValleyMods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-linked
+			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
 			"name": "Industrial Furnace for Automate",
@@ -12445,7 +12498,8 @@
 			"nexus": 5568,
 			"github": "Traktori7/StardewValleyMods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after Industrial Furnace
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "Industrial Furnace" ] // dependency
 		},
 		{
 			"name": "Industrialization Redux",
@@ -13414,7 +13468,7 @@
 			"nexus": 11286,
 			"github": "9Rifleman/JustSleepIn",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-linked
+			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
 			"name": "Kali's Less Creepy Kids, Less Creepy Core, Sleep Animation Fix", // old name for Less Creepy Core before 1.0.2
@@ -13612,7 +13666,8 @@
 			"nexus": 15004,
 			"github": "atravita-mods/StardewMods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after AtraCore
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "AtraCore" ] // dependency
 		},
 		{
 			"name": "Lasting Conversation Topics",
@@ -13703,7 +13758,8 @@
 			"moddrop": 1102538,
 			"github": "atravita-mods/StardewMods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after AtraCore
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "AtraCore" ] // dependency
 		},
 		{
 			"name": "Less Strict Over-Exertion, AntiExhaustion",
@@ -13762,7 +13818,7 @@
 			"nexus": 1471,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-linked
+			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
 			"name": "Level Forever",
@@ -13890,7 +13946,8 @@
 			"nexus": 2917,
 			"github": "hootless/StardewMods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest after Dynamic Game Assets
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "Dynamic Game Assets" ] // dependency
 		},
 		{
 			"name": "Line Sprinklers Redux (1.6 Compatible)",
@@ -14234,7 +14291,7 @@
 			"nexus": 521,
 			"github": "spacechase0/StardewValleyMods",
 
-			"brokeIn": "Stardew Valley 1.6.9", // @retest-linked
+			"brokeIn": "Stardew Valley 1.6.9",
 			"status": "workaround",
 			"summary": "use [Spacecore Luck Skill](#) instead.",
 
@@ -14278,7 +14335,7 @@
 			"moddrop": 664151,
 			"github": "Sakorona/SDVMods",
 
-			"brokeIn": "Stardew Valley 1.6.9" // @retest-linked
+			"brokeIn": "Stardew Valley 1.6.9"
 		},
 		{
 			"name": "Luny's Wizard Furniture Catalog, Luny's Wizard Furniture Recolor Catalog",
@@ -14335,7 +14392,7 @@
 			"nexus": 2007,
 			"github": "spacechase0/StardewValleyMods",
 
-			"brokeIn": "Stardew Valley 1.6", // @retest-linked
+			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
 			"summary": "use [Ars Venefici](#) instead."
 		},
@@ -14627,7 +14684,8 @@
 			"nexus": 23697,
 			"github": "Pet-Slime/StardewValley",
 
-			"brokeIn": "Stardew Valley 1.6.9" // @retest-after Walk Of Life - Rebirth
+			"brokeIn": "Stardew Valley 1.6.9",
+			"retestWhenCompatible": [ "Walk Of Life - Rebirth" ] // dependency
 		},
 		{
 			"name": "Matching Nodes, MinesTokens",
@@ -14973,7 +15031,8 @@
 			"nexus": 6538,
 			"github": "aedenthorn/StardewValleyMods",
 
-			"brokeIn": "Stardew Valley 1.6", // @retest-after Mobile Phone
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "Mobile Phone" ], // dependency
 			"status": "workaround",
 			"summary": "use [Mobile Phone Continued → Arcade Mobile Apps](#) instead."
 		},
@@ -14985,7 +15044,8 @@
 			"nexus": 6568,
 			"github": "aedenthorn/StardewValleyMods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after Mobile Phone
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "Mobile Phone" ] // dependency
 		},
 		{
 			"name": "Mobile Calendar",
@@ -14995,7 +15055,8 @@
 			"nexus": 6601,
 			"github": "aedenthorn/StardewValleyMods",
 
-			"brokeIn": "Stardew Valley 1.6", // @retest-after Mobile Phone
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "Mobile Phone" ], // dependency
 			"status": "workaround",
 			"summary": "use [Mobile Phone Continued → Calendar Mobile App](#) instead."
 		},
@@ -15007,7 +15068,8 @@
 			"nexus": 6543,
 			"github": "aedenthorn/StardewValleyMods",
 
-			"brokeIn": "Stardew Valley 1.6", // @retest-after Mobile Phone
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "Mobile Phone" ], // dependency
 			"status": "workaround",
 			"summary": "use [Mobile Phone Continued → Mobile Catalogues](#) instead."
 		},
@@ -15019,7 +15081,7 @@
 			"nexus": 6523,
 			"github": "aedenthorn/StardewValleyMods",
 
-			"brokeIn": "Stardew Valley 1.6", // @retest-linked
+			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
 			"summary": "use [Mobile Phone Continued](#) instead."
 		},
@@ -15066,7 +15128,8 @@
 			"nexus": 6575,
 			"github": "aedenthorn/StardewValleyMods",
 
-			"brokeIn": "Stardew Valley 1.6", // @retest-after Mobile Phone
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "Mobile Phone" ], // dependency
 			"status": "workaround",
 			"summary": "use [Mobile Phone Continued → Television Mobile App](#) instead."
 		},
@@ -15206,10 +15269,11 @@
 			"nexus": 1896,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.3"
+			"brokeIn": "Stardew Valley 1.3",
+			"retestWhenCompatible": [ "Almanac" ] // workaround
 			/*
 			"status": "workaround",
-			"summary": "Use [Almanac](#) instead.", // @retest-after Almanac
+			"summary": "Use [Almanac](#) instead.",
 			*/
 		},
 		{
@@ -15289,7 +15353,8 @@
 			"nexus": 2830,
 			"github": "F1r3w477/TheseModsAintLoyal",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after Level Extended
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "Level Extender" ] // dependency
 		},
 		{
 			"name": "Moolah 1.6 Fix",
@@ -15325,7 +15390,7 @@
 			"nexus": 10612,
 			"github": "spacechase0/StardewValleyMods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-linked
+			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
 			"name": "Moon Misadventures - Bigger Backpack Compatibility Patch, MoonMisadventures_BiggerBackpackPatch",
@@ -15334,7 +15399,8 @@
 			"nexus": 12096,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after Moon Misadventures, Bigger Backpack
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "Moon Misadventures" ] // dependency
 		},
 		{
 			"name": "Mopsy's Ranch Livin'",
@@ -15449,7 +15515,8 @@
 			"nexus": 11837,
 			"github": "atravita-mods/StardewMods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after AtraCore
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "AtraCore" ] // dependency
 		},
 		{
 			"name": "More for Leo",
@@ -16209,7 +16276,8 @@
 			"nexus": 14023,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after Deluxe Grabber Redux
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "Deluxe Grabber Redux" ] // dependency
 		},
 		{
 			"name": "Murdercrows",
@@ -16272,7 +16340,8 @@
 			"nexus": 12598,
 			"github": "atravita-mods/StardewMods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after AtraCore
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "AtraCore" ] // dependency
 		},
 		{
 			"name": "Mushroom Box Location Framework",
@@ -16302,10 +16371,11 @@
 			"nexus": 1894,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.3"
+			"brokeIn": "Stardew Valley 1.3",
+			"retestWhenCompatible": [ "Almanac" ] // workaround
 			/*
 			"status": "workaround",
-			"summary": "Use [Almanac](#) instead." // @retest-after Almanac
+			"summary": "Use [Almanac](#) instead."
 			*/
 		},
 		{
@@ -16323,7 +16393,8 @@
 			"nexus": 4637,
 			"github": "b-b-blueberry/BlueberryMushroomMachine",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after Mushroom Propagator Automation
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "Mushroom Propagator Automation" ] // dependency
 		},
 		{
 			"name": "Mushroom Propagator - Grow More Mushrooms",
@@ -16498,7 +16569,8 @@
 			"nexus": 15277,
 			"github": "sophiesalacia/StardewMods",
 
-			"brokeIn": "Stardew Valley 1.6.9" // @retest-after Stats as Tokens
+			"brokeIn": "Stardew Valley 1.6.9",
+			"retestWhenCompatible": [ "Stats as Tokens" ] // dependency
 		},
 		{
 			"name": "Nexus Mods Button",
@@ -17005,7 +17077,8 @@
 			"nexus": 4582,
 			"github": "purrplingcat/PurrplingMod",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after Quest Framework, @retest-linked
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "Quest Framework" ] // dependency
 		},
 		{
 			"name": "NPC Bucket for HB, NPC Bucket",
@@ -17399,7 +17472,7 @@
 			"nexus": 7710,
 			"github": "aedenthorn/StardewValleyMods",
 
-			"brokeIn": "Stardew Valley 1.6", // @retest-after Advanced Loot Framework
+			"brokeIn": "Stardew Valley 1.6",
 			"unofficialUpdate": {
 				"version": "0.5.4-unofficial.2-mouahrara",
 				"url": "https://github.com/mouahrara/aedenthorn#OverworldChests"
@@ -17466,7 +17539,7 @@
 			"nexus": 12242,
 			"github": "drbirbdev/StardewValley",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-linked
+			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
 			"name": "Panning Upgrades Extra Config",
@@ -17475,7 +17548,8 @@
 			"nexus": 16234,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after Panning Upgrades
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "Panning Upgrades" ] // dependency
 		},
 		{
 			"name": "Pants Gone Wild",
@@ -17500,7 +17574,7 @@
 			"nexus": 3296,
 			"github": "paritee/Paritee.StardewValley.Frameworks",
 
-			"brokeIn": "Stardew Valley 1.4" // @retest-linked
+			"brokeIn": "Stardew Valley 1.4"
 			/*
 			"unofficialUpdate": {
 				"version": "3.2.4-unofficial.kelvinrosa-mouseypounds-elbe",
@@ -17727,7 +17801,8 @@
 			"nexus": 3635,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.4" // @retest-after bwdyworks
+			"brokeIn": "Stardew Valley 1.4",
+			"retestWhenCompatible": [ "bwdyworks" ] // dependency
 		},
 		{
 			"name": "Percent of Max Stamina and Health Regeneration, Regen Percent",
@@ -17858,10 +17933,14 @@
 			"nexus": 3532,
 			"github": "bwdymods/SDV-PersonalEffects",
 
-			"brokeIn": "Stardew Valley 1.4" // @retest-after bwdyworks
+			"brokeIn": "Stardew Valley 1.4",
+			"retestWhenCompatible": [
+				"bwdyworks", // dependency
+				"Personal Effects Redux" // workaround
+			]
 			/*
 			"status": "workaround",
-			"summary": "use [Personal Effects Redux](#) instead." // @retest-after Personal Effects Redux
+			"summary": "use [Personal Effects Redux](#) instead."
 			*/
 		},
 		{
@@ -17871,7 +17950,7 @@
 			"nexus": 8616,
 			"github": "ceruleandeep/CeruleanStardewMods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-linked
+			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
 			"name": "Personal Indoor Farm",
@@ -17947,10 +18026,11 @@
 			"url": "https://community.playstarbound.com/threads/smapi-consilliums-pet-enhancement-mod.114314",
 			"github": "jlfulmer/PetEnhancementMod",
 
-			"brokeIn": "SMAPI 2.0"
+			"brokeIn": "SMAPI 2.0",
+			"retestWhenCompatible": [ "Pet Interaction" ] // workaround
 			/*
 			"status": "workaround",
-			"summary": "use [Pet Interaction](#) instead." // @retest-after Pet Interaction
+			"summary": "use [Pet Interaction](#) instead."
 			*/
 			/*
 			"unofficialUpdate": {
@@ -17978,7 +18058,7 @@
 			"nexus": 4232,
 			"github": "jahangmar/StardewValleyMods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-linked
+			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
 			"name": "Pet's Enhanced",
@@ -18062,7 +18142,8 @@
 			"moddrop": 1125882,
 			"github": "atravita-mods/StardewMods",
 
-			"brokeIn": "Stardew Valley 1.6", // @retest-after AtraCore
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "AtraCore" ], // dependency
 			"status": "workaround",
 			"summary": "use [Pick Your Enchantment Restored](#) instead."
 		},
@@ -18122,7 +18203,8 @@
 			"nexus": 10205,
 			"github": "aedenthorn/StardewValleyMods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after Utility Grid
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "Utility Grid" ] // dependency
 		},
 		{
 			"name": "Placeable Mine Shafts",
@@ -18239,7 +18321,7 @@
 			"nexus": 6589,
 			"github": "Platonymous/PlatoTK",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-linked
+			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
 			"name": "PlatoUI",
@@ -18859,7 +18941,8 @@
 			"curse": 299169,
 			"github": "Stardew-Valley-Modding/PriceTooltips",
 
-			"brokeIn": "Stardew Valley 1.4", // @retest-after Bookcase
+			"brokeIn": "Stardew Valley 1.4",
+			"retestWhenCompatible": [ "Bookcase" ], // dependency
 			"status": "workaround",
 			"summary": "use [CJB Show Item Sell Price](#) instead."
 		},
@@ -18879,7 +18962,8 @@
 			"nexus": 13051,
 			"github": "atravita-mods/StardewMods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after AtraCore
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "AtraCore" ] // dependency
 		},
 		{
 			"name": "Prismatic Dinosaur",
@@ -19079,7 +19163,8 @@
 			"moddrop": 757967,
 			"source": "https://gitlab.com/kdau/predictivemods",
 
-			"brokeIn": "Stardew Valley 1.6", // @retest-after PlatoTK
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "PlatoTK" ], // dependency
 			"status": "workaround",
 			"summary": "use [Public Access TV (1.6)](#) instead."
 		},
@@ -19299,7 +19384,8 @@
 			"nexus": 5663,
 			"github": "Traktori7/StardewValleyMods",
 
-			"brokeIn": "Stardew Valley 1.6", // @retest-after Quality Scrubber
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "Quality Scrubber" ], // dependency
 			"status": "workaround",
 			"summary": "use [Quality Conversion Engine](https://www.nexusmods.com/stardewvalley/mods/20624) instead."
 		},
@@ -19349,7 +19435,7 @@
 			"nexus": 6414,
 			"github": "purrplingcat/QuestFramework",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-linked
+			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
 			"name": "Quest Time Limits",
@@ -19985,7 +20071,8 @@
 			"curse": 298040,
 			"github": "M3ales/RelationshipTooltips",
 
-			"brokeIn": "Stardew Valley 1.4" // @retest-after Bookcase
+			"brokeIn": "Stardew Valley 1.4",
+			"retestWhenCompatible": [ "Bookcase" ] // dependency
 		},
 		{
 			"name": "Relationship Tracker",
@@ -20321,7 +20408,8 @@
 			"nexus": 15005,
 			"github": "atravita-mods/StardewMods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after AtraCore
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "AtraCore" ] // dependency
 		},
 		{
 			"name": "Ribeena's Vehicles, Bus Sprite Adjuster",
@@ -20381,10 +20469,11 @@
 			"nexus": 3,
 			"github": null,
 
-			"brokeIn": "SMAPI 0.39.1"
+			"brokeIn": "SMAPI 0.39.1",
+			"retestWhenCompatible": [ "Just Sleep In" ] // dependency
 			/*
 			"status": "workaround",
-			"summary": "Use [Just Sleep In](#) instead." // @retest-after Just Sleep In
+			"summary": "Use [Just Sleep In](#) instead."
 			*/
 			/*
 			"unofficialUpdate": {
@@ -20478,7 +20567,8 @@
 			"nexus": 15065,
 			"github": "facufierro/RuneMagic",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after Bigger Craftables
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "Bigger Craftables" ] // dependency
 		},
 		{
 			"name": "Run Fast, Sprint",
@@ -21208,7 +21298,7 @@
 			"nexus": 24357,
 			"github": "daleao/sdv",
 
-			"brokeIn": "Stardew Valley 1.6.9" // @retest-linked
+			"brokeIn": "Stardew Valley 1.6.9"
 		},
 		{
 			"name": "Server Bookmarker",
@@ -21504,7 +21594,8 @@
 			"nexus": 16028,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after Growable Giant Crops
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "Growable Giant Crops" ] // dependency
 		},
 		{
 			"name": "Show Birthdays",
@@ -21910,7 +22001,8 @@
 			"nexus": 18605,
 			"github": "Tondorian/StardewValleyMods",
 
-			"brokeIn": "Stardew Valley 1.3" // @retest after The Love of Cooking
+			"brokeIn": "Stardew Valley 1.3",
+			"retestWhenCompatible": [ "The Love of Cooking" ] // dependency
 		},
 		{
 			"name": "Skill Prestige for Luck Skill",
@@ -21919,7 +22011,8 @@
 			"nexus": 569,
 			"github": "Alphablackwolf/SkillPrestige",
 
-			"brokeIn": "Stardew Valley 1.6.9" // @retest-after Luck Skill
+			"brokeIn": "Stardew Valley 1.6.9",
+			"retestWhenCompatible": [ "Luck Skill" ] // dependency
 		},
 		{
 			"name": "Skill Prestige for Magic",
@@ -22097,7 +22190,8 @@
 			"nexus": 15006,
 			"github": "atravita-mods/StardewMods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after AtraCore
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "AtraCore" ] // dependency
 		},
 		{
 			"name": "Sleepless Fisherman",
@@ -22303,10 +22397,11 @@
 			"nexus": 7651,
 			"github": "Wellbott/StardewValleyMods",
 
-			"brokeIn": "Stardew Valley 1.6"
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "The Return of Smaller Fish Ponds" ] // workaround
 			/*
 			"status": "workaround",
-			"summary": "use [The Return of Smaller Fish Ponds](#) instead." // @retest-after The Return of Smaller Fish Ponds
+			"summary": "use [The Return of Smaller Fish Ponds](#) instead."
 			*/
 		},
 		{
@@ -22399,7 +22494,8 @@
 			"curse": 307861,
 			"github": "Stardew-Valley-Modding/Snail-Mail",
 
-			"brokeIn": "Stardew Valley 1.4" // @retest-after Bookcase
+			"brokeIn": "Stardew Valley 1.4",
+			"retestWhenCompatible": [ "Bookcase" ] // dependency
 		},
 		{
 			"name": "Snow Crab",
@@ -22469,10 +22565,11 @@
 			"nexus": 897,
 			"github": "JohnsonNicholas/SDVMods",
 
-			"brokeIn": "Stardew Valley 1.3"
+			"brokeIn": "Stardew Valley 1.3",
+			"retestWhenCompatible": [ "Lunar Disturbances" ] // workaround
 			/*
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [Lunar Disturbances](#) instead)." // @retest-after Lunar Disturbance
+			"summary": "remove this mod (no longer maintained; use [Lunar Disturbances](#) instead)."
 			*/
 		},
 		{
@@ -22639,7 +22736,8 @@
 			"nexus": 9855,
 			"github": "atravita-mods/StardewMods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after AtraCore
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "AtraCore" ] // dependency
 		},
 		{
 			"name": "Special Orders Tweaks",
@@ -22685,7 +22783,8 @@
 			"nexus": 5082,
 			"github": "Xebeth/StardewValley-SpeedMod",
 
-			"brokeIn": "Stardew Valley 1.5.5", // @retest-after Mod Settings Tab
+			"brokeIn": "Stardew Valley 1.5.5",
+			"retestWhenCompatible": [ "Mod Settings Tab" ], // dependency
 			"status": "workaround",
 			"summary": "use [CJB Cheats Menu](#) instead."
 		},
@@ -23187,7 +23286,7 @@
 			"nexus": 16527,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after Stardew Aquarium
+			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
 			"name": "Stardew Archipelago",
@@ -23662,7 +23761,7 @@
 			"nexus": 9659,
 			"github": "dtomlinson-ga/StatsAsTokens",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-linked
+			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
 			"name": "Stats Passive Regeneration, Stats Reloader",
@@ -24064,7 +24163,8 @@
 			"nexus": 13052,
 			"github": "atravita-mods/StardewMods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after AtraCore
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "AtraCore" ] // dependency
 		},
 		{
 			"name": "Tappable Palm Trees",
@@ -24110,7 +24210,8 @@
 			"github": null,
 
 			"status": "abandoned",
-			"summary": "remove this mod (no longer maintained; use [Ferngill Revenue Service](#) instead).", // or [Serfdom](#): @retest-after Serfdon
+			"retestWhenCompatible": [ "Serfdom" ], // workaround
+			"summary": "remove this mod (no longer maintained; use [Ferngill Revenue Service](#) instead).",
 			"brokeIn": "SMAPI 0.39.1"
 		},
 		{
@@ -24128,7 +24229,7 @@
 			"nexus": 2990,
 			"github": "TehPers/StardewValleyMods",
 
-			"brokeIn": "Stardew Valley 1.4" // @retest-after Teh's Core Mod
+			"brokeIn": "Stardew Valley 1.4"
 		},
 		{
 			"name": "Teh's Fishing Overhaul",
@@ -24162,10 +24263,11 @@
 			"chucklefish": 4374,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.2"
+			"brokeIn": "Stardew Valley 1.2",
+			"retestWhenCompatible": [ "Fast Travel" ] // workaround
 			/*
 			"status": "workaround",
-			"summary": "use [Fast Travel](#) instead." // @retest-after Fast Travel
+			"summary": "use [Fast Travel](#) instead."
 			*/
 		},
 		{
@@ -24377,8 +24479,9 @@
 			"nexus": 3006,
 			"github": "KirbyLink/PumpkinKing",
 
-			"brokeIn": "Stardew Valley 1.4"
-			/*@retest-after Custom Farming Redux
+			"brokeIn": "Stardew Valley 1.4",
+			"retestWhenCompatible": [ "Custom Farming Redux" ] // dependency
+			/*
 			"unofficialUpdate": {
 				"version": "1.1.1-unofficial.1-minervamaga",
 				"url": "https://www.nexusmods.com/stardewvalley/mods/4109"
@@ -24427,7 +24530,7 @@
 			"nexus": 21900,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.6.9" // @retest-linked
+			"brokeIn": "Stardew Valley 1.6.9"
 		},
 		{
 			"name": "The Twlight Traveller - Custom NPC (API), APICut",
@@ -25124,7 +25227,8 @@
 			"nexus": 11426,
 			"github": "atravita-mods/StardewMods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after AtraCore
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "AtraCore" ] // dependency
 		},
 		{
 			"name": "Trash Remover",
@@ -25179,7 +25283,7 @@
 			"nexus": 7685,
 			"github": "aedenthorn/StardewValleyMods",
 
-			"brokeIn": "Stardew Valley 1.6", // @retest-after Advanced Loot Framework
+			"brokeIn": "Stardew Valley 1.6",
 			"unofficialUpdate": {
 				"version": "0.3.1-unofficial.1-mouahrara",
 				"url": "https://github.com/mouahrara/aedenthorn#TreasureChestsExpanded"
@@ -25519,8 +25623,9 @@
 			"nexus": 6597,
 			"github": "aedenthorn/StardewValleyMods",
 
-			"brokeIn": "Stardew Valley 1.6"
-			/*@retest-after Underground Secrets Redux
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "Underground Secrets Redux" ] // workaround
+			/*
 			"status": "workaround",
 			"summary": "use [Underground Secrets Redux](#) instead.",
 			*/
@@ -25541,7 +25646,7 @@
 			"nexus": 17139,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-after Extra Map Layers
+			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
 			"name": "Unique Children",
@@ -25640,7 +25745,8 @@
 			"nexus": 4338,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.4" // @retest-after bwdyworks
+			"brokeIn": "Stardew Valley 1.4",
+			"retestWhenCompatible": [ "bwdyworks" ] // dependency
 		},
 		{
 			"name": "Unscheduled Evaluation",
@@ -25766,7 +25872,7 @@
 			"nexus": 10197,
 			"github": "aedenthorn/StardewValleyMods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-linked
+			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
 			"name": "Utility Pocket",
@@ -25948,7 +26054,8 @@
 			"nexus": 24355,
 			"github": "daleao/sdv",
 
-			"brokeIn": "Stardew Valley 1.6.9" // @retest-linked, @retest-after DaLionheart
+			"brokeIn": "Stardew Valley 1.6.9",
+			"retestWhenCompatible": [ "DaLionheart" ] // dependency
 		},
 		{
 			"name": "Walkshop",
@@ -26069,7 +26176,7 @@
 			"nexus": 7451,
 			"github": "Shalankwa/SDV_Mods",
 
-			"brokeIn": "Stardew Valley 1.6" // @retest-linked
+			"brokeIn": "Stardew Valley 1.6"
 		},
 		{
 			"name": "Warp Multiplayer (Locations), WarpMultiplayer_Locations",
@@ -26086,7 +26193,8 @@
 			"moddrop": 951720,
 			"github": "tlitookilakin/WarpNetwork",
 
-			"brokeIn": "Stardew Valley 1.6" // @restest after AeroCore
+			"brokeIn": "Stardew Valley 1.6",
+			"retestWhenCompatible": [ "AeroCore" ] // dependency
 		},
 		{
 			"name": "Warp Parsnip",
@@ -26827,7 +26935,8 @@
 			"nexus": null,
 			"github": null,
 
-			"brokeIn": "Stardew Valley 1.4" // @retest-after Bookcase
+			"brokeIn": "Stardew Valley 1.4",
+			"retestWhenCompatible": [ "Bookcase" ] // dependency
 		},
 		{
 			"name": "zDailyIncrease",
