@@ -1,0 +1,5 @@
+# generated for local validation
+data/data.json
+node_modules
+package.json
+package-lock.json

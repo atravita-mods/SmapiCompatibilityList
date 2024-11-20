@@ -14,7 +14,6 @@ jobs:
 
       - name: Strip JSON comments
         run: |
-          npm install -g ajv-cli
           npm install -g strip-json-comments-cli
           npx strip-json-comments-cli data/data.jsonc > data/data.json
 

@@ -10,6 +10,7 @@ The [mod compatibility list][] is automatically generated from this data.
   * [Guidelines](#guidelines)
   * [Propose changes](#propose-changes)
   * [Publish changes](#publish-changes)
+  * [Validate changes locally](#validate-changes-locally)
 
 ## For players
 See the [mod compatibility list][] instead!
@@ -85,6 +86,28 @@ To update this list:
 ### Publish changes
 The public [mod compatibility list][] will be updated automatically within 10 minutes once the
 proposed change is merged.
+
+### Validate changes locally
+> [!NOTE]  
+> **You usually don't need to do this.** The data is validated automatically when you commit or
+> post a pull request.
+
+Here's how to validate the data locally if needed.
+
+1. First-time setup:
+   1. Install [Docker](https://www.docker.com/) and [Node.js](https://nodejs.org).
+   2. On Windows, [check the PowerShell version](https://stackoverflow.com/a/1825807/262123) and
+      [update to PowerShell 7 or later](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows) if needed.  
+      _(This fixes encoding errors due to older versions writing UTF-16 files.)_
+2. From a terminal in the repo folder, run these commands:
+   ```sh
+   # strip comments
+   npm install strip-json-comments-cli
+   npx strip-json-comments-cli data/data.jsonc > data/data.json
+
+   # validate JSON schema
+   docker run --rm -v "$(pwd):/github/workspace" -e GITHUB_WORKSPACE=/github/workspace -e INPUT_SCHEMA=/data/schema.json -e INPUT_JSONS=/data/data.json orrosenblatt/validate-json-action:latest
+   ```
 
 [migration guides]: https://stardewvalleywiki.com/Modding:Index#Migration_guides
 [Modding:Using XNB mods]: https://stardewvalleywiki.com/Modding:Using_XNB_mods
