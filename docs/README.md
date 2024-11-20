@@ -102,11 +102,22 @@ Here's how to validate the data locally if needed.
 2. From a terminal in the repo folder, run these commands:
    ```sh
    # strip comments
+   echo "setting up..."
+   echo "-------------"
    npm install strip-json-comments-cli
    npx strip-json-comments-cli data/data.jsonc > data/data.json
+   echo ""
 
    # validate JSON schema
+   echo "validating JSON schema..."
+   echo "-------------------------"
    docker run --rm -v "$(pwd):/github/workspace" -e GITHUB_WORKSPACE=/github/workspace -e INPUT_SCHEMA=/data/schema.json -e INPUT_JSONS=/data/data.json orrosenblatt/validate-json-action:latest
+   echo ""
+
+   # validate mod data
+   echo "validating mod data..."
+   echo "----------------------"
+   node .github/workflows/validate-mod-data.js data/data.json
    ```
 
 [migration guides]: https://stardewvalleywiki.com/Modding:Index#Migration_guides
