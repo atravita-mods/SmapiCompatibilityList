@@ -26063,10 +26063,7 @@
 			"author": "DaLion",
 			"id": "DaLion.Professions, DaLion.ImmersiveProfessions, DaLion.AwesomeProfessions, thelion.AwesomeProfessions", // changed in republished 0.2.0, ?, changed in 3.0.0?, changed in 2.0.7
 			"nexus": 24355,
-			"github": "daleao/sdv",
-
-			"brokeIn": "Stardew Valley 1.6.9",
-			"retestWhenCompatible": [ "DaLionheart" ] // dependency
+			"github": "daleao/sdv"
 		},
 		{
 			"name": "Walkshop",
