@@ -3229,7 +3229,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"unofficialUpdate": {
-				"version": "1.5.1-unofficial.1-mouahrara",
+				"version": "1.5.1-unofficial.3-mouahrara",
 				"url": "https://github.com/mouahrara/aedenthorn#BossCreatures"
 			}
 		},
@@ -21302,9 +21302,7 @@
 			"author": "DaLion",
 			"id": "DaLion.Taxes, DaLion.ImmersiveTaxes", // changed in republished 1.0.0
 			"nexus": 24357,
-			"github": "daleao/sdv",
-
-			"brokeIn": "Stardew Valley 1.6.9"
+			"github": "daleao/sdv"
 		},
 		{
 			"name": "Server Bookmarker",
@@ -22965,9 +22963,7 @@
 			"author": "DaLion",
 			"id": "DaLion.Enchantments",
 			"nexus": 24832,
-			"github": null,
-
-			"brokeIn": "Stardew Valley 1.6.9"
+			"github": null
 		},
 		{
 			"name": "Sprinkler Activation",
