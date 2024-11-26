@@ -11,6 +11,7 @@ The [mod compatibility list][] is automatically generated from this data.
   * [Propose changes](#propose-changes)
   * [Publish changes](#publish-changes)
   * [Validate changes locally](#validate-changes-locally)
+* [Updating scripts](#updating-scripts)
 
 ## For players
 See the [mod compatibility list][] instead!
@@ -95,30 +96,51 @@ proposed change is merged.
 Here's how to validate the data locally if needed.
 
 1. First-time setup:
-   1. Install [Docker](https://www.docker.com/) and [Node.js](https://nodejs.org).
+   1. Install [Node.js](https://nodejs.org).
    2. On Windows, [check the PowerShell version](https://stackoverflow.com/a/1825807/262123) and
       [update to PowerShell 7 or later](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows) if needed.  
       _(This fixes encoding errors due to older versions writing UTF-16 files.)_
 2. From a terminal in the repo folder, run these commands:
    ```sh
+   # install dependencies
+   npm install
+
    # strip comments
    echo "setting up..."
    echo "-------------"
-   npm install strip-json-comments-cli
-   npx strip-json-comments-cli data/data.jsonc > data/data.json
+   npm exec strip-json-comments-cli data/data.jsonc > data/data.json
    echo ""
 
    # validate JSON schema
    echo "validating JSON schema..."
    echo "-------------------------"
-   docker run --rm -v "$(pwd):/github/workspace" -e GITHUB_WORKSPACE=/github/workspace -e INPUT_SCHEMA=/data/schema.json -e INPUT_JSONS=/data/data.json orrosenblatt/validate-json-action:latest
+   node scripts/validate-json-schema.js data/schema.json data/data.json
    echo ""
 
    # validate mod data
    echo "validating mod data..."
    echo "----------------------"
-   node .github/workflows/validate-mod-data.js data/data.json
+   node scripts/validate-mod-data.js data/data.json
    ```
+
+## Updating scripts
+The scripts used for validating the data files are written in TypeScript and then compiled into
+JavaScript. Do not edit the JavaScript scripts directly. Instead, you should edit the TypeScript
+sources and then recompile the scripts.
+
+Here's how to compile the scripts if needed.
+
+1. First-time setup:
+   1. Install [Node.js](https://nodejs.org).
+2. From a terminal in the repo folder, run these commands:
+   ```sh
+   # install dependencies
+   npm install
+
+   # run the build script
+   npm run build
+   ```
+
 
 [migration guides]: https://stardewvalleywiki.com/Modding:Index#Migration_guides
 [Modding:Using XNB mods]: https://stardewvalleywiki.com/Modding:Using_XNB_mods

@@ -1,0 +1,19 @@
+{
+	"name": "smapicompatibilitylist",
+	"private": true,
+	"scripts": {
+		"strip-comments": "npm exec strip-json-comments-cli data/data.jsonc > data/data.json",
+		"build": "tsc",
+		"validate-schema": "node scripts/validate-json-schema.js data/schema.json data/data.json",
+		"validate-data": "node scripts/validate-mod-data.js data/data.json"
+	},
+	"dependencies": {
+		"ajv": "^8.17.1",
+		"strip-json-comments-cli": "^3.0.0"
+	},
+	"devDependencies": {
+		"@tsconfig/node-lts": "^22.0.1",
+		"@types/node": "^22.10.0",
+		"typescript": "^5.7.2"
+	}
+}

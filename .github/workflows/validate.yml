@@ -10,18 +10,17 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 16
+          node-version: 18
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci --omit=dev
 
       - name: Strip JSON comments
-        run: |
-          npm install -g strip-json-comments-cli
-          npx strip-json-comments-cli data/data.jsonc > data/data.json
+        run: npm run strip-comments
 
       - name: Validate JSON schema
-        uses: docker://orrosenblatt/validate-json-action:latest
-        env:
-          INPUT_SCHEMA: /data/schema.json
-          INPUT_JSONS: /data/data.json
+        run: npm run validate-schema
 
       - name: Validate mod data
-        run: node .github/workflows/validate-mod-data.js data/data.json
+        run: npm run validate-data
