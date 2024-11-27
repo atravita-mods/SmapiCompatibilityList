@@ -50,12 +50,12 @@ for (const jsonFilePath of jsonFilePaths) {
 		}
 	}
 }
-console.log("");
 
 // log results
 const finalSummary = `${passed} of ${jsonFilePaths.length} input files matched the provided schema.`;
 
 if (passed < jsonFilePaths.length) {
+	console.log("");
 	console.log(`❌ ${finalSummary}`);
 	process.exit(1);
 }
