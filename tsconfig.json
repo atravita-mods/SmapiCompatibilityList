@@ -1,0 +1,9 @@
+{
+	"extends": "@tsconfig/node-lts/tsconfig.json",
+	"compilerOptions": {
+		"outDir": "compiled"
+	},
+	"lib": "es2015",
+	"include": ["scripts"],
+	"exclude": ["node_modules"]
+}

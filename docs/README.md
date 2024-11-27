@@ -95,29 +95,30 @@ proposed change is merged.
 Here's how to validate the data locally if needed.
 
 1. First-time setup:
-   1. Install [Docker](https://www.docker.com/) and [Node.js](https://nodejs.org).
+   1. Install [Node.js](https://nodejs.org).
    2. On Windows, [check the PowerShell version](https://stackoverflow.com/a/1825807/262123) and
       [update to PowerShell 7 or later](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows) if needed.  
       _(This fixes encoding errors due to older versions writing UTF-16 files.)_
 2. From a terminal in the repo folder, run these commands:
    ```sh
-   # strip comments
+   # compile scripts
    echo "setting up..."
    echo "-------------"
-   npm install strip-json-comments-cli
-   npx strip-json-comments-cli data/data.jsonc > data/data.json
+   npm install
+   npm run build
+   npm exec strip-json-comments-cli data/data.jsonc > compiled/data.json
    echo ""
 
    # validate JSON schema
    echo "validating JSON schema..."
    echo "-------------------------"
-   docker run --rm -v "$(pwd):/github/workspace" -e GITHUB_WORKSPACE=/github/workspace -e INPUT_SCHEMA=/data/schema.json -e INPUT_JSONS=/data/data.json orrosenblatt/validate-json-action:latest
+   node compiled/validate-json-schema.js data/schema.json compiled/data.json
    echo ""
 
    # validate mod data
    echo "validating mod data..."
    echo "----------------------"
-   node .github/workflows/validate-mod-data.js data/data.json
+   node compiled/validate-mod-data.js compiled/data.json
    ```
 
 [migration guides]: https://stardewvalleywiki.com/Modding:Index#Migration_guides
