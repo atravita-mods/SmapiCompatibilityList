@@ -2,13 +2,13 @@ import { Mod } from "./types";
 import { buildModLookupByName, extractLocalModLinksFromMarkdown, getModStatus, loadJSONFile, logModError } from "./utilities";
 
 
-//********
-// Main script
-//*******/
+// read args (format: `nodeExecutable scriptPath jsonFilePath`)
+const jsonFilePath = process.argv[2];
+
 // load data
 let mods: Mod[];
 try {
-	mods = loadJSONFile(process.argv[2]).mods;
+	mods = loadJSONFile(jsonFilePath).mods;
 	if (!Array.isArray(mods))
 		throw new Error('mods list not present');
 } catch(err) {
@@ -16,11 +16,11 @@ try {
 	process.exit(1);
 }
 
+// normalize data
 for(const mod of mods) {
 	mod.mainName = mod.name.split(",")[0].trim();
 	mod.status = getModStatus(mod);
 }
-
 const modsByName = buildModLookupByName(mods);
 
 // detect mod issues

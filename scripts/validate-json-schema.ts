@@ -1,22 +1,20 @@
 import Ajv, {JSONSchemaType, ValidateFunction} from "ajv";
 import { loadJSONFile } from "./utilities";
 
-// We need to load two or more files, the schema and the JSON
-// file(s) to test. We'll load the schema from the first arg
-// we got and the JSON to test from the remaining args. The
-// first two entries in argv are the node executable and this
-// script, so we skip those.
+// read args (format: `nodeExecutable scriptPath schemaPath jsonFilePath+`)
+const schemaFilePath = process.argv[2];
+const jsonFilePaths = process.argv.splice(3);
 
+// load schema
 let schema: JSONSchemaType<unknown>;
 try {
-	schema = loadJSONFile(process.argv[2]);
+	schema = loadJSONFile(schemaFilePath);
 } catch(err) {
 	console.error(`❌ Error loading schema: ${(err as Error)?.message}`);
 	process.exit(1);
 }
 
-// Now that we have a schema, let's validate it and create
-// a validator for use.
+// load schema validator
 const ajv = new Ajv({
 	allErrors: true,
 	// strictTypes is set to false to stop ajv from logging
@@ -32,17 +30,12 @@ try {
 	process.exit(1);
 }
 
-// Now, for each remaining entry in argv, load that file
-// and process it.
-let count = 0,
-	passed = 0;
-
-for(let i = 3; i < process.argv.length; i++) {
-	count++;
-
+// load & validate each data file
+let passed = 0;
+for (const jsonFilePath of jsonFilePaths) {
 	let data: unknown;
 	try {
-		data = loadJSONFile(process.argv[3]);
+		data = loadJSONFile(jsonFilePath);
 	} catch(err) {
 		console.error(`❌ Error loading data: ${(err as Error)?.message}`);
 		continue;
@@ -51,7 +44,7 @@ for(let i = 3; i < process.argv.length; i++) {
 	if (validator(data))
 		passed++;
 	else {
-		console.error(`❌ Input "${process.argv[3]}" did not match the provided schema:`);
+		console.error(`❌ Input "${jsonFilePath}" did not match the provided schema:`);
 		if (validator.errors)
 			for(const err of validator.errors) {
 				console.error(`   ${ajv.errorsText([err])}`);
@@ -62,11 +55,9 @@ for(let i = 3; i < process.argv.length; i++) {
 
 console.log('');
 
-// Log the final passed files count, and possibly exit(1)
-// if there were any failures.
-
-if (passed < count) {
-	console.log(`❌ ${passed} of ${count} input files matched the provided schema.`);
+// log final result
+if (passed < jsonFilePaths.length) {
+	console.log(`❌ ${passed} of ${jsonFilePaths.length} input files matched the provided schema.`);
 	process.exit(1);
 } else
-	console.log(`✅ ${passed} of ${count} input files matched the provided schema.`);
+	console.log(`✅ ${passed} of ${jsonFilePaths.length} input files matched the provided schema.`);
