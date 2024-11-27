@@ -27045,6 +27045,7 @@
 			"id": "ursii98.BathroomAfter2ndHouseupgrade",
 			"nexus": 2578,
 			"github": null,
+
 			"contentPackFor": "Content Patcher",
 
 			"brokeIn": "Stardew Valley 1.4",
@@ -27059,6 +27060,8 @@
 			"id": "Boogie.Crafting",
 			"nexus": 7177,
 			"github": null,
+
+			"contentPackFor": "Content Patcher",
 
 			"summary": "broken (doesn't show new 1.6 crafting recipes).",
 			"brokeIn": "Stardew Valley 1.6"
@@ -27189,6 +27192,8 @@
 			"moddrop": 707502,
 			"nexus": null,
 			"github": null,
+
+			"contentPackFor": "Content Patcher",
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
