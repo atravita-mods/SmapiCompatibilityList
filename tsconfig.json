@@ -3,6 +3,7 @@
 	"compilerOptions": {
 		"outDir": "compiled"
 	},
+	"lib": "es2015",
 	"include": ["scripts"],
 	"exclude": ["node_modules"]
 }

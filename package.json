@@ -8,12 +8,10 @@
 		"validate-data": "node compiled/validate-mod-data.js compiled/data.json"
 	},
 	"dependencies": {
-		"ajv": "^8.17.1",
-		"strip-json-comments-cli": "^3.0.0"
-	},
-	"devDependencies": {
 		"@tsconfig/node-lts": "^22.0.1",
 		"@types/node": "^22.10.0",
+		"ajv": "^8.17.1",
+		"strip-json-comments-cli": "^3.0.0",
 		"typescript": "^5.7.2"
 	}
 }
