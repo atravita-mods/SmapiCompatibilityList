@@ -22668,7 +22668,12 @@
 			"author": "Berisan",
 			"id": "Berisan.SpawnMonsters",
 			"nexus": 3201,
-			"github": "Berisan/SpawnMonsters"
+			"github": "Berisan/SpawnMonsters",
+			"brokeIn": "Stardew Valley 1.6",
+			"unofficialUpdate": {
+				"version": "3.3.3-unofficial.1-AlexGoD",
+				"url": "https://github.com/darthalex2014/SpawnMonsters/releases/tag/Spawn.Monsters-unofficial.1-AlexGoD"
+
 		},
 		{
 			"name": "Spawn More Rocks",
