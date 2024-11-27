@@ -1,5 +1,5 @@
-export type Status = 'ok' | 'optional' | 'unofficial' | 'workaround' | 'broken' | 'abandoned' | 'obsolte' | 'unknown';
-export type OverrideDataType = 'updateKey' | 'localVersion' | 'remoteVersion';
+export type Status = "ok" | "optional" | "unofficial" | "workaround" | "broken" | "abandoned" | "obsolete" | "unknown";
+export type OverrideDataType = "updateKey" | "localVersion" | "remoteVersion";
 
 export type ModDataOverride = {
 	type: OverrideDataType;
