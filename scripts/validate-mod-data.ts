@@ -61,14 +61,14 @@ for (const mod of mods) {
 				// target not found
 				const targets = modsByName[otherName.toLowerCase()];
 				if (!targets) {
-					hasErrors = utilities.logModError(mod, `has mod name '${otherName}' in the retestWhenCompatible field, but no such mod was found.`);
+					hasErrors = utilities.logModError(mod, `should be retested when '${otherName}' is updated (per its retestWhenCompatible field), but no such mod was found.`);
 					continue;
 				}
 
 				// target already compatible
 				const statuses = new Set(targets.map(target => target.status));
 				if (statuses.has("ok") || statuses.has("optional") || statuses.has("unofficial")) {
-					hasErrors = utilities.logModError(mod, `has mod name '${otherName}' in the retestWhenCompatible field, but that mod is already compatible.`);
+					hasErrors = utilities.logModError(mod, `should be retested when '${otherName}' is updated (per its retestWhenCompatible field), but that mod is already compatible.`);
 					continue;
 				}
 			}
