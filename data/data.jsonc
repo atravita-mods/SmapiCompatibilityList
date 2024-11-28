@@ -9445,13 +9445,11 @@
 			"nexus": 4630,
 			"github": "MouseyPounds/stardew-mods",
 
-			"brokeIn": "Stardew Valley 1.6.9"
-			/*
+			"brokeIn": "Stardew Valley 1.6.9",
 			"unofficialUpdate": {
 				"version": "1.1.3-unofficial.2-Dasorik",
-				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/page-247#post-149499"
-			},
-			*/
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-149499"
+			}
 		},
 		{
 			"name": "FeTK - Stardew-Valley Toolkit",
@@ -15523,7 +15521,7 @@
 
 			"brokeIn": "Stardew Valley 1.6",
 			"status": "workaround",
-			"summary": "use [(1.6) 6480's Giant Crops)](https://www.nexusmods.com/stardewvalley/mods/5221) instead."
+			"summary": "use [6480's Giant Crops)](https://www.nexusmods.com/stardewvalley/mods/5221) instead."
 		},
 		{
 			"name": "More Grass",
@@ -22671,11 +22669,12 @@
 			"id": "Berisan.SpawnMonsters",
 			"nexus": 3201,
 			"github": "Berisan/SpawnMonsters",
+
 			"brokeIn": "Stardew Valley 1.6",
 			"unofficialUpdate": {
 				"version": "3.3.3-unofficial.1-AlexGoD",
-				"url": "https://github.com/darthalex2014/SpawnMonsters/releases/tag/Spawn.Monsters-unofficial.1-AlexGoD"
-
+				"url": "https://github.com/darthalex2014/SpawnMonsters/releases"
+			}
 		},
 		{
 			"name": "Spawn More Rocks",
