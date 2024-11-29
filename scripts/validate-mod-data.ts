@@ -25,7 +25,19 @@ const modsByName = utilities.buildModLookupByName(mods);
 
 // detect mod issues
 let hasErrors = false;
+const modsById: Record<string, Mod> = {};
 for (const mod of mods) {
+	// ensure ID is unique
+	if (mod.id && mod.id !== "none") {
+		for (let id of mod.id.split(',')) {
+			id = id.trim();
+			if (modsById[id])
+				hasErrors = utilities.logModError(mod, `has ID '${id}', which is also assigned to mod '${modsById[id].mainName}'.`);
+			else
+				modsById[id] = mod;
+		}
+	}
+
 	// check mod links in summary
 	for (const link of utilities.extractLocalModLinksFromMarkdown(mod.summary))	{
 		// invalid format
