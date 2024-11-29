@@ -1719,6 +1719,13 @@
 			"github": null
 		},
 		{
+			"name": "Auto Seed and Fertilizer",
+			"author": "Exconvinced",
+			"id": "Exconvinced.AutoSeedAndFertilizer",
+			"nexus": 29465,
+			"github": null
+		},
+		{
 			"name": "AutoShaker, Auto Forager", // renamed to Auto Forager in 2.0.0, but Nexus page still has old name
 			"author": "Jag3Dagster",
 			"id": "HedgehogTechnologies.AutoForager, HedgehogTechnologies.AutoShaker, Jag3Dagster.AutoShaker", // changed in 2.0.0 and 1.6.1
@@ -2312,6 +2319,13 @@
 			"id": "kalik.Enchantment",
 			"nexus": 23368,
 			"github": "rusunu/Enchantment"
+		},
+		{
+			"name": "Better Events Core",
+			"author": "AlexGoD",
+			"id": "AlexGoD.BetterEventsCore",
+			"nexus": 29569,
+			"github": null
 		},
 		{
 			"name": "Better Farm Computer",
@@ -4043,6 +4057,15 @@
 			"github": null
 		},
 		{
+			"name": "Chat Switch",
+			"author": "Gunpla206",
+			"id": "Gunpla206.ChatSwitch",
+			"nexus": 29588,
+			"github": null,
+
+			"status": "broken" // uses System.Windows.Form, so only works with the compatibility branch if at all
+		},
+		{
 			"name": "Chatter",
 			"author": "Jboss",
 			"id": "Jboss.Chatter",
@@ -4716,6 +4739,14 @@
 
 			"brokeIn": "Stardew Valley 1.3",
 			"status": "abandoned"
+		},
+		{
+			"name": "Config UI",
+			"author": "Enaium",
+			"id": "Enaium.ConfigUI",
+			"curse": 1142881,
+			"nexus": null,
+			"github": null
 		},
 		{
 			"name": "Configurable Bundle Costs",
@@ -5562,6 +5593,13 @@
 			"author": "Alpha_Omegasis",
 			"id": "Omegasis.CrystalRefiner",
 			"nexus": 29145,
+			"github": null
+		},
+		{
+			"name": "Cue Swap",
+			"author": "mushymato",
+			"id": "mushymato.CueSwap",
+			"nexus": 29445,
 			"github": null
 		},
 		{
@@ -7451,6 +7489,13 @@
 			"github": null
 		},
 		{
+			"name": "DPS Stat",
+			"author": "supercam19",
+			"id": "supercam19.dps_stat",
+			"nexus": 29544,
+			"github": null
+		},
+		{
 			"name": "Dragon Pearl Lure",
 			"author": "violetlizabet",
 			"id": "violetlizabet.DragonPearlLure",
@@ -8145,7 +8190,9 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6",
-			"retestWhenCompatible": [ "Mobile Phone" ] // dependency
+			"retestWhenCompatible": [ "Mobile Phone" ], // dependency
+			"status": "workaround",
+			"summary": "use [Mobile Phone Continued → Email](#) instead."
 		},
 		{
 			"name": "Emily for Stardew Impact, SDI Emily", // Nexus, manifest
@@ -8470,6 +8517,13 @@
 			"curse": 317347,
 			"moddrop": 606979,
 			"github": "MissCoriel/Event-Repeater"
+		},
+		{
+			"name": "Events Editor",
+			"author": "AlexGoD",
+			"id": "AlexGoD.EventsEditor",
+			"nexus": 29557,
+			"github": null
 		},
 		{
 			"name": "Event Sound Adjuster",
@@ -8971,6 +9025,13 @@
 			"id": "Fiorbeth.FarmerHelper",
 			"nexus": 21030,
 			"github": "NTaylor1993/FarmerHelper"
+		},
+		{
+			"name": "Farmer Milk",
+			"author": "slO, slpOff",
+			"id": "slO.FarmerMilk",
+			"nexus": 29542,
+			"github": null
 		},
 		{
 			"name": "Farmer Portraits",
@@ -9821,6 +9882,13 @@
 			"author": "ButterBear, Memegician",
 			"id": "BB.FishPondColors",
 			"nexus": 23449,
+			"github": null
+		},
+		{
+			"name": "Fish Pondering",
+			"author": "mushymato",
+			"id": "mushymato.FishPondering",
+			"nexus": 29422,
 			"github": null
 		},
 		{
@@ -10784,6 +10852,13 @@
 			"summary": "use [Gem Isles - Continued](https://www.nexusmods.com/stardewvalley/mods/28324) instead."
 		},
 		{
+			"name": "Gemstone Harmonics, Mineracoustics",
+			"author": "DaLion",
+			"id": "DaLion.Harmonics",
+			"nexus": 29612,
+			"github": null
+		},
+		{
 			"name": "Gender Neutrality Mod Tokens, GNMTokens", // Nexus, manifest
 			"author": "Hana",
 			"id": "Hana.GNMTokens",
@@ -11218,6 +11293,13 @@
 			"id": "rikai.GrandfathersHeirlooms",
 			"nexus": 8557,
 			"github": "rikai/Grandfathers-Heirlooms"
+		},
+		{
+			"name": "Grandpa's Stardrop",
+			"author": "ichortower",
+			"id": "ichortower.GrandpasStardrop",
+			"nexus": 29637,
+			"github": "ichortower/GrandpasStardrop"
 		},
 		{
 			"name": "Grass Growth",
@@ -12108,6 +12190,13 @@
 			"summary": "use [Horse Flute Anywhere](#) instead."
 		},
 		{
+			"name": "Host Player",
+			"author": "BATATAREI",
+			"id": "HostPlayerMod",
+			"nexus": 29634,
+			"github": null
+		},
+		{
 			"name": "Host Tools",
 			"author": "MattPlays",
 			"id": "MattPlays.HostTools",
@@ -12515,6 +12604,13 @@
 			"id": "Eireon.InfestedLevels",
 			"nexus": 2823,
 			"github": "benrpatterson/InfestedLevels"
+		},
+		{
+			"name": "Infested Monster Totems",
+			"author": "cakeymat",
+			"id": "cakeymat.InfestedMonsterTotems",
+			"nexus": 29604,
+			"github": null
 		},
 		{
 			"name": "Infinite Energy",
@@ -12999,6 +13095,13 @@
 			"author": "Hitaxas",
 			"id": "Hitaxas.Items.DLL",
 			"nexus": 24305,
+			"github": null
+		},
+		{
+			"name": "Item Every Second",
+			"author": "Crimson Is Stupid",
+			"id": "CrimsonIsStupid.ItemEverySecond",
+			"nexus": 29635,
 			"github": null
 		},
 		{
@@ -14352,6 +14455,13 @@
 			"github": "Mushymato/MachineControlPanel"
 		},
 		{
+			"name": "Machine Progression System, Machine Progression System Extras",
+			"author": "crashy, NachOnline",
+			"id": "crashy.MachineProgressionSystem",
+			"nexus": 21720,
+			"github": null
+		},
+		{
 			"name": "Machine Speed Change",
 			"author": "IceGladiador",
 			"id": "IceGladiador.MachineSpeedChange",
@@ -15086,6 +15196,13 @@
 			"name": "Mobile Phone Continued → Calendar Mobile App",
 			"author": "JoXW",
 			"id": "JoXW.MobileCalendar",
+			"nexus": 21017,
+			"github": "JoXW100/StardewValleyMods"
+		},
+		{
+			"name": "Mobile Phone Continued → Email",
+			"author": "JoXW",
+			"id": "JoXW.Email",
 			"nexus": 21017,
 			"github": "JoXW100/StardewValleyMods"
 		},
@@ -16601,6 +16718,13 @@
 			"warnings": [ "Affected by a Vortex mod manager bug; use [Night Owl Repacked](https://www.nexusmods.com/stardewvalley/mods/19291) if you use Vortex." ]
 		},
 		{
+			"name": "Night Owl Plus",
+			"author": "MaximillianRW",
+			"id": "MaximillianRW.NightOwlPlus",
+			"nexus": 29714,
+			"github": null
+		},
+		{
 			"name": "Nightshade",
 			"author": "ichortower",
 			"id": "ichortower.Nightshade",
@@ -17230,7 +17354,7 @@
 		{
 			"name": "OMC - OMEGAlinc's Commands",
 			"author": "OMEGAlinc, OMEGAlincYT",
-			"id": "OMEGAlinc.NPCAnimalCommands",
+			"id": "OMEGAlinc.OMC, OMEGAlinc.NPCAnimalCommands", // changed in 1.1.0
 			"nexus": 29329,
 			"github": null
 		},
@@ -18546,6 +18670,13 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6"
+		},
+		{
+			"name": "Portable Hole",
+			"author": "ichortower",
+			"id": "ichortower.PortableHole",
+			"nexus": 29430,
+			"github": "ichortower/PortableHole"
 		},
 		{
 			"name": "Portable Holes",
@@ -20226,6 +20357,13 @@
 			"github": "SolusCleansing/RentedToolsImproved"
 		},
 		{
+			"name": "Rented Tools Refresh",
+			"author": "chronohart",
+			"id": "chronohart.RentedToolsRefresh",
+			"nexus": 29611,
+			"github": "chronohart/RentedToolsRefresh"
+		},
+		{
 			"name": "Reorient After Eating",
 			"author": "PunningLinguist",
 			"id": "PunningLinguist.ReorientAfterEating",
@@ -20537,6 +20675,13 @@
 
 			"status": "abandoned",
 			"summary": "remove this mod (added in Stardew Valley 1.4)."
+		},
+		{
+			"name": "RPGGO Stardew AI Mod, Stardew Drama-AI RPG",
+			"author": "RPGGO, Zyra",
+			"id": "RPGGO.StardewAIMod",
+			"nexus": 29450,
+			"github": null
 		},
 		{
 			"name": "Rummage - The Thievery Mod",
@@ -23545,6 +23690,13 @@
 			"github": "focustense/StardewUI"
 		},
 		{
+			"name": "Stardew Unattended Server Mod",
+			"author": "the_ghost99",
+			"id": "the_ghost99.stardewunattendedserver",
+			"nexus": 29423,
+			"github": null
+		},
+		{
 			"name": "Stardew Valley Balance Overhaul, Stardew Valley Balance Overhaul Bundles",
 			"author": "Alvadea & Jaksha & Theoddon",
 			"id": "Theoddon.SVBOBundlesLoader",
@@ -24064,6 +24216,13 @@
 			"id": "JohnPeters.SwissArmyKnife",
 			"nexus": 13991,
 			"github": null
+		},
+		{
+			"name": "Switch Controls",
+			"author": "Bri Bri, Brian Kendall",
+			"id": "net.briankendall.SwitchControls",
+			"nexus": 29442,
+			"github": "briankendall/stardew-switch-controls"
 		},
 		{
 			"name": "Swizzy Meads",
@@ -25376,6 +25535,13 @@
 			"id": "mushymato.TrinketTinker",
 			"nexus": 29073,
 			"github": "Mushymato/TrinketTinker"
+		},
+		{
+			"name": "Tropical Forest Farm, Tropical Farm Code",
+			"author": "dreamygloom",
+			"id": "dreamygloom.TropicalFarmCode",
+			"nexus": 29432,
+			"github": null
 		},
 		{
 			"name": "True God Mode",
