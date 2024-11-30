@@ -7109,9 +7109,7 @@
 			"author": "MolsonCAD",
 			"id": "MolsonCAD.DeluxeJournal",
 			"nexus": 11436,
-			"github": "MolsonCAD/DeluxeJournal",
-
-			"brokeIn": "Stardew Valley 1.6"
+			"github": "MolsonCAD/DeluxeJournal"
 		},
 		{
 			"name": "Demanding Shipping",
@@ -17554,7 +17552,9 @@
 			"author": "idermailer",
 			"id": "idermailer.OutfitDisable",
 			"nexus": 23346,
-			"github": "idermailer/OutfitDisable"
+			"github": "idermailer/OutfitDisable",
+
+			"status": "abandoned" // mod page deleted
 		},
 		{
 			"name": "Outfit Sets",
@@ -17902,6 +17902,13 @@
 			"github": "aedenthorn/StardewValleyMods",
 
 			"brokeIn": "Stardew Valley 1.6"
+		},
+		{
+			"name": "Pen Pals",
+			"author": "focustense",
+			"id": "focustense.PenPals",
+			"nexus": 27489,
+			"github": "focustense/StardewPenPals"
 		},
 		{
 			"name": "People Seeds",
@@ -20081,7 +20088,10 @@
 			"author": "JefGrizli",
 			"id": "JefGrizli.RedrawPelicanTownC",
 			"nexus": 15564,
-			"github": null
+			"github": null,
+
+			"status": "abandoned", // mod page hidden
+			"summary": "remove this mod (no longer maintained; use [Vibrant Pastoral Redrawn → Vibrant Pastoral C#](#) instead)."
 		},
 		{
 			"name": "Refill Silos",
@@ -20857,9 +20867,7 @@
 			"author": "spacechase0",
 			"id": "spacechase0.Satchels",
 			"nexus": 20625,
-			"github": "spacechase0/StardewValleyMods",
-
-			"brokeIn": "Stardew Valley 1.6.9"
+			"github": "spacechase0/StardewValleyMods"
 		},
 		{
 			"name": "Sauvignon in Stardew",
@@ -21030,6 +21038,13 @@
 			"brokeIn": "Stardew Valley 1.3.29",
 			"status": "workaround",
 			"summary": "use [Yet Another Harvest With Scythe Mod](#) instead."
+		},
+		{
+			"name": "Scythe Harvests More",
+			"author": "GZhynko",
+			"id": "GZhynko.ScytheHarvestsMore",
+			"nexus": 29787,
+			"github": null
 		},
 		{
 			"name": "Scythe Tool Enchantments",
@@ -22698,9 +22713,9 @@
 			"github": "JohnsonNicholas/SDVMods",
 
 			"brokeIn": "Stardew Valley 1.3",
+			"status": "abandoned", // mod page hidden
 			"retestWhenCompatible": [ "Lunar Disturbances" ] // workaround
 			/*
-			"status": "abandoned",
 			"summary": "remove this mod (no longer maintained; use [Lunar Disturbances](#) instead)."
 			*/
 		},
@@ -23429,9 +23444,7 @@
 			"author": "Kaito Kid",
 			"id": "KaitoKid.StardewArchipelago",
 			"nexus": 16087,
-			"github": "agilbert1412/StardewArchipelago",
-
-			"brokeIn": "Stardew Valley 1.6"
+			"github": "agilbert1412/StardewArchipelago"
 		},
 		{
 			"name": "Stardew Auto GC",
@@ -26771,7 +26784,9 @@
 			"author": "MikeW",
 			"id": "Mikew.wildeggshatching",
 			"nexus": 23935,
-			"github": null
+			"github": null,
+
+			"status": "abandoned" // mod page hidden
 		},
 		{
 			"name": "Wild Flowers",
