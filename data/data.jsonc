@@ -25314,6 +25314,13 @@
 			"github": null
 		},
 		{
+			"name": "Transmute Quality",
+			"author": "DarcDio",
+			"id": "darcdio.transmutequality",
+			"nexus": 29818,
+			"github": "Thalzius/TransmuteQuality"
+		},
+		{
 			"name": "Transparency Settings",
 			"author": "Esca, Esca-MMC",
 			"id": "Esca.TransparencySettings",
