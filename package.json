@@ -2,10 +2,7 @@
 	"name": "smapicompatibilitylist",
 	"private": true,
 	"scripts": {
-		"strip-comments": "npm exec strip-json-comments-cli data/data.jsonc > compiled/data.json",
-		"build": "tsc",
-		"validate-schema": "node compiled/validate-json-schema.js data/schema.json compiled/data.json",
-		"validate-data": "node compiled/validate-mod-data.js compiled/data.json"
+		"build": "tsc"
 	},
 	"dependencies": {
 		"@tsconfig/node-lts": "^22.0.1",

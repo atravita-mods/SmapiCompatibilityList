@@ -1,19 +1,33 @@
 import { Mod } from "./types";
 import * as utilities from "./utilities";
 
-// read args (format: `nodeExecutable scriptPath jsonFilePath`)
-const jsonFilePath = process.argv[2];
+// read args (format: `nodeExecutable scriptPath jsonFilePath+`)
+const jsonFilePaths = process.argv.splice(2);
 
 // load data
-let mods: Mod[];
-try {
-	mods = utilities.loadJSONFile<{ mods: Mod[] }>(jsonFilePath).mods;
-	if (!Array.isArray(mods))
-		throw new Error("mods list not present");
-}
-catch (error) {
-	console.error(`❌ Error loading data file: ${(error as Error)?.message ?? error}`);
-	process.exit(1);
+let mods: Mod[] = [];
+for (const jsonFilePath of jsonFilePaths) {
+	try {
+		// read file
+		const data = utilities.loadJSONFile<{ mods: Mod[], brokenContentPacks: Mod[] }>(jsonFilePath);
+
+		// validate file has exactly one mod list
+		if (!data.mods && !data.brokenContentPacks)
+			throw new Error("Each file must specify `mods` or `brokenContentPacks`.");
+		if (data.mods && data.brokenContentPacks)
+			throw new Error("Each file must specify either `mods` or `brokenContentPacks`, but not both at once.");
+
+		// extract mods
+		const modsInFile = data.mods ?? data.brokenContentPacks;
+		for (const mod of modsInFile)
+			mod.jsonFilePath = jsonFilePath;
+
+		mods.push(...modsInFile);
+	}
+	catch (error) {
+		console.error(`❌ Error loading data file: ${(error as Error)?.message ?? error}`);
+		process.exit(1);
+	}
 }
 
 // normalize data

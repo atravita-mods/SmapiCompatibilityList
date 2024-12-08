@@ -17,10 +17,17 @@ jobs:
         run: |
           npm ci
           npm run build
-          npm run strip-comments
+          npm exec strip-json-comments-cli data/mods.jsonc > compiled/mods.json
+          npm exec strip-json-comments-cli data/broken-content-packs.jsonc > compiled/broken-content-packs.json
 
-      - name: Validate JSON schema
-        run: npm run validate-schema
+      - name: Validate JSON schema (mods)
+        run: |
+          node compiled/validate-json-schema.js data/schema.json compiled/mods.json
 
-      - name: Validate mod data
-        run: npm run validate-data
+      - name: Validate JSON schema (broken content packs)
+        run: |
+          node compiled/validate-json-schema.js data/schema.json compiled/broken-content-packs.json
+
+      - name: Validate data
+        run: |
+          node compiled/validate-mod-data.js compiled/mods.json compiled/broken-content-packs.json

@@ -96,6 +96,6 @@ export function extractLocalModLinksFromMarkdown(summary?: string): ModLink[] {
  * @returns `true` for convenience.
  */
 export function logModError(mod: Mod, error: string): true {
-	console.error(`❌ Mod '${mod.mainName}' ${error}`);
+	console.error(`❌ ${mod.jsonFilePath}: Mod '${mod.mainName}' ${error}`);
 	return true;
 }

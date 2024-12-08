@@ -34,6 +34,7 @@ export type BaseMod = {
 };
 
 export type Mod = BaseMod & {
+	jsonFilePath: string;
 	mainName: string;
 };
 

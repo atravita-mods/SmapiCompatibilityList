@@ -1,0 +1,239 @@
+{
+	"$schema": "schema.json",
+	"brokenContentPacks": [
+		{
+			"name": "2CUTE FarmCave",
+			"author": "taintedwheat",
+			"id": "taintedwheat.2CuteFarmCave",
+			"nexus": 843,
+			"github": null,
+
+			"contentPackFor": "Content Patcher",
+
+			"brokeIn": "Stardew Valley 1.3.36",
+			"unofficialUpdate": {
+				"version": "2.0.1-unofficial.1-opalie",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-64#post-3331098"
+			}
+		},
+		{
+			"name": "Adventurer's Guild Expanded",
+			"author": "SUPERT",
+			"id": "supert.adventureguildexpanded",
+			"nexus": 12102,
+			"github": null,
+
+			"contentPackFor": "Content Patcher",
+
+			"brokeIn": "Stardew Valley 1.6",
+			"unofficialUpdate": {
+				"version": "1.1.0-unofficial.2-femtohound",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/page-200#post-126783"
+			},
+			"summary": "use [unofficial update](https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/page-199#post-126783) or [Adventurer's Guild Expanded - Unofficial Update for 1.6](https://www.nexusmods.com/stardewvalley/mods/22591)."
+		},
+		{
+			"name": "Bathroom After 2nd House Upgrade",
+			"author": "DevilBro/Ursii98",
+			"id": "ursii98.BathroomAfter2ndHouseupgrade",
+			"nexus": 2578,
+			"github": null,
+
+			"contentPackFor": "Content Patcher",
+
+			"brokeIn": "Stardew Valley 1.4",
+			"unofficialUpdate": {
+				"version": "4.0.1-unofficial.2-minervamaga",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-4.156000/page-25#post-3354247"
+			}
+		},
+		{
+			"name": "Boogies Tidy Crafting, Tidy Crafting Menu", // manifest, Nexus
+			"author": "Boogie",
+			"id": "Boogie.Crafting",
+			"nexus": 7177,
+			"github": null,
+
+			"contentPackFor": "Content Patcher",
+
+			"summary": "broken (doesn't show new 1.6 crafting recipes).",
+			"brokeIn": "Stardew Valley 1.6"
+		},
+		{
+			"name": "Cuter Slimes",
+			"author": "Amaryn",
+			"id": "Amaryn.CuterSlimes",
+			"nexus": 6073,
+			"github": null,
+
+			"contentPackFor": "Content Patcher",
+
+			"brokeIn": "Stardew Valley 1.6",
+			"status": "workaround",
+			"summary": "use [Cuter Slimes Refreshed](https://www.nexusmods.com/stardewvalley/mods/21889) instead."
+		},
+		{
+			"name": "Don't Enable Pam",
+			"author": "Jonqora",
+			"id": "Jonqora.DontEnablePam",
+			"nexus": 6721,
+			"github": "Jonqora/StardewMods/tree/master/DontEnablePam",
+
+			"contentPackFor": "Content Patcher",
+
+			"brokeIn": "Stardew Valley 1.6",
+			"status": "workaround",
+			"summary": "use [No Pam Enabling](https://www.nexusmods.com/stardewvalley/mods/23080) instead."
+		},
+		{
+			"name": "Green Pastures Farm",
+			"author": "Bugbuddy",
+			"id": "bugbuddy.GreenPasturesFarm",
+			"nexus": 2326,
+			"github": null,
+
+			"contentPackFor": "Content Patcher",
+
+			"brokeIn": "Stardew Valley 1.3.36",
+			"unofficialUpdate": {
+				"version": "1.2.1-unofficial.1-pathoschild",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-3.142524/page-63#post-3330827"
+			}
+		},
+		{
+			"name": "Immersive Farm 2",
+			"author": "Zander",
+			"id": "zander.immersivefarm2",
+			"nexus": 1531,
+			"github": null,
+
+			"contentPackFor": "Content Patcher",
+
+			"brokeIn": "Stardew Valley 1.3.36",
+			"status": "workaround",
+			"summary": "use [Immersive Farm 2 Unofficial Update](https://www.nexusmods.com/stardewvalley/mods/3561) instead."
+		},
+		{
+			"name": "Immersive Spouses",
+			"author": "someguy363",
+			"id": "iss.immersivespouses",
+			"nexus": 5117,
+			"github": null,
+
+			"contentPackFor": "Content Patcher",
+
+			"brokeIn": "Stardew Valley 1.6",
+			"status": "workaround",
+			"summary": "use [Immersive Spouses 1.6](https://www.nexusmods.com/stardewvalley/mods/22538) instead."
+		},
+		{
+			"name": "Looking for Love",
+			"author": "sivolobwho and foggywizard",
+			"id": "foggy.LfL",
+			"nexus": 10206,
+			"github": null,
+
+			"contentPackFor": "Content Patcher",
+
+			"brokeIn": "Stardew Valley 1.6",
+			"status": "workaround",
+			"summary": "use [Looking For Love Redux](https://www.nexusmods.com/stardewvalley/mods/21370) instead."
+		},
+		{
+			"name": "Lumisteria Clumps and Nodes",
+			"author": "Lumisteria",
+			"id": "lumisteria.CON.NodesForClassicOres",
+			"nexus": 9256,
+			"github": null,
+
+			"contentPackFor": "Custom Ore Nodes",
+
+			"brokeIn": "Stardew Valley 1.6",
+			"status": "workaround",
+			"summary": "use [Lumisteria Glimmering Clumps and Nodes](https://www.nexusmods.com/stardewvalley/mods/21986) instead."
+		},
+		{
+			"name": "More Backpack Upgrades",
+			"author": "aedenthorn, Erinthe",
+			"id": "aedenthorn.CPMoreBackpacks",
+			"nexus": 13827,
+			"github": null,
+
+			"contentPackFor": "Content Patcher",
+
+			"brokeIn": "Stardew Valley 1.6",
+			"status": "workaround",
+			"summary": "use [The Return Of More Backpack Upgrades](https://www.nexusmods.com/stardewvalley/mods/21591) instead."
+		},
+		{
+			"name": "More Wedding Venues",
+			"author": "bigeyedkitteh",
+			"id": "bigeyedkitteh.moreweddingvenues",
+			"nexus": 16555,
+			"github": null,
+
+			"contentPackFor": "Content Patcher",
+
+			"brokeIn": "Stardew Valley 1.3",
+			"status": "workaround",
+			"summary": "use [Custom Wedding Ceremony](https://www.nexusmods.com/stardewvalley/mods/29885) instead."
+		},
+		{
+			"name": "Overgrown Fairy Buildings",
+			"author": "Ali Read/naeldeus",
+			"id": "naeldeus.OvergrownFairyBuildings",
+			"nexus": 4564,
+			"github": null,
+
+			"contentPackFor": "Content Patcher",
+
+			"brokeIn": "Stardew Valley 1.5",
+			"status": "workaround",
+			"summary": "use [unofficial update](https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-26846) instead." // doesn't use unofficial version convention
+		},
+		{
+			"name": "Quality Artisan Products",
+			"author": "Wingyl",
+			"id": "Wingyl.QualityArtisanProducts",
+			"moddrop": 707502,
+			"nexus": null,
+			"github": null,
+
+			"contentPackFor": "Content Patcher",
+
+			"brokeIn": "Stardew Valley 1.6",
+			"status": "workaround",
+			"summary": "use [Artisan Goods Keep Quality](#) instead."
+		},
+		{
+			"name": "Remove That Damn Rock",
+			"author": "Plutey/Androxilogin",
+			"id": "Androxilogin.RemoveThatDamnRock",
+			"nexus": 384,
+			"github": null,
+
+			"contentPackFor": "Content Patcher",
+
+			"brokeIn": "Stardew Valley 1.2",
+			"unofficialUpdate": {
+				"version": "1.1.1-unofficial.1-minervamaga",
+				"url": "https://community.playstarbound.com/threads/updating-mods-for-stardew-valley-1-4.156000/page-14#post-3353498"
+			}
+		},
+		{
+			"name": "Spacious Greenhouse",
+			"author": "mintgal",
+			"id": "mintgal.SpaciousGreenhouse",
+			"nexus": 4137,
+			"github": null,
+
+			"contentPackFor": "Content Patcher",
+
+			"brokeIn": "Stardew Valley 1.6",
+			"unofficialUpdate": {
+				"version": "1.2.1-unofficial",
+				"url": "https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/post-124427"
+			}
+		}
+	]
+}

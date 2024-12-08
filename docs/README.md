@@ -74,7 +74,7 @@ Before proposing changes, please be aware of these guidelines:
 ### Propose changes
 To update this list:
 
-1. Navigate to `data/data.jsonc` in the GitHub web UI.
+1. Navigate to `data/mods.jsonc` or `data/broken-content-packs.jsonc` in the GitHub web UI.
 2. Click the "Edit this file" icon in the top-right corner.
 3. Copy the text into a text editor like [Visual Studio Code][] that understands JSON schemas.
 4. Make any changes needed.
@@ -106,19 +106,24 @@ Here's how to validate the data locally if needed.
    echo "-------------"
    npm install
    npm run build
-   npm exec strip-json-comments-cli data/data.jsonc > compiled/data.json
+   npm exec strip-json-comments-cli data/mods.jsonc > compiled/mods.json
+   npm exec strip-json-comments-cli data/broken-content-packs.jsonc > compiled/broken-content-packs.json
    echo ""
 
    # validate JSON schema
-   echo "validating JSON schema..."
-   echo "-------------------------"
-   node compiled/validate-json-schema.js data/schema.json compiled/data.json
+   echo "validating JSON schema (mods)..."
+   echo "--------------------------------"
+   node compiled/validate-json-schema.js data/schema.json compiled/mods.json
+   echo ""
+   echo "validating JSON schema (broken content packs)..."
+   echo "------------------------------------------------"
+   node compiled/validate-json-schema.js data/schema.json compiled/broken-content-packs.json
    echo ""
 
-   # validate mod data
-   echo "validating mod data..."
-   echo "----------------------"
-   node compiled/validate-mod-data.js compiled/data.json
+   # validate data
+   echo "validating data..."
+   echo "-------------------------"
+   node compiled/validate-mod-data.js compiled/mods.json compiled/broken-content-packs.json
    ```
 
 [migration guides]: https://stardewvalleywiki.com/Modding:Index#Migration_guides
